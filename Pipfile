@@ -11,6 +11,7 @@ pandas = "*"
 scikit-learn = "*"
 notebook = "*"
 torch = "*"
+markdown = "*"
 
 [dev-packages]
 
