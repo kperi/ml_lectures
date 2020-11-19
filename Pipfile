@@ -12,6 +12,8 @@ scikit-learn = "*"
 notebook = "*"
 torch = "*"
 markdown = "*"
+seaborn = "*"
+pillow = "*"
 
 [dev-packages]
 

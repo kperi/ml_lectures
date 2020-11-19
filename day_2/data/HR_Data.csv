@@ -1,0 +1,1471 @@
+EmployeeID,Age,Gender,MaritalStatus,Education_Level,EducationField,BusinessTravel,Department,Commute,MonthlyIncome,MonthlyRate,DailyRate,HourlyRate,Grade,Role,Satisfaction,NumCompaniesWorked,OverTime,TotalExperienceYears,YearsInCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithLineManager,Attrition
+1,41,Female,Single,2,Social Sciences,rarely,Sales,1,5993,19479,1102,94,2,Sales Executive,4,8,Yes,8,6,4,0,5,Yes
+2,49,Male,Married,1,Social Sciences,frequently,Research & Development,8,5130,24907,279,61,2,Research Scientist,2,1,No,10,10,7,1,7,No
+4,37,Male,Single,2,Other,rarely,Research & Development,2,2090,2396,1373,92,1,Laboratory Technician,3,6,Yes,7,0,0,0,0,Yes
+5,33,Female,Married,4,Social Sciences,frequently,Research & Development,3,2909,23159,1392,56,1,Research Scientist,3,1,Yes,8,8,7,3,0,No
+7,27,Male,Married,1,Health Science,rarely,Research & Development,2,3468,16632,591,40,1,Laboratory Technician,2,9,No,6,2,2,2,2,No
+8,32,Male,Single,2,Social Sciences,frequently,Research & Development,2,3068,11864,1005,79,1,Laboratory Technician,4,0,No,8,7,7,3,6,No
+10,59,Female,Married,3,Health Science,rarely,Research & Development,3,2670,9964,1324,81,1,Laboratory Technician,1,4,Yes,12,1,0,0,0,No
+11,30,Male,Divorced,1,Social Sciences,rarely,Research & Development,24,2693,13335,1358,67,1,Laboratory Technician,3,1,No,1,1,0,0,0,No
+12,38,Male,Single,3,Social Sciences,frequently,Research & Development,23,9526,8787,216,44,3,Manufacturing Director,3,0,No,10,9,7,1,8,No
+13,36,Male,Married,3,Health Science,rarely,Research & Development,27,5237,16577,1299,94,2,Healthcare Representative,3,6,No,17,7,7,7,7,No
+14,35,Male,Married,3,Health Science,rarely,Research & Development,16,2426,16479,809,84,1,Laboratory Technician,2,0,No,6,5,4,0,3,No
+15,29,Female,Single,2,Social Sciences,rarely,Research & Development,15,4193,12682,153,49,2,Laboratory Technician,3,0,Yes,10,9,5,0,8,No
+16,31,Male,Divorced,1,Social Sciences,rarely,Research & Development,26,2911,15170,670,31,1,Research Scientist,3,1,No,5,5,2,4,3,No
+18,34,Male,Divorced,2,Health Science,rarely,Research & Development,19,2661,8758,1346,93,1,Laboratory Technician,4,0,No,3,2,2,1,2,No
+19,28,Male,Single,3,Social Sciences,rarely,Research & Development,24,2028,12947,103,50,1,Laboratory Technician,3,5,Yes,6,4,2,0,3,Yes
+20,29,Female,Divorced,4,Social Sciences,rarely,Research & Development,21,9980,10195,1389,51,3,Manufacturing Director,1,1,No,10,10,9,8,8,No
+21,32,Male,Divorced,2,Social Sciences,rarely,Research & Development,5,3298,15053,334,80,1,Research Scientist,2,0,Yes,7,6,2,0,5,No
+22,22,Male,Divorced,2,Health Science,none,Research & Development,16,2935,7324,1123,96,1,Laboratory Technician,4,1,Yes,1,1,0,0,0,No
+23,53,Female,Married,4,Social Sciences,rarely,Sales,2,15427,22021,1219,78,4,Manager,4,2,No,31,25,8,3,7,No
+24,38,Male,Single,3,Social Sciences,rarely,Research & Development,2,3944,4306,371,45,1,Research Scientist,4,5,Yes,6,3,2,1,2,No
+26,24,Female,Divorced,2,Other,none,Research & Development,11,4011,8232,673,96,2,Manufacturing Director,3,0,No,5,4,2,1,3,No
+27,36,Male,Single,4,Social Sciences,rarely,Sales,9,3407,6986,1218,82,1,Sales Representative,1,7,No,10,5,3,0,3,Yes
+28,34,Female,Single,4,Social Sciences,rarely,Research & Development,7,11994,21293,419,53,3,Research Director,2,0,No,13,12,6,2,11,No
+30,21,Male,Single,2,Social Sciences,rarely,Research & Development,15,1232,19281,391,96,1,Research Scientist,4,1,No,0,0,0,0,0,No
+31,34,Male,Single,1,Health Science,rarely,Research & Development,6,2960,17102,699,83,1,Research Scientist,1,2,No,8,4,2,1,3,Yes
+32,53,Female,Divorced,3,Other,rarely,Research & Development,5,19094,10735,1282,58,5,Manager,3,4,No,26,14,13,4,8,No
+33,32,Female,Single,1,Social Sciences,frequently,Research & Development,16,3919,4681,1125,72,1,Research Scientist,1,1,Yes,10,10,2,6,7,Yes
+35,42,Male,Married,4,Business,rarely,Sales,8,6825,21173,691,48,2,Sales Executive,2,0,No,10,9,7,4,2,No
+36,44,Female,Married,4,Health Science,rarely,Research & Development,7,10248,2094,477,42,3,Healthcare Representative,4,3,No,24,22,6,5,17,No
+38,46,Female,Single,4,Business,rarely,Sales,2,18947,22822,705,83,5,Manager,1,3,No,22,2,2,2,1,No
+39,33,Male,Single,3,Health Science,rarely,Research & Development,2,2496,6670,924,78,1,Laboratory Technician,4,4,No,7,1,1,0,0,No
+40,44,Male,Married,4,Other,rarely,Research & Development,10,6465,19121,1459,41,2,Healthcare Representative,4,2,Yes,9,4,2,1,3,No
+41,30,Male,Single,2,Health Science,rarely,Research & Development,9,2206,16117,125,83,1,Laboratory Technician,3,1,No,10,10,0,1,8,No
+42,39,Male,Married,3,Engineering,rarely,Sales,5,2086,3335,895,56,2,Sales Representative,4,3,No,19,1,0,0,0,Yes
+45,24,Male,Married,3,Health Science,rarely,Research & Development,1,2293,3020,813,61,1,Research Scientist,4,2,Yes,6,2,0,2,0,Yes
+46,43,Female,Divorced,2,Health Science,rarely,Research & Development,2,2645,21923,1273,72,1,Research Scientist,3,1,No,6,5,3,1,4,No
+47,50,Male,Married,2,Business,rarely,Sales,3,2683,3810,869,86,1,Sales Representative,3,1,Yes,3,3,2,0,2,Yes
+49,35,Female,Married,3,Business,rarely,Sales,2,2014,9687,890,97,1,Sales Representative,4,1,No,2,2,2,2,2,No
+51,36,Female,Married,4,Social Sciences,rarely,Research & Development,5,3419,13072,852,82,1,Research Scientist,1,9,Yes,6,1,1,0,0,No
+52,33,Female,Married,3,Social Sciences,frequently,Sales,1,5376,3193,1141,42,2,Sales Executive,1,2,No,10,5,3,1,3,No
+53,35,Male,Divorced,2,Other,rarely,Research & Development,4,1951,10910,464,75,1,Laboratory Technician,4,1,No,1,1,0,0,0,No
+54,27,Female,Divorced,4,Social Sciences,rarely,Research & Development,2,2341,19715,1240,33,1,Laboratory Technician,1,1,No,1,1,0,0,0,No
+55,26,Male,Single,3,Social Sciences,rarely,Research & Development,25,2293,10558,1357,48,1,Laboratory Technician,3,1,No,1,1,0,0,1,Yes
+56,27,Male,Single,3,Social Sciences,frequently,Sales,8,8726,2975,994,37,3,Sales Executive,3,1,No,9,9,8,1,7,No
+57,30,Female,Single,2,Health Science,frequently,Research & Development,1,4011,10781,721,58,2,Laboratory Technician,4,1,No,12,12,8,3,7,No
+58,41,Female,Married,3,Engineering,rarely,Research & Development,12,19545,16280,1360,49,5,Research Director,3,1,No,23,22,15,15,8,Yes
+60,34,Male,Single,4,Business,none,Sales,23,4568,10034,1065,72,2,Sales Executive,3,0,No,10,9,5,8,7,No
+61,37,Male,Married,2,Social Sciences,rarely,Research & Development,19,3022,10227,408,73,1,Research Scientist,2,4,No,8,1,0,0,0,No
+62,46,Male,Single,4,Business,frequently,Sales,5,5772,20445,1211,98,2,Sales Executive,4,4,Yes,14,9,6,0,8,No
+63,35,Male,Married,1,Social Sciences,rarely,Research & Development,8,2269,4892,1229,36,1,Laboratory Technician,4,1,No,1,1,0,0,1,No
+64,48,Male,Single,2,Social Sciences,rarely,Research & Development,1,5381,19294,626,98,3,Laboratory Technician,3,9,Yes,23,1,0,0,0,Yes
+65,28,Male,Single,4,Engineering,rarely,Research & Development,5,3441,11179,1434,50,1,Laboratory Technician,3,1,Yes,2,2,2,2,2,Yes
+68,44,Female,Divorced,5,Business,rarely,Sales,1,5454,4009,1488,75,2,Sales Executive,1,5,Yes,9,4,3,1,3,No
+70,35,Male,Married,2,Health Science,none,Research & Development,11,9884,8302,1097,79,3,Healthcare Representative,1,2,Yes,10,4,0,2,3,No
+72,26,Female,Married,3,Business,rarely,Sales,23,4157,21436,1443,47,2,Sales Executive,4,7,Yes,5,2,2,0,0,No
+73,33,Female,Single,2,Social Sciences,frequently,Research & Development,1,13458,15146,515,98,3,Research Director,4,1,Yes,15,15,14,8,12,No
+74,35,Male,Married,5,Social Sciences,frequently,Sales,18,9069,11031,853,71,3,Sales Executive,1,1,No,9,9,8,1,8,No
+75,35,Female,Married,4,Health Science,rarely,Research & Development,23,4014,16002,1142,30,1,Laboratory Technician,1,3,Yes,4,2,2,2,2,No
+76,31,Male,Divorced,4,Social Sciences,rarely,Research & Development,7,5915,9528,655,48,2,Laboratory Technician,4,3,No,10,7,7,1,7,No
+77,37,Male,Divorced,4,Social Sciences,rarely,Research & Development,1,5993,2689,1115,51,2,Manufacturing Director,3,1,No,7,7,5,0,7,No
+78,32,Male,Married,3,Health Science,rarely,Research & Development,1,6162,10877,427,33,2,Manufacturing Director,4,1,Yes,9,9,8,7,8,No
+79,38,Female,Single,5,Social Sciences,frequently,Research & Development,29,2406,5456,653,50,2,Laboratory Technician,4,1,No,10,10,3,9,9,No
+80,50,Female,Divorced,2,Health Science,rarely,Research & Development,7,18740,16701,989,43,5,Research Director,3,5,Yes,29,27,3,13,8,No
+81,59,Female,Single,3,Social Sciences,rarely,Sales,25,7637,2354,1435,99,3,Sales Executive,1,7,No,28,21,16,7,9,No
+83,36,Female,Divorced,3,Engineering,rarely,Research & Development,8,10096,8202,1223,59,3,Healthcare Representative,3,1,No,17,17,14,12,8,No
+84,55,Female,Divorced,3,Health Science,rarely,Research & Development,8,14756,19730,836,33,4,Manager,3,2,Yes,21,5,0,0,2,No
+85,36,Male,Single,3,Social Sciences,frequently,Research & Development,11,6499,22656,1195,95,2,Manufacturing Director,2,1,No,6,6,5,0,3,No
+86,45,Male,Divorced,3,Social Sciences,rarely,Research & Development,7,9724,18787,1339,59,3,Research Scientist,1,2,No,25,1,0,0,0,No
+88,35,Male,Married,3,Health Science,frequently,Research & Development,1,2194,5868,664,79,1,Research Scientist,1,4,No,5,3,2,1,2,No
+90,36,Male,Married,3,Health Science,rarely,Research & Development,9,3388,21777,318,79,1,Research Scientist,3,0,Yes,2,1,0,0,0,Yes
+91,59,Female,Single,1,Social Sciences,frequently,Sales,1,5473,24668,1225,57,2,Sales Executive,3,7,No,20,4,3,1,3,No
+94,29,Male,Married,3,Social Sciences,rarely,Research & Development,2,2703,4956,1328,76,1,Research Scientist,2,0,No,6,5,4,0,4,No
+95,31,Male,Single,4,Health Science,rarely,Research & Development,1,2501,18775,1082,87,1,Research Scientist,2,1,No,1,1,1,1,0,No
+96,32,Male,Married,3,Social Sciences,rarely,Research & Development,1,6220,7346,548,66,2,Research Scientist,2,1,No,10,10,4,0,9,No
+97,36,Female,Married,3,Social Sciences,rarely,Research & Development,6,3038,22002,132,55,1,Laboratory Technician,4,3,No,5,1,0,0,0,No
+98,31,Female,Single,4,Social Sciences,rarely,Research & Development,8,4424,20682,746,61,2,Manufacturing Director,4,1,No,11,11,7,1,8,No
+100,35,Male,Single,4,Business,rarely,Sales,1,4312,23016,776,32,2,Sales Executive,1,0,No,16,15,13,2,8,No
+101,45,Male,Married,4,Other,rarely,Research & Development,6,13245,15067,193,52,3,Research Director,1,4,Yes,17,0,0,0,0,No
+102,37,Male,Single,4,Health Science,rarely,Research & Development,7,13664,25258,397,30,3,Research Director,3,4,No,16,5,2,0,2,No
+103,46,Male,Divorced,2,Health Science,rarely,Human Resources,5,5021,10425,945,80,2,Human Resources,2,8,Yes,16,4,2,0,2,No
+104,30,Male,Married,1,Social Sciences,rarely,Research & Development,1,5126,15998,852,55,2,Laboratory Technician,4,1,Yes,10,10,8,3,0,No
+105,35,Male,Single,3,Health Science,rarely,Research & Development,1,2859,26278,1214,30,1,Research Scientist,3,1,No,6,6,4,0,4,No
+106,55,Male,Married,2,Social Sciences,rarely,Sales,1,10239,18092,111,70,3,Sales Executive,4,3,No,24,1,0,1,0,No
+107,38,Female,Divorced,3,Health Science,none,Research & Development,6,5329,15717,573,79,2,Research Scientist,4,7,Yes,17,13,11,1,9,No
+110,34,Male,Married,2,Health Science,rarely,Research & Development,1,4325,17736,1153,94,2,Manufacturing Director,2,1,No,5,5,2,1,3,No
+112,56,Male,Single,3,Social Sciences,rarely,Research & Development,7,7260,21698,1400,49,3,Manufacturing Director,4,4,No,37,6,4,0,2,No
+113,23,Male,Divorced,1,Engineering,rarely,Sales,2,2322,9518,541,62,1,Sales Representative,1,3,No,3,0,0,0,0,No
+116,51,Male,Married,4,Social Sciences,rarely,Research & Development,9,2075,18725,432,96,1,Laboratory Technician,4,3,No,10,4,2,0,3,No
+117,30,Male,Married,3,Social Sciences,rarely,Research & Development,2,4152,15830,288,99,2,Healthcare Representative,4,1,No,11,11,10,10,8,No
+118,46,Male,Single,2,Health Science,rarely,Sales,9,9619,13596,669,64,3,Sales Executive,4,1,No,9,9,8,4,7,Yes
+119,40,Male,Married,4,Social Sciences,frequently,Research & Development,1,13503,14115,530,78,4,Healthcare Representative,2,1,No,22,22,3,11,11,No
+120,51,Male,Single,4,Business,rarely,Sales,21,5441,8423,632,71,2,Sales Executive,4,0,Yes,11,10,7,1,0,No
+121,30,Female,Divorced,2,Health Science,rarely,Sales,4,5209,19760,1334,63,2,Sales Executive,2,1,Yes,11,11,8,2,7,No
+124,46,Male,Married,3,Health Science,frequently,Research & Development,1,10673,3142,638,40,3,Healthcare Representative,1,2,Yes,21,10,9,9,5,No
+125,32,Male,Single,4,Health Science,rarely,Sales,6,5010,24301,1093,87,2,Sales Executive,3,1,No,12,11,8,5,7,No
+126,54,Female,Married,4,Engineering,rarely,Research & Development,2,13549,24001,1217,60,3,Research Director,3,9,No,16,4,3,0,3,No
+128,24,Female,Married,2,Other,rarely,Sales,3,4999,17519,1353,33,2,Sales Executive,3,0,No,4,3,2,0,2,No
+129,28,Male,Married,3,Health Science,none,Sales,4,4221,8863,120,43,2,Sales Executive,3,1,No,5,5,4,0,4,No
+131,58,Male,Single,4,Health Science,rarely,Sales,10,13872,24409,682,37,4,Sales Executive,3,0,No,38,37,10,1,8,No
+132,44,Male,Married,3,Health Science,none,Research & Development,23,2042,25043,489,67,2,Laboratory Technician,2,4,No,17,3,2,1,2,No
+133,37,Male,Divorced,4,Human Resources,rarely,Human Resources,6,2073,23648,807,63,1,Human Resources,1,4,Yes,7,3,2,0,2,Yes
+134,32,Male,Single,1,Social Sciences,rarely,Research & Development,1,2956,15178,827,71,1,Research Scientist,1,1,No,1,1,0,0,0,No
+137,20,Female,Single,3,Social Sciences,frequently,Research & Development,6,2926,19783,871,66,1,Laboratory Technician,4,1,Yes,1,1,0,1,0,Yes
+138,34,Female,Single,4,Other,rarely,Research & Development,6,4809,12482,665,41,2,Research Scientist,3,1,No,16,16,13,2,10,No
+139,37,Male,Divorced,2,Social Sciences,none,Research & Development,2,5163,15850,1040,100,2,Healthcare Representative,4,5,No,17,1,0,0,0,No
+140,59,Female,Married,4,Human Resources,none,Human Resources,2,18844,21922,1420,32,5,Manager,4,9,No,30,3,2,2,2,No
+141,50,Female,Married,3,Social Sciences,frequently,Research & Development,1,18172,9755,1115,73,5,Research Director,2,3,Yes,28,8,3,0,7,No
+142,25,Male,Single,3,Business,rarely,Sales,5,5744,26959,240,46,2,Sales Executive,3,1,Yes,6,6,4,0,3,Yes
+143,25,Male,Married,1,Health Science,rarely,Research & Development,7,2889,26897,1280,64,1,Research Scientist,4,1,No,2,2,2,2,1,No
+144,22,Female,Single,3,Health Science,rarely,Research & Development,15,2871,23785,534,59,1,Laboratory Technician,4,1,No,1,0,0,0,0,No
+145,51,Female,Single,4,Health Science,frequently,Research & Development,1,7484,25796,1456,30,3,Healthcare Representative,1,3,No,23,13,12,12,8,No
+147,34,Male,Single,3,Social Sciences,frequently,Research & Development,7,6074,22887,658,66,2,Laboratory Technician,3,1,Yes,9,9,7,0,6,Yes
+148,54,Female,Single,3,Human Resources,none,Human Resources,26,17328,13871,142,30,4,Manager,4,2,Yes,23,5,3,4,4,No
+150,24,Male,Married,1,Social Sciences,rarely,Research & Development,18,2774,13257,1127,52,1,Laboratory Technician,3,0,No,6,5,3,1,2,No
+151,34,Female,Divorced,4,Social Sciences,rarely,Research & Development,6,4505,15000,1031,45,2,Research Scientist,2,6,No,12,1,0,0,0,No
+152,37,Male,Single,3,Social Sciences,rarely,Sales,3,7428,14506,1189,87,3,Sales Executive,4,2,No,12,5,3,1,3,No
+153,34,Female,Single,3,Health Science,rarely,Research & Development,5,11631,5615,1354,45,3,Manager,1,2,No,14,11,10,5,8,No
+154,36,Female,Married,2,Engineering,frequently,Sales,11,9738,22952,1467,92,3,Sales Executive,4,0,No,10,9,7,2,8,No
+155,36,Female,Divorced,2,Social Sciences,rarely,Research & Development,3,2835,2561,922,39,1,Laboratory Technician,4,5,No,7,1,0,0,0,No
+158,43,Male,Married,2,Social Sciences,frequently,Sales,26,16959,19494,394,92,4,Manager,4,1,Yes,25,25,12,4,12,No
+159,30,Male,Divorced,3,Social Sciences,frequently,Research & Development,23,2613,22310,1312,96,1,Research Scientist,3,1,No,10,10,7,0,9,No
+160,33,Male,Married,2,Business,none,Sales,22,6146,15480,750,95,2,Sales Executive,2,0,No,8,7,7,0,7,No
+161,56,Female,Married,4,Social Sciences,rarely,Research & Development,14,4963,4510,441,72,1,Research Scientist,2,9,Yes,7,5,4,4,3,Yes
+162,51,Male,Single,3,Social Sciences,rarely,Research & Development,6,19537,6462,684,51,5,Research Director,3,7,No,23,20,18,15,15,No
+163,31,Male,Married,4,Social Sciences,rarely,Sales,6,6172,20739,249,76,2,Sales Executive,3,4,Yes,12,7,7,7,7,Yes
+164,26,Female,Married,3,Other,rarely,Research & Development,6,2368,23300,841,46,1,Research Scientist,2,1,No,5,5,4,4,3,No
+165,58,Female,Married,4,Health Science,rarely,Research & Development,23,10312,3465,147,94,3,Healthcare Representative,4,1,No,40,40,10,15,6,Yes
+167,19,Male,Single,1,Business,rarely,Sales,22,1675,26820,528,50,1,Sales Representative,3,1,Yes,0,0,0,0,0,Yes
+169,22,Male,Married,1,Engineering,rarely,Research & Development,2,2523,19299,594,100,1,Laboratory Technician,4,0,No,3,2,1,2,1,No
+170,49,Female,Married,4,Health Science,rarely,Research & Development,20,6567,5549,470,96,2,Manufacturing Director,1,1,No,16,15,11,5,11,No
+171,43,Female,Single,3,Health Science,frequently,Research & Development,28,4739,16090,957,72,1,Research Scientist,3,4,No,18,3,2,1,2,No
+174,50,Female,Single,3,Business,frequently,Sales,12,9208,6645,809,77,3,Sales Executive,4,4,No,16,2,2,2,1,No
+175,31,Female,Married,3,Social Sciences,rarely,Sales,20,4559,24788,542,71,2,Sales Executive,3,3,Yes,4,2,2,2,2,Yes
+176,41,Male,Divorced,1,Social Sciences,rarely,Sales,9,8189,21196,802,96,3,Sales Executive,3,3,Yes,12,9,7,0,7,No
+177,26,Female,Married,1,Social Sciences,rarely,Human Resources,25,2942,8916,1355,61,1,Human Resources,3,1,No,8,8,7,5,7,No
+178,36,Male,Divorced,2,Health Science,rarely,Research & Development,6,4941,2819,216,84,2,Manufacturing Director,2,6,No,7,3,2,0,1,No
+179,51,Male,Single,4,Social Sciences,frequently,Research & Development,8,10650,25150,1150,53,3,Manufacturing Director,4,2,No,18,4,2,0,3,Yes
+182,39,Female,Married,4,Social Sciences,rarely,Sales,4,5902,14590,1329,47,2,Sales Executive,3,4,No,17,15,11,5,9,No
+183,25,Male,Married,3,Social Sciences,rarely,Sales,28,8639,24835,959,41,2,Sales Executive,3,2,No,6,2,2,2,2,No
+184,30,Male,Married,3,Human Resources,rarely,Human Resources,9,6347,13982,1240,48,2,Human Resources,4,0,Yes,12,11,9,4,7,No
+190,32,Female,Single,3,Health Science,rarely,Research & Development,9,4200,10224,1033,41,1,Laboratory Technician,1,7,No,10,5,4,0,4,Yes
+192,45,Male,Single,3,Health Science,rarely,Research & Development,29,3452,9752,1316,83,1,Research Scientist,4,5,No,9,6,5,0,3,No
+193,38,Female,Single,5,Engineering,rarely,Research & Development,3,4317,2302,364,32,2,Research Scientist,3,3,Yes,19,3,2,2,2,No
+194,30,Female,Single,3,Social Sciences,rarely,Research & Development,18,2632,23910,438,75,1,Research Scientist,3,1,No,5,5,4,0,4,No
+195,32,Male,Divorced,2,Health Science,frequently,Sales,9,4668,22812,689,35,2,Sales Executive,4,0,No,9,8,7,0,7,No
+197,30,Female,Divorced,3,Engineering,rarely,Research & Development,5,3204,10415,201,84,1,Research Scientist,1,5,No,8,3,2,2,2,No
+198,30,Male,Single,1,Health Science,rarely,Research & Development,2,2720,11162,1427,35,1,Laboratory Technician,4,0,No,6,5,3,1,2,No
+199,41,Male,Divorced,3,Social Sciences,frequently,Research & Development,10,17181,12888,857,91,4,Manager,1,4,No,21,7,6,7,7,No
+200,41,Male,Married,4,Social Sciences,rarely,Research & Development,9,2238,6961,933,94,1,Laboratory Technician,1,2,No,7,5,0,1,4,No
+201,19,Female,Single,1,Health Science,rarely,Research & Development,3,1483,16102,1181,79,1,Laboratory Technician,2,1,No,1,1,0,0,0,No
+202,40,Female,Divorced,3,Health Science,frequently,Research & Development,26,5605,8504,1395,54,2,Research Scientist,2,1,No,20,20,7,2,13,No
+204,35,Male,Married,5,Business,rarely,Sales,1,7295,11439,662,94,3,Sales Executive,2,1,No,10,10,8,0,6,No
+205,53,Male,Married,2,Business,rarely,Sales,6,2306,16047,1436,34,2,Sales Representative,3,2,Yes,13,7,7,4,5,No
+206,45,Male,Divorced,3,Social Sciences,rarely,Research & Development,9,2348,10901,194,60,2,Laboratory Technician,2,8,No,20,17,9,0,15,No
+207,32,Female,Single,3,Business,frequently,Sales,8,8998,15589,967,43,3,Sales Executive,4,1,No,9,9,8,3,7,No
+208,29,Male,Married,1,Engineering,none,Research & Development,1,4319,26283,1496,41,2,Manufacturing Director,3,1,No,10,10,7,0,9,No
+211,51,Male,Married,4,Health Science,rarely,Research & Development,7,6132,13983,1169,34,2,Manufacturing Director,3,2,No,10,1,0,0,0,No
+214,58,Female,Married,3,Health Science,rarely,Research & Development,9,3346,11873,1145,75,1,Research Scientist,2,4,Yes,9,1,0,0,0,No
+215,40,Male,Married,4,Business,rarely,Sales,4,10855,8552,630,67,3,Sales Executive,4,7,No,15,12,11,2,11,No
+216,34,Female,Married,4,Business,frequently,Sales,2,2231,11314,303,75,1,Sales Representative,3,6,No,6,4,3,1,2,No
+217,22,Male,Married,1,Health Science,rarely,Research & Development,19,2323,11992,1256,80,1,Research Scientist,4,1,No,2,2,2,2,2,No
+218,27,Male,Divorced,3,Health Science,none,Research & Development,9,2024,5970,691,57,1,Research Scientist,2,6,No,6,2,2,2,2,No
+221,28,Male,Married,3,Health Science,rarely,Research & Development,21,2713,6672,440,42,1,Research Scientist,4,1,No,5,5,2,0,2,No
+223,57,Male,Divorced,2,Social Sciences,rarely,Research & Development,24,9439,23402,334,83,3,Healthcare Representative,4,3,Yes,12,5,3,1,4,No
+224,27,Male,Divorced,3,Health Science,none,Research & Development,3,2566,25326,1450,79,1,Research Scientist,3,1,Yes,1,1,1,0,1,No
+226,50,Female,Single,3,Social Sciences,rarely,Research & Development,11,19926,17053,1452,53,5,Manager,2,3,No,21,5,4,4,4,No
+227,41,Male,Divorced,3,Social Sciences,rarely,Research & Development,14,2451,4609,465,56,1,Research Scientist,3,4,No,13,9,8,1,8,No
+228,30,Female,Married,3,Social Sciences,rarely,Sales,5,9419,8053,1339,41,3,Sales Executive,4,2,No,12,10,9,7,4,No
+230,38,Female,Single,4,Social Sciences,rarely,Sales,1,8686,12930,702,59,2,Sales Executive,4,4,No,12,8,3,0,7,No
+231,32,Male,Single,5,Social Sciences,rarely,Research & Development,6,3038,12430,120,43,1,Research Scientist,3,3,No,8,5,4,1,4,No
+233,27,Male,Married,3,Engineering,rarely,Research & Development,17,3058,13364,1157,51,1,Research Scientist,2,0,Yes,6,5,2,1,1,No
+235,19,Female,Single,1,Engineering,frequently,Sales,1,2325,20989,602,100,1,Sales Representative,1,0,No,1,0,0,0,0,Yes
+238,36,Male,Single,2,Health Science,frequently,Research & Development,3,2088,15062,1480,30,1,Laboratory Technician,2,4,No,13,8,7,7,2,No
+239,30,Male,Divorced,3,Health Science,none,Research & Development,9,3072,11012,111,66,2,Laboratory Technician,1,1,No,12,12,9,6,10,No
+240,45,Female,Divorced,2,Social Sciences,rarely,Sales,4,5006,6319,1268,30,2,Sales Executive,1,4,Yes,9,5,4,0,3,No
+241,56,Female,Divorced,3,Social Sciences,rarely,Research & Development,8,4257,13939,713,67,1,Research Scientist,1,4,Yes,19,2,2,2,2,No
+242,33,Male,Single,3,Social Sciences,rarely,Research & Development,2,2500,10515,134,90,1,Research Scientist,4,0,No,4,3,1,0,2,No
+243,19,Male,Single,3,Social Sciences,rarely,Research & Development,2,1102,9241,303,47,1,Laboratory Technician,4,1,No,1,1,0,1,0,Yes
+244,46,Female,Divorced,2,Business,rarely,Sales,1,10453,2137,526,92,3,Sales Executive,1,1,No,24,24,13,15,7,No
+245,38,Female,Single,2,Social Sciences,rarely,Research & Development,9,2288,6319,1380,75,1,Laboratory Technician,4,1,No,2,2,2,2,1,No
+246,31,Female,Married,1,Health Science,rarely,Research & Development,12,3929,6984,140,95,1,Research Scientist,4,8,Yes,7,4,2,0,2,No
+247,34,Female,Single,2,Health Science,rarely,Research & Development,27,2311,5711,629,95,1,Research Scientist,2,2,No,9,3,2,1,2,No
+248,41,Female,Single,2,Business,rarely,Sales,20,3140,21728,1356,70,1,Sales Representative,2,1,Yes,4,4,3,0,2,Yes
+249,50,Male,Married,3,Health Science,rarely,Research & Development,1,3690,3425,328,86,1,Laboratory Technician,3,2,No,5,3,2,0,2,No
+250,53,Female,Divorced,2,Health Science,rarely,Research & Development,13,4450,26250,1084,57,2,Manufacturing Director,1,1,No,5,4,2,1,3,No
+252,33,Female,Married,3,Health Science,rarely,Research & Development,14,2756,4673,931,72,1,Research Scientist,2,1,No,8,8,7,1,6,No
+253,40,Female,Married,1,Health Science,rarely,Research & Development,4,19033,6499,989,46,5,Manager,3,1,No,21,20,8,9,9,No
+254,55,Male,Single,4,Health Science,rarely,Research & Development,14,18722,13339,692,61,5,Research Director,2,8,No,36,24,15,2,15,No
+256,34,Male,Married,1,Social Sciences,frequently,Research & Development,2,9547,14074,1069,45,2,Manufacturing Director,3,1,No,10,10,9,1,9,No
+258,51,Female,Single,3,Health Science,rarely,Research & Development,3,13734,7192,313,98,4,Healthcare Representative,2,3,No,21,7,7,1,0,No
+259,52,Male,Married,4,Social Sciences,rarely,Research & Development,1,19999,5678,699,65,5,Manager,3,0,No,34,33,18,11,9,No
+260,27,Female,Single,3,Health Science,rarely,Research & Development,9,2279,11781,894,99,1,Research Scientist,2,1,No,7,7,7,0,3,No
+261,35,Male,Married,2,Social Sciences,rarely,Research & Development,23,5916,15497,556,50,2,Manufacturing Director,3,3,Yes,8,1,0,0,1,Yes
+262,43,Male,Divorced,3,Health Science,none,Research & Development,7,2089,5228,1344,37,1,Research Scientist,4,4,No,7,5,4,2,2,No
+264,45,Male,Married,2,Health Science,none,Research & Development,2,16792,20462,1195,65,4,Manager,4,9,No,22,20,8,11,8,No
+267,37,Male,Married,3,Social Sciences,rarely,Research & Development,21,3564,22977,290,65,1,Research Scientist,1,1,Yes,8,8,7,1,7,No
+269,35,Female,Single,3,Health Science,frequently,Research & Development,2,4425,15986,138,37,2,Laboratory Technician,2,5,No,10,6,2,1,2,No
+270,42,Female,Divorced,2,Health Science,none,Research & Development,21,5265,16439,926,36,2,Manufacturing Director,3,2,No,11,5,3,0,2,No
+271,38,Male,Married,4,Social Sciences,rarely,Research & Development,2,6553,7259,1261,88,2,Manufacturing Director,3,9,No,14,1,0,0,0,No
+273,38,Male,Married,3,Engineering,rarely,Research & Development,29,6261,4185,1084,54,2,Manufacturing Director,4,3,No,9,7,7,1,7,No
+274,27,Male,Married,1,Engineering,frequently,Research & Development,1,4298,9679,472,60,2,Manufacturing Director,1,5,No,6,2,2,2,0,No
+275,49,Male,Divorced,4,Social Sciences,none,Research & Development,18,6804,23793,1002,92,2,Manufacturing Director,4,1,Yes,7,7,7,1,7,No
+277,34,Male,Divorced,4,Health Science,frequently,Research & Development,10,3815,5972,878,43,1,Research Scientist,3,1,Yes,5,5,3,2,0,No
+281,40,Male,Married,2,Health Science,rarely,Research & Development,19,2741,16523,905,99,2,Laboratory Technician,4,8,Yes,15,7,2,3,7,No
+282,38,Male,Married,1,Health Science,rarely,Research & Development,29,6673,11354,1180,70,2,Healthcare Representative,1,7,Yes,17,1,0,0,0,Yes
+283,29,Female,Married,3,Business,rarely,Sales,27,7639,24525,121,35,3,Sales Executive,4,1,No,10,10,4,1,9,Yes
+284,22,Male,Divorced,3,Social Sciences,rarely,Research & Development,5,2328,12392,1136,60,1,Research Scientist,2,1,Yes,4,4,2,2,2,No
+286,36,Female,Single,1,Health Science,frequently,Research & Development,18,2153,7703,635,73,1,Laboratory Technician,4,1,No,8,8,1,1,7,No
+287,40,Male,Married,5,Social Sciences,none,Research & Development,9,4876,14242,1151,63,2,Healthcare Representative,4,9,No,5,3,2,0,2,No
+288,46,Male,Divorced,4,Health Science,rarely,Research & Development,1,9396,12368,644,97,3,Healthcare Representative,1,7,No,17,4,2,0,3,No
+291,32,Male,Married,4,Health Science,rarely,Sales,4,10400,25812,1045,32,3,Sales Executive,4,1,No,14,14,8,9,8,Yes
+292,30,Male,Single,1,Social Sciences,none,Research & Development,1,8474,20925,829,88,3,Manufacturing Director,3,1,No,12,11,8,5,8,No
+293,27,Female,Single,3,Social Sciences,frequently,Sales,20,9981,12916,1242,90,2,Sales Executive,3,1,No,7,7,7,0,7,No
+296,51,Male,Married,4,Social Sciences,rarely,Research & Development,8,12490,15736,1469,81,3,Research Director,2,5,No,16,10,9,4,7,No
+297,30,Female,Single,3,Engineering,rarely,Research & Development,3,2657,8556,1005,88,1,Research Scientist,1,5,Yes,8,5,2,0,4,Yes
+298,41,Female,Single,3,Social Sciences,rarely,Sales,6,13591,14674,896,75,3,Manager,4,3,Yes,16,1,0,0,0,No
+299,30,Female,Single,4,Business,frequently,Sales,26,6696,22967,334,52,2,Sales Executive,1,5,No,9,6,3,0,1,Yes
+300,29,Male,Single,3,Engineering,rarely,Research & Development,1,2058,19757,992,85,1,Research Scientist,3,0,No,7,6,2,1,5,Yes
+302,45,Female,Single,3,Health Science,none,Sales,6,8865,16840,1052,57,3,Sales Executive,4,6,No,23,19,7,12,8,No
+303,54,Female,Married,3,Business,rarely,Sales,3,5940,17011,1147,52,2,Sales Executive,1,2,No,16,6,2,0,5,No
+304,36,Male,Single,2,Social Sciences,rarely,Research & Development,5,5914,9945,1396,62,2,Laboratory Technician,2,8,No,16,13,11,3,7,No
+305,33,Female,Married,4,Health Science,rarely,Research & Development,4,2622,13248,147,47,1,Research Scientist,2,6,No,7,3,2,1,1,No
+306,37,Male,Divorced,3,Other,frequently,Research & Development,11,12185,10056,663,47,3,Research Director,4,1,Yes,10,10,8,0,7,No
+307,38,Male,Divorced,3,Social Sciences,rarely,Sales,3,10609,9647,119,76,3,Sales Executive,3,0,No,17,16,10,5,13,No
+308,31,Male,Married,4,Health Science,none,Research & Development,1,4345,4381,979,90,2,Manufacturing Director,3,0,No,6,5,4,1,4,No
+309,59,Male,Married,3,Social Sciences,rarely,Research & Development,3,2177,8456,142,70,1,Research Scientist,4,3,No,7,1,0,0,0,No
+311,37,Male,Divorced,4,Business,frequently,Sales,4,2793,2539,319,41,1,Sales Representative,4,4,No,13,9,8,5,8,No
+312,29,Female,Married,1,Health Science,frequently,Sales,1,7918,6599,1413,42,3,Sales Executive,4,1,No,11,11,10,4,1,No
+314,35,Female,Single,3,Business,frequently,Sales,1,8789,9096,944,92,3,Sales Executive,3,1,No,10,10,7,0,8,No
+315,29,Male,Single,1,Health Science,rarely,Research & Development,18,2389,14961,896,86,1,Research Scientist,4,1,Yes,4,4,3,0,1,Yes
+316,52,Female,Single,3,Social Sciences,rarely,Research & Development,2,3212,3300,1323,89,1,Laboratory Technician,4,7,No,6,2,2,2,2,No
+319,42,Male,Married,2,Engineering,rarely,Research & Development,4,19232,4933,532,58,5,Manager,4,1,No,22,22,17,11,15,No
+321,59,Male,Married,2,Health Science,rarely,Human Resources,6,2267,25657,818,52,1,Human Resources,3,8,No,7,2,2,2,2,No
+323,50,Female,Divorced,4,Health Science,rarely,Sales,1,19517,24118,854,68,5,Manager,4,3,No,32,7,0,0,6,No
+325,33,Male,Married,3,Health Science,rarely,Research & Development,14,2436,22149,813,58,1,Laboratory Technician,4,5,Yes,8,5,4,0,4,Yes
+327,43,Female,Married,3,Business,rarely,Sales,16,16064,7744,1034,80,4,Manager,4,5,Yes,22,17,13,1,9,No
+328,33,Female,Married,2,Social Sciences,rarely,Research & Development,2,2707,21509,465,39,1,Laboratory Technician,1,7,No,13,9,7,1,7,Yes
+329,52,Male,Single,4,Social Sciences,none,Sales,2,19068,21030,771,79,5,Manager,3,1,Yes,33,33,7,15,12,No
+330,32,Female,Married,2,Social Sciences,rarely,Sales,4,3931,20990,1401,56,1,Sales Representative,2,2,No,6,4,3,1,2,No
+331,32,Male,Single,3,Social Sciences,rarely,Research & Development,1,3730,9571,515,62,1,Laboratory Technician,3,0,Yes,4,3,2,1,2,Yes
+332,39,Female,Divorced,4,Health Science,rarely,Research & Development,1,2232,15417,1431,96,1,Laboratory Technician,3,7,No,7,3,2,1,2,No
+333,32,Male,Married,4,Business,none,Sales,26,4465,12069,976,100,2,Sales Executive,4,0,No,4,3,2,2,2,No
+334,41,Male,Divorced,2,Social Sciences,rarely,Research & Development,19,3072,19877,1411,36,2,Research Scientist,1,2,No,17,1,0,0,0,No
+335,40,Male,Divorced,2,Engineering,rarely,Research & Development,24,3319,24447,1300,62,2,Research Scientist,4,1,No,9,9,8,4,7,No
+336,45,Male,Married,3,Other,rarely,Research & Development,1,19202,15970,252,70,5,Manager,4,0,No,25,24,0,1,7,No
+337,31,Male,Divorced,4,Health Science,frequently,Research & Development,3,13675,13523,1327,73,3,Research Director,3,9,No,9,2,2,2,2,No
+338,33,Female,Married,4,Social Sciences,rarely,Research & Development,5,2911,14776,832,63,1,Research Scientist,4,1,No,2,2,2,0,2,No
+339,34,Male,Married,4,Social Sciences,rarely,Research & Development,2,5957,23687,470,84,2,Manufacturing Director,1,6,No,13,11,9,5,9,No
+340,37,Female,Married,2,Health Science,rarely,Research & Development,1,3920,18697,1017,83,1,Research Scientist,1,2,No,17,3,1,0,2,No
+341,45,Male,Married,4,Social Sciences,frequently,Research & Development,7,6434,5118,1199,77,2,Manufacturing Director,3,4,No,9,3,2,0,2,No
+342,37,Male,Divorced,3,Health Science,frequently,Research & Development,10,10048,22573,504,61,3,Manufacturing Director,3,6,No,17,1,0,0,0,Yes
+343,39,Female,Single,4,Engineering,frequently,Research & Development,2,10938,6420,505,64,3,Healthcare Representative,3,0,No,20,19,6,11,8,No
+346,29,Male,Single,3,Social Sciences,rarely,Research & Development,15,2340,22673,665,60,1,Research Scientist,4,1,No,6,6,5,1,5,No
+347,42,Female,Single,2,Social Sciences,rarely,Research & Development,17,6545,23016,916,82,2,Research Scientist,1,3,Yes,10,3,2,0,2,No
+349,29,Male,Divorced,2,Business,rarely,Sales,20,6931,10732,1247,45,2,Sales Executive,4,2,No,10,3,2,0,2,No
+350,25,Female,Married,3,Social Sciences,rarely,Research & Development,1,4898,7505,685,62,2,Manufacturing Director,3,0,No,5,4,2,1,2,No
+351,42,Female,Divorced,3,Health Science,rarely,Research & Development,2,2593,8007,269,56,1,Laboratory Technician,1,0,Yes,10,9,6,7,8,No
+352,40,Male,Divorced,2,Health Science,rarely,Research & Development,2,19436,5949,1416,49,5,Research Director,3,0,No,22,21,7,3,9,No
+353,51,Male,Married,3,Social Sciences,rarely,Research & Development,1,2723,23231,833,96,1,Research Scientist,4,1,No,1,1,0,0,0,No
+355,31,Male,Single,2,Health Science,frequently,Research & Development,29,3479,11652,307,71,1,Laboratory Technician,2,0,No,6,5,4,1,4,Yes
+359,32,Male,Married,3,Social Sciences,frequently,Research & Development,7,2794,26062,1311,100,1,Laboratory Technician,2,1,No,5,5,1,0,3,No
+361,38,Male,Married,2,Social Sciences,none,Sales,2,5249,19682,1327,39,2,Sales Executive,4,3,No,13,8,7,7,5,No
+362,32,Male,Single,1,Engineering,rarely,Research & Development,2,2176,19737,128,84,2,Laboratory Technician,1,4,No,9,6,2,0,4,No
+363,46,Female,Married,3,Engineering,rarely,Sales,2,16872,14977,488,75,4,Manager,2,3,Yes,28,7,7,7,7,No
+364,28,Male,Single,4,Social Sciences,rarely,Research & Development,2,3485,14935,529,79,1,Laboratory Technician,3,2,No,5,0,0,0,0,Yes
+366,29,Male,Married,3,Health Science,rarely,Sales,2,6644,3687,1210,78,2,Sales Executive,2,2,No,10,0,0,0,0,No
+367,31,Male,Married,3,Health Science,rarely,Research & Development,23,5582,14408,1463,64,2,Healthcare Representative,4,0,No,10,9,0,7,8,No
+369,25,Male,Divorced,2,Social Sciences,none,Research & Development,5,4000,18384,675,85,2,Healthcare Representative,1,1,No,6,6,3,1,5,No
+372,45,Male,Married,2,Health Science,rarely,Research & Development,20,13496,7501,1385,79,4,Healthcare Representative,4,0,Yes,21,20,7,4,10,No
+373,36,Male,Married,3,Social Sciences,rarely,Research & Development,6,3210,20251,1403,47,1,Laboratory Technician,4,0,No,16,15,13,10,11,No
+374,55,Male,Single,3,Health Science,rarely,Research & Development,1,19045,18938,452,81,5,Manager,1,0,Yes,37,36,10,4,13,No
+376,47,Male,Married,4,Social Sciences,none,Research & Development,29,11849,10268,666,88,3,Manager,2,1,Yes,10,10,7,9,9,Yes
+377,28,Male,Married,3,Health Science,rarely,Research & Development,9,2070,2613,1158,94,1,Research Scientist,4,1,No,5,5,2,0,4,No
+378,37,Male,Married,4,Health Science,rarely,Sales,6,6502,22825,228,98,2,Sales Executive,4,4,No,7,5,4,0,1,No
+379,21,Male,Single,2,Health Science,rarely,Research & Development,3,3230,10531,996,100,1,Research Scientist,3,1,No,3,3,2,1,0,No
+380,37,Female,Divorced,4,Health Science,none,Research & Development,1,13603,11677,728,80,3,Research Director,4,2,Yes,15,5,2,0,2,No
+381,35,Female,Divorced,3,Social Sciences,rarely,Research & Development,22,11996,19100,1315,71,3,Manager,2,7,No,10,7,7,6,2,No
+382,38,Female,Divorced,2,Health Science,rarely,Sales,7,5605,19191,322,44,2,Sales Executive,1,1,Yes,8,8,0,7,7,No
+384,26,Female,Divorced,3,Social Sciences,frequently,Research & Development,1,6397,26767,1479,84,2,Manufacturing Director,2,1,No,6,6,5,1,4,No
+385,50,Male,Divorced,1,Social Sciences,rarely,Research & Development,4,19144,15815,797,96,5,Research Director,2,3,No,28,10,4,1,6,No
+386,53,Male,Married,4,Health Science,rarely,Research & Development,3,17584,21016,1070,45,4,Research Director,3,3,Yes,21,5,3,1,3,No
+387,42,Male,Married,1,Social Sciences,rarely,Sales,1,4907,24532,635,99,2,Sales Executive,3,1,No,20,20,16,11,6,No
+388,29,Male,Single,2,Social Sciences,frequently,Sales,2,4554,20260,442,44,2,Sales Executive,4,1,No,10,10,7,0,9,No
+389,55,Male,Married,2,Engineering,rarely,Research & Development,20,5415,15972,147,37,2,Laboratory Technician,4,3,Yes,12,10,7,0,8,No
+390,26,Male,Married,2,Health Science,frequently,Research & Development,11,4741,22722,496,60,2,Healthcare Representative,1,1,Yes,5,5,3,3,3,No
+391,37,Female,Single,3,Social Sciences,rarely,Research & Development,1,2115,15881,1372,42,1,Research Scientist,4,1,No,17,17,12,5,7,No
+392,44,Male,Divorced,3,Social Sciences,frequently,Research & Development,24,3161,19920,920,43,1,Laboratory Technician,3,3,Yes,19,1,0,0,0,Yes
+393,38,Male,Divorced,4,Social Sciences,rarely,Research & Development,23,5745,18899,688,82,2,Healthcare Representative,4,9,No,10,2,2,1,2,No
+394,26,Male,Divorced,4,Health Science,rarely,Research & Development,16,2373,14180,1449,45,1,Laboratory Technician,2,2,Yes,5,3,2,0,2,Yes
+395,28,Female,Single,2,Social Sciences,rarely,Research & Development,8,3310,4488,1117,66,1,Research Scientist,4,1,No,5,5,3,0,2,No
+396,49,Female,Single,4,Social Sciences,frequently,Research & Development,10,18665,25594,636,35,5,Research Director,1,9,Yes,22,3,2,1,2,No
+397,36,Male,Single,3,Engineering,rarely,Research & Development,3,4485,26285,506,30,2,Research Scientist,2,4,No,10,8,0,7,7,No
+399,31,Female,Divorced,3,Business,frequently,Sales,5,2789,3909,444,84,1,Sales Representative,2,1,No,2,2,2,2,2,No
+401,26,Male,Single,4,Business,rarely,Sales,4,5828,8450,950,48,2,Sales Executive,4,1,Yes,8,8,7,7,4,Yes
+403,37,Male,Married,3,Health Science,frequently,Research & Development,9,2326,11411,889,53,1,Research Scientist,4,1,Yes,4,4,2,1,2,No
+404,42,Female,Married,3,Business,frequently,Sales,26,13525,14864,555,77,4,Sales Executive,2,5,No,23,20,4,4,8,No
+405,18,Male,Single,3,Social Sciences,rarely,Research & Development,3,1420,25233,230,54,1,Laboratory Technician,3,1,No,0,0,0,0,0,Yes
+406,35,Male,Married,3,Business,rarely,Sales,16,8020,5100,1232,96,3,Sales Executive,2,0,No,12,11,9,6,9,No
+407,36,Male,Married,4,Social Sciences,frequently,Research & Development,18,3688,7122,566,81,1,Laboratory Technician,4,4,No,4,1,0,0,0,No
+408,51,Male,Divorced,3,Health Science,rarely,Research & Development,2,5482,16321,1302,84,2,Manufacturing Director,2,5,No,13,4,1,1,2,No
+410,41,Male,Single,4,Social Sciences,rarely,Sales,2,16015,15896,334,88,4,Manager,2,1,No,22,22,10,0,4,No
+411,18,Female,Single,3,Health Science,rarely,Sales,10,1200,9724,812,69,1,Sales Representative,3,1,No,0,0,0,0,0,No
+412,28,Male,Single,2,Health Science,rarely,Research & Development,16,5661,4824,1476,68,2,Healthcare Representative,1,0,No,9,8,3,0,7,No
+416,31,Male,Married,3,Engineering,rarely,Sales,7,6929,12241,218,100,2,Sales Executive,4,4,No,10,8,7,7,7,No
+417,39,Male,Divorced,3,Health Science,rarely,Research & Development,1,9613,10942,1132,48,3,Healthcare Representative,4,0,No,19,18,10,3,7,No
+419,36,Female,Married,4,Social Sciences,none,Research & Development,24,5674,6927,1105,47,2,Laboratory Technician,2,7,No,11,9,8,0,8,No
+420,32,Male,Married,3,Social Sciences,rarely,Sales,7,5484,16985,906,91,2,Sales Executive,3,1,No,13,13,8,4,8,No
+421,38,Female,Married,2,Social Sciences,rarely,Research & Development,25,12061,26707,849,81,3,Research Director,2,3,No,19,10,8,0,1,No
+422,58,Male,Divorced,4,Social Sciences,none,Research & Development,1,5660,17056,390,32,2,Healthcare Representative,3,2,Yes,12,5,3,1,2,No
+423,31,Male,Married,4,Engineering,rarely,Research & Development,5,4821,10077,691,86,1,Research Scientist,4,0,Yes,6,5,2,0,3,No
+424,31,Male,Married,3,Human Resources,rarely,Human Resources,2,6410,17822,106,62,2,Human Resources,1,3,No,9,2,2,1,0,No
+425,45,Male,Divorced,3,Social Sciences,frequently,Research & Development,7,5210,20308,1249,97,3,Laboratory Technician,1,1,No,24,24,9,9,11,No
+426,31,Male,Divorced,4,Social Sciences,rarely,Research & Development,2,2695,7747,192,32,1,Research Scientist,4,0,Yes,3,2,2,2,2,No
+428,33,Female,Married,4,Social Sciences,frequently,Research & Development,5,11878,23364,553,74,3,Manager,2,6,No,12,10,6,8,8,No
+429,39,Male,Married,1,Health Science,rarely,Research & Development,10,17068,5355,117,99,4,Manager,1,1,Yes,21,21,9,11,10,No
+430,43,Female,Single,4,Social Sciences,frequently,Research & Development,10,2455,10675,185,33,1,Laboratory Technician,4,0,No,9,8,7,1,7,No
+431,49,Female,Single,2,Engineering,rarely,Research & Development,1,13964,17810,1091,90,4,Healthcare Representative,3,7,Yes,25,7,1,0,7,No
+433,52,Male,Married,4,Health Science,rarely,Research & Development,8,4941,17747,723,85,2,Research Scientist,2,2,No,11,8,2,7,7,Yes
+434,27,Female,Single,3,Social Sciences,rarely,Research & Development,5,2478,20938,1220,85,1,Research Scientist,2,1,Yes,4,4,3,1,2,No
+436,32,Female,Married,2,Engineering,rarely,Sales,8,5228,24624,588,65,2,Sales Executive,2,1,Yes,13,13,12,11,9,No
+437,27,Male,Single,3,Social Sciences,rarely,Sales,2,4478,5242,1377,74,2,Sales Executive,3,1,Yes,5,5,4,0,4,No
+438,31,Male,Divorced,3,Business,rarely,Sales,7,7547,7143,691,73,2,Sales Executive,4,4,No,13,7,7,1,7,No
+439,32,Female,Single,4,Health Science,rarely,Research & Development,2,5055,10557,1018,74,2,Research Scientist,4,7,No,10,7,7,0,7,No
+440,28,Male,Married,4,Health Science,rarely,Research & Development,2,3464,24737,1157,84,1,Research Scientist,4,5,Yes,5,3,2,2,2,Yes
+441,30,Female,Married,2,Health Science,rarely,Research & Development,28,5775,11934,1275,64,2,Research Scientist,4,1,No,11,10,8,1,9,No
+442,31,Female,Married,2,Social Sciences,frequently,Research & Development,7,8943,14034,798,48,3,Manufacturing Director,3,1,No,10,10,9,8,9,No
+444,39,Male,Married,2,Health Science,frequently,Research & Development,7,19272,21141,672,54,5,Manager,4,1,No,21,21,9,13,3,No
+445,39,Female,Married,2,Health Science,rarely,Sales,3,5238,17778,1162,41,2,Sales Executive,3,4,Yes,12,1,0,0,0,Yes
+446,33,Male,Single,3,Business,frequently,Sales,10,4682,4317,508,46,2,Sales Executive,4,3,No,9,7,7,0,1,No
+447,47,Male,Married,5,Social Sciences,rarely,Research & Development,5,18300,16375,1482,42,5,Research Director,3,4,No,21,3,2,1,1,No
+448,43,Female,Divorced,4,Social Sciences,frequently,Research & Development,10,5257,6227,559,82,2,Laboratory Technician,3,1,No,9,9,7,0,0,No
+449,27,Male,Married,1,Business,none,Sales,1,6349,22107,210,73,2,Sales Executive,2,0,Yes,6,5,4,1,4,No
+450,54,Female,Single,4,Social Sciences,frequently,Research & Development,20,4869,16885,928,31,2,Research Scientist,3,3,No,20,4,3,0,3,No
+451,43,Female,Married,3,Social Sciences,rarely,Research & Development,7,9985,9262,1001,43,3,Healthcare Representative,1,8,No,10,1,0,0,0,No
+452,45,Male,Married,4,Other,rarely,Research & Development,8,3697,9278,549,75,2,Research Scientist,4,9,No,12,10,9,9,8,No
+453,40,Male,Married,2,Health Science,rarely,Sales,1,7457,13273,1124,57,2,Sales Executive,4,2,Yes,6,4,3,0,2,No
+454,29,Male,Married,4,Other,rarely,Research & Development,8,2119,4759,318,77,1,Laboratory Technician,1,1,Yes,7,7,7,0,7,Yes
+455,29,Male,Single,5,Other,rarely,Research & Development,9,3983,7621,738,30,1,Laboratory Technician,4,0,No,4,3,2,2,2,No
+456,30,Female,Divorced,3,Business,rarely,Sales,5,6118,5431,570,30,2,Sales Executive,3,1,No,10,10,9,1,2,No
+458,27,Female,Married,4,Business,rarely,Sales,8,6214,3415,1130,56,2,Sales Executive,2,1,No,8,8,7,0,7,No
+460,37,Male,Divorced,2,Health Science,rarely,Research & Development,5,6347,23177,1192,61,2,Manufacturing Director,4,7,No,8,6,2,0,4,No
+461,38,Male,Divorced,2,Social Sciences,rarely,Research & Development,15,11510,15682,343,92,3,Research Director,4,0,Yes,12,11,10,2,9,No
+462,31,Female,Single,4,Health Science,rarely,Research & Development,7,7143,25713,1232,39,3,Manufacturing Director,4,1,Yes,11,11,9,4,10,No
+463,29,Female,Divorced,1,Business,rarely,Sales,10,8268,11866,144,39,2,Sales Executive,2,1,Yes,7,7,7,1,7,No
+464,35,Male,Single,4,Engineering,rarely,Research & Development,5,8095,18264,1296,62,3,Manufacturing Director,2,0,No,17,16,6,0,13,No
+465,23,Male,Divorced,1,Social Sciences,rarely,Research & Development,26,2904,16092,1309,83,1,Research Scientist,4,1,No,4,4,2,0,2,No
+466,41,Male,Single,3,Health Science,rarely,Research & Development,6,6032,10110,483,95,2,Manufacturing Director,2,6,Yes,8,5,4,1,2,No
+467,47,Male,Single,1,Health Science,frequently,Sales,4,2976,25751,1309,99,2,Sales Representative,3,3,No,5,0,0,0,0,No
+468,42,Female,Single,5,Social Sciences,rarely,Research & Development,23,15992,15901,810,44,4,Research Director,4,2,No,16,1,0,0,0,No
+469,29,Male,Married,3,Social Sciences,none,Sales,2,4649,16928,746,61,2,Sales Executive,3,1,No,4,4,3,0,2,No
+470,42,Male,Divorced,1,Engineering,rarely,Human Resources,2,2696,24017,544,52,1,Human Resources,3,0,Yes,4,3,2,1,0,No
+471,32,Female,Married,3,Health Science,rarely,Research & Development,2,2370,3956,1062,75,1,Laboratory Technician,2,1,No,8,8,0,0,7,No
+473,48,Female,Married,1,Health Science,rarely,Sales,29,12504,23978,530,91,3,Manager,3,3,No,15,0,0,0,0,No
+474,37,Male,Divorced,3,Health Science,rarely,Research & Development,6,5974,17001,1319,51,2,Research Scientist,1,4,Yes,13,7,7,6,7,No
+475,30,Female,Married,2,Engineering,none,Sales,25,4736,6069,641,85,2,Sales Executive,3,7,Yes,4,2,2,2,2,No
+476,26,Male,Married,3,Social Sciences,rarely,Sales,1,5296,20156,933,57,2,Sales Executive,3,1,No,8,8,7,7,7,No
+477,42,Male,Single,4,Other,rarely,Research & Development,2,6781,17078,1332,98,2,Healthcare Representative,4,3,No,14,1,0,0,0,No
+478,21,Female,Single,1,Engineering,frequently,Sales,1,2174,9150,756,99,1,Sales Representative,2,1,Yes,3,3,2,1,2,Yes
+479,36,Female,Single,5,Health Science,none,Sales,1,6653,15276,845,45,2,Sales Executive,4,4,No,7,1,0,0,0,No
+481,36,Male,Married,4,Health Science,frequently,Sales,3,9699,7246,541,48,3,Sales Executive,4,4,No,16,13,9,1,12,No
+482,57,Male,Married,4,Health Science,rarely,Research & Development,1,6755,2967,593,88,2,Healthcare Representative,3,2,No,15,3,2,1,2,No
+483,40,Female,Married,4,Social Sciences,rarely,Research & Development,10,2213,22495,1171,46,1,Laboratory Technician,3,3,Yes,10,7,7,1,7,No
+484,21,Male,Single,2,Health Science,none,Sales,9,2610,2851,895,39,1,Sales Representative,4,1,No,3,3,2,2,2,No
+485,33,Female,Single,3,Business,rarely,Sales,5,2851,9150,350,34,1,Sales Representative,3,1,Yes,1,1,0,0,0,Yes
+486,37,Female,Married,3,Health Science,rarely,Research & Development,10,3452,17663,921,98,1,Laboratory Technician,1,6,No,17,5,4,0,3,No
+487,46,Female,Married,4,Health Science,none,Research & Development,7,5258,16044,1144,30,2,Manufacturing Director,3,2,No,7,1,0,0,0,No
+488,41,Male,Single,3,Business,frequently,Sales,4,9355,9558,143,56,2,Sales Executive,2,1,No,8,8,7,7,7,Yes
+491,50,Male,Single,3,Engineering,rarely,Research & Development,10,10496,2755,1046,100,3,Healthcare Representative,4,6,No,20,4,3,1,3,No
+492,40,Male,Married,2,Business,rarely,Sales,22,6380,6110,575,68,2,Sales Executive,3,2,Yes,8,6,4,1,0,Yes
+493,31,Male,Single,4,Social Sciences,rarely,Research & Development,9,2657,7551,408,42,1,Research Scientist,2,0,Yes,3,2,2,2,2,No
+494,21,Female,Single,3,Social Sciences,rarely,Sales,12,2716,25422,156,90,1,Sales Representative,2,1,No,1,1,0,0,0,Yes
+495,29,Male,Single,3,Social Sciences,rarely,Research & Development,23,2201,18168,1283,54,1,Research Scientist,4,9,No,6,3,2,1,2,No
+496,35,Male,Single,4,Social Sciences,rarely,Research & Development,9,6540,19394,755,97,2,Healthcare Representative,2,9,No,10,1,1,0,0,No
+497,27,Male,Divorced,2,Health Science,rarely,Research & Development,1,3816,17881,1469,82,1,Laboratory Technician,2,1,No,5,5,2,0,4,No
+498,28,Male,Single,4,Social Sciences,rarely,Sales,9,5253,20750,304,92,2,Sales Executive,4,1,No,7,7,5,0,7,No
+499,49,Male,Single,3,Other,rarely,Research & Development,7,10965,12066,1261,31,3,Healthcare Representative,3,8,No,26,5,2,0,0,No
+500,51,Female,Married,2,Social Sciences,rarely,Sales,14,4936,14862,1178,87,2,Sales Executive,4,4,No,18,7,7,0,7,No
+501,36,Female,Married,3,Social Sciences,rarely,Research & Development,2,2543,11868,329,96,1,Research Scientist,3,4,No,6,2,2,2,2,No
+502,34,Male,Single,3,Business,none,Sales,19,5304,4652,1362,67,2,Sales Executive,4,8,Yes,9,5,2,0,4,Yes
+505,55,Female,Single,3,Social Sciences,rarely,Research & Development,2,16659,23258,1311,97,4,Manager,4,2,Yes,30,5,4,1,2,No
+507,24,Female,Divorced,4,Business,rarely,Sales,10,4260,5915,1371,77,2,Sales Executive,3,1,Yes,5,5,2,0,3,No
+508,30,Male,Married,1,Engineering,rarely,Sales,2,2476,17434,202,72,1,Sales Representative,2,1,No,1,1,0,0,0,No
+510,26,Male,Single,1,Engineering,frequently,Research & Development,3,3102,6582,575,73,1,Research Scientist,1,0,No,7,6,4,0,4,Yes
+511,22,Female,Married,3,Health Science,rarely,Research & Development,11,2244,24440,253,43,1,Research Scientist,2,1,No,2,2,1,1,2,No
+513,36,Male,Married,2,Health Science,rarely,Sales,2,7596,3809,164,61,3,Sales Executive,3,1,No,10,10,9,9,0,No
+514,30,Male,Single,3,Engineering,frequently,Research & Development,4,2285,3427,464,40,1,Research Scientist,4,9,Yes,3,1,0,0,0,Yes
+515,37,Female,Divorced,3,Social Sciences,rarely,Research & Development,14,3034,26914,1107,95,1,Laboratory Technician,1,1,No,18,18,7,12,17,No
+516,40,Female,Divorced,2,Business,rarely,Sales,2,5715,22553,759,46,2,Sales Executive,2,7,No,8,5,4,1,3,No
+517,42,Female,Divorced,4,Social Sciences,rarely,Research & Development,1,2576,20490,201,95,1,Laboratory Technician,1,3,No,8,5,2,1,2,No
+518,37,Male,Single,4,Social Sciences,rarely,Research & Development,10,4197,21123,1305,49,2,Manufacturing Director,2,2,Yes,18,1,0,0,1,No
+520,43,Male,Divorced,3,Social Sciences,rarely,Research & Development,12,14336,4345,982,59,4,Research Director,2,1,No,25,25,10,3,9,No
+521,40,Female,Married,3,Health Science,rarely,Research & Development,2,3448,13436,555,78,2,Laboratory Technician,3,6,No,20,1,0,0,0,No
+522,54,Male,Married,2,Health Science,rarely,Research & Development,5,19406,8509,821,86,5,Research Director,1,4,No,24,4,2,1,2,No
+523,34,Female,Married,4,Business,none,Sales,4,6538,12740,1381,72,2,Sales Executive,3,9,No,6,3,2,1,2,No
+524,31,Female,Married,2,Health Science,rarely,Research & Development,7,4306,4156,480,31,2,Manufacturing Director,1,1,No,13,13,10,3,12,No
+525,43,Male,Married,3,Health Science,frequently,Research & Development,21,2258,15238,313,61,1,Laboratory Technician,4,7,No,8,3,2,1,2,No
+526,43,Female,Divorced,4,Other,rarely,Research & Development,8,4522,2227,1473,74,2,Healthcare Representative,3,4,Yes,8,5,2,0,2,No
+527,25,Female,Single,2,Social Sciences,rarely,Sales,4,4487,12090,891,99,2,Sales Executive,4,1,Yes,5,5,4,1,3,No
+529,37,Female,Married,5,Health Science,none,Research & Development,25,4449,23866,1063,72,2,Research Scientist,3,3,Yes,15,13,11,10,7,No
+530,31,Male,Married,2,Social Sciences,rarely,Research & Development,1,2218,16193,329,98,1,Laboratory Technician,1,1,No,4,4,2,3,2,No
+531,39,Male,Divorced,1,Social Sciences,frequently,Research & Development,1,19197,8213,1218,52,5,Manager,3,1,Yes,21,21,8,1,6,No
+532,56,Female,Married,3,Social Sciences,frequently,Sales,6,13212,18256,906,86,4,Sales Executive,1,9,No,36,7,7,7,7,No
+533,30,Female,Single,3,Engineering,rarely,Sales,12,6577,19558,1082,83,2,Sales Executive,3,0,No,6,5,4,4,4,No
+534,41,Male,Married,3,Business,rarely,Sales,1,8392,19566,645,49,3,Sales Executive,1,1,No,10,10,7,0,7,No
+536,28,Male,Divorced,2,Health Science,rarely,Research & Development,17,4558,13535,1300,79,2,Laboratory Technician,1,1,No,10,10,0,1,8,No
+538,25,Male,Married,3,Health Science,rarely,Research & Development,3,4031,9396,688,91,1,Laboratory Technician,1,5,No,6,2,2,0,2,Yes
+543,52,Male,Married,3,Health Science,rarely,Research & Development,3,7969,19609,319,39,3,Manufacturing Director,3,2,Yes,28,5,4,0,4,No
+544,45,Male,Married,2,Social Sciences,rarely,Research & Development,10,2654,9655,192,69,1,Research Scientist,4,3,No,8,2,2,0,2,No
+546,52,Female,Married,2,Social Sciences,rarely,Research & Development,4,16555,10310,1490,30,4,Manager,4,2,No,31,5,2,1,4,No
+547,42,Female,Divorced,2,Social Sciences,frequently,Research & Development,29,4556,12932,532,92,2,Research Scientist,3,2,No,19,5,4,0,2,No
+548,30,Female,Single,3,Social Sciences,rarely,Research & Development,2,6091,24793,317,43,2,Manufacturing Director,4,2,No,11,5,4,0,2,No
+549,60,Female,Married,3,Social Sciences,rarely,Research & Development,7,19566,3854,422,41,5,Manager,1,5,No,33,29,8,11,10,No
+550,46,Female,Divorced,3,Health Science,rarely,Research & Development,18,4810,26314,1485,87,2,Manufacturing Director,3,2,No,19,10,7,0,8,No
+551,42,Female,Married,4,Engineering,frequently,Research & Development,28,4523,4386,1368,88,2,Healthcare Representative,4,0,No,7,6,5,0,4,No
+554,24,Female,Single,1,Engineering,rarely,Sales,1,3202,21972,1448,62,1,Sales Representative,2,1,Yes,6,5,3,1,4,Yes
+555,34,Female,Divorced,2,Business,frequently,Sales,6,2351,12253,296,33,1,Sales Representative,3,0,No,3,2,2,1,0,Yes
+556,38,Male,Married,2,Social Sciences,frequently,Research & Development,2,1702,12106,1490,42,1,Laboratory Technician,4,1,Yes,1,1,0,0,0,No
+558,40,Female,Married,4,Social Sciences,rarely,Sales,2,18041,13022,1398,79,5,Manager,3,0,No,21,20,15,1,12,No
+560,26,Female,Divorced,3,Social Sciences,rarely,Research & Development,23,2886,3032,1349,90,1,Research Scientist,4,1,No,3,3,2,0,2,No
+562,30,Male,Married,3,Social Sciences,none,Research & Development,3,2097,16734,1400,53,1,Laboratory Technician,4,4,No,9,5,3,1,4,No
+564,29,Male,Married,4,Health Science,rarely,Research & Development,3,11935,21526,986,93,3,Research Director,3,1,No,10,10,2,0,7,No
+565,29,Female,Married,5,Engineering,rarely,Research & Development,25,2546,18300,408,71,1,Research Scientist,2,5,No,6,2,2,1,1,Yes
+566,19,Male,Single,2,Engineering,rarely,Human Resources,2,2564,18437,489,52,1,Human Resources,4,1,No,1,1,0,0,0,Yes
+567,30,Female,Married,4,Other,none,Sales,22,8412,2890,1398,69,3,Sales Executive,1,0,No,10,9,8,7,8,No
+568,57,Male,Divorced,3,Business,rarely,Sales,29,14118,22102,210,56,4,Manager,4,3,No,32,1,0,0,0,No
+569,50,Male,Married,4,Social Sciences,rarely,Research & Development,29,17046,9314,1099,88,4,Manager,3,0,No,28,27,10,15,7,No
+571,30,Female,Single,3,Health Science,none,Research & Development,2,2564,7181,1116,49,1,Laboratory Technician,4,0,No,12,11,7,6,7,No
+573,60,Female,Married,3,Business,frequently,Sales,28,10266,2845,1499,80,3,Sales Executive,1,4,No,22,18,13,13,11,No
+574,47,Female,Divorced,2,Health Science,rarely,Research & Development,2,5070,7389,983,65,2,Manufacturing Director,4,5,No,20,5,0,0,4,No
+575,46,Male,Married,3,Social Sciences,rarely,Research & Development,2,17861,2288,1009,51,4,Research Director,3,6,No,26,3,2,0,1,No
+577,35,Male,Single,3,Social Sciences,rarely,Research & Development,22,4230,19225,144,46,1,Laboratory Technician,3,0,No,6,5,4,4,3,No
+578,54,Female,Single,4,Social Sciences,rarely,Research & Development,8,3780,23428,548,42,2,Laboratory Technician,3,7,No,19,1,0,0,0,No
+579,34,Male,Divorced,4,Social Sciences,rarely,Research & Development,2,2768,8416,1303,62,1,Research Scientist,3,3,No,14,7,3,5,7,No
+580,46,Female,Married,3,Business,rarely,Sales,10,9071,11563,1125,94,3,Sales Executive,4,2,Yes,15,3,2,1,2,No
+581,31,Male,Divorced,1,Social Sciences,rarely,Research & Development,9,10648,14394,1274,33,3,Manufacturing Director,2,1,No,13,13,8,0,8,No
+582,33,Male,Married,1,Health Science,rarely,Research & Development,15,13610,24619,1277,56,3,Manager,3,7,Yes,15,7,6,7,7,Yes
+584,33,Male,Divorced,1,Health Science,rarely,Research & Development,10,3408,6705,587,38,1,Laboratory Technician,4,7,No,8,4,3,1,3,Yes
+585,30,Male,Single,1,Business,rarely,Sales,7,2983,18398,413,57,1,Sales Representative,2,0,No,4,3,2,1,2,No
+586,35,Male,Married,3,Social Sciences,rarely,Research & Development,16,7632,14295,1276,72,3,Healthcare Representative,3,4,Yes,10,8,7,0,0,No
+587,31,Male,Married,3,Social Sciences,frequently,Research & Development,20,9824,22908,534,66,3,Healthcare Representative,3,3,No,12,1,0,0,0,Yes
+590,34,Female,Divorced,3,Human Resources,frequently,Human Resources,23,9950,11533,988,43,3,Human Resources,1,9,Yes,11,3,2,0,2,Yes
+591,42,Male,Married,2,Other,frequently,Research & Development,5,2093,9260,1474,97,1,Laboratory Technician,3,4,No,8,2,2,2,0,No
+592,36,Male,Single,4,Health Science,none,Sales,10,9980,15318,635,32,3,Sales Executive,4,1,No,10,10,3,9,7,No
+593,22,Male,Single,1,Engineering,frequently,Research & Development,4,3894,9129,1368,99,1,Laboratory Technician,3,5,No,4,2,2,1,2,Yes
+595,48,Female,Married,5,Business,rarely,Sales,2,4051,19658,163,37,2,Sales Executive,4,2,No,14,9,7,6,7,No
+597,55,Female,Single,5,Social Sciences,rarely,Sales,18,16835,9873,1117,83,4,Manager,2,3,No,37,10,9,7,7,No
+599,41,Male,Single,2,Social Sciences,none,Sales,10,6230,13430,267,56,2,Sales Executive,4,7,No,16,14,3,1,10,No
+600,35,Male,Married,3,Business,rarely,Sales,1,4717,18659,619,85,2,Sales Executive,3,9,No,15,11,9,6,9,No
+601,40,Female,Single,3,Social Sciences,rarely,Research & Development,6,13237,20364,302,75,4,Manufacturing Director,3,7,No,22,20,6,5,13,No
+602,39,Female,Married,1,Social Sciences,frequently,Research & Development,8,3755,17872,443,48,1,Laboratory Technician,3,1,No,8,8,3,0,7,No
+604,31,Male,Single,1,Social Sciences,rarely,Sales,2,6582,8346,828,77,2,Sales Executive,4,4,Yes,10,6,5,0,5,No
+605,42,Male,Married,3,Health Science,rarely,Research & Development,24,7406,6950,319,56,3,Manufacturing Director,1,1,Yes,10,10,9,5,8,No
+606,45,Male,Married,3,Other,rarely,Sales,2,4805,16177,561,61,2,Sales Executive,2,0,No,9,8,7,3,7,No
+608,26,Female,Divorced,4,Social Sciences,frequently,Human Resources,17,2741,22808,426,58,1,Human Resources,3,0,Yes,8,7,7,1,0,Yes
+611,29,Male,Divorced,3,Engineering,rarely,Research & Development,19,4262,22645,232,34,2,Manufacturing Director,4,4,No,8,3,2,1,2,No
+612,33,Female,Divorced,5,Health Science,rarely,Research & Development,1,16184,22578,922,95,4,Research Director,3,4,No,10,6,1,0,5,No
+613,31,Male,Divorced,3,Social Sciences,rarely,Sales,7,11557,25291,688,44,3,Manager,4,9,No,10,5,4,0,1,No
+614,18,Male,Single,3,Business,frequently,Sales,5,1878,8059,1306,69,1,Sales Representative,2,1,Yes,0,0,0,0,0,Yes
+615,40,Male,Divorced,3,Other,none,Sales,28,10932,11373,1094,58,3,Sales Executive,1,3,No,20,1,0,0,1,No
+616,41,Female,Single,4,Other,none,Research & Development,2,6811,2112,509,62,2,Healthcare Representative,3,2,Yes,10,8,7,0,7,No
+618,26,Male,Divorced,2,Health Science,rarely,Sales,29,4306,4267,775,45,2,Sales Executive,3,5,No,8,0,0,0,0,No
+620,35,Female,Single,3,Health Science,rarely,Sales,1,4859,6698,195,80,2,Sales Executive,3,1,No,5,5,4,0,3,No
+621,34,Male,Single,4,Social Sciences,rarely,Sales,21,5337,19921,258,74,2,Sales Executive,4,1,No,10,10,7,5,7,No
+622,26,Male,Single,3,Engineering,rarely,Research & Development,24,2340,23213,471,66,1,Laboratory Technician,4,1,Yes,1,1,0,0,0,Yes
+623,37,Female,Single,3,Engineering,rarely,Research & Development,1,7491,23848,799,59,3,Manufacturing Director,4,4,No,12,6,5,1,2,No
+624,46,Female,Married,1,Health Science,frequently,Research & Development,18,10527,8984,1034,86,3,Healthcare Representative,3,5,No,28,2,2,1,2,No
+625,41,Female,Married,5,Social Sciences,rarely,Sales,2,16595,5626,1276,91,4,Manager,1,7,No,22,18,16,11,8,No
+626,37,Male,Divorced,4,Health Science,none,Sales,9,8834,24666,142,69,3,Sales Executive,2,1,No,9,9,5,7,7,No
+630,52,Male,Divorced,2,Engineering,rarely,Research & Development,6,5577,22087,956,78,2,Research Scientist,1,3,Yes,18,10,9,6,9,No
+631,32,Male,Married,4,Other,none,Sales,11,4707,23914,1474,60,2,Sales Executive,3,8,No,6,4,2,1,2,Yes
+632,24,Male,Married,3,Health Science,frequently,Sales,24,2400,5530,535,38,1,Sales Representative,4,0,No,3,2,2,2,1,No
+634,38,Female,Married,3,Health Science,rarely,Research & Development,10,9824,22174,1495,76,2,Healthcare Representative,3,3,No,18,1,0,0,0,No
+635,37,Female,Married,4,Social Sciences,rarely,Research & Development,1,6447,15701,446,65,2,Manufacturing Director,2,6,No,8,6,5,4,3,No
+638,49,Male,Divorced,4,Social Sciences,rarely,Research & Development,18,19502,2125,1245,58,5,Research Director,3,1,Yes,31,31,9,0,9,No
+639,24,Male,Married,3,Health Science,rarely,Research & Development,23,2725,21630,691,89,1,Research Scientist,4,1,Yes,6,6,5,1,4,No
+641,26,Male,Married,2,Business,rarely,Sales,28,6272,7428,703,66,2,Sales Executive,2,1,No,6,5,3,1,4,No
+643,24,Male,Married,2,Other,rarely,Research & Development,17,2127,9100,823,94,1,Laboratory Technician,2,1,No,1,1,0,0,0,No
+644,50,Male,Married,3,Health Science,frequently,Human Resources,3,18200,7999,1246,99,5,Manager,2,1,No,32,32,5,10,7,No
+645,25,Male,Married,1,Health Science,rarely,Sales,13,2096,26376,622,40,1,Sales Representative,3,1,No,7,7,4,0,6,No
+647,24,Female,Married,3,Social Sciences,frequently,Research & Development,7,2886,14168,1287,55,1,Laboratory Technician,3,1,Yes,6,6,3,1,2,Yes
+648,30,Male,Married,4,Social Sciences,frequently,Sales,12,2033,14470,448,74,1,Sales Representative,1,1,No,1,1,0,0,0,Yes
+649,34,Male,Married,2,Social Sciences,rarely,Research & Development,1,3622,22794,254,83,1,Research Scientist,4,1,Yes,6,6,5,1,3,No
+650,31,Male,Divorced,4,Health Science,rarely,Sales,13,4233,11512,1365,46,2,Sales Executive,1,2,No,9,3,1,1,2,Yes
+652,35,Male,Single,2,Other,rarely,Research & Development,25,3681,14004,538,54,2,Laboratory Technician,4,4,No,9,3,2,0,2,No
+653,31,Male,Divorced,4,Health Science,rarely,Sales,6,5460,6219,525,66,2,Sales Executive,4,4,No,13,7,7,5,7,No
+655,27,Female,Divorced,4,Health Science,rarely,Research & Development,6,2187,5013,798,66,1,Research Scientist,3,0,No,6,5,3,0,3,No
+656,37,Male,Married,3,Business,rarely,Sales,2,9602,3010,558,75,2,Sales Executive,3,4,Yes,17,3,0,1,0,No
+657,20,Female,Single,3,Social Sciences,rarely,Research & Development,1,2836,11757,959,83,1,Research Scientist,2,1,No,1,1,0,0,0,No
+659,42,Female,Married,4,Social Sciences,rarely,Research & Development,2,4089,5718,622,81,2,Healthcare Representative,4,1,No,10,10,2,2,2,No
+661,43,Male,Divorced,4,Other,rarely,Research & Development,6,16627,2671,782,50,4,Research Director,4,4,Yes,21,1,0,0,0,No
+662,38,Female,Single,1,Social Sciences,rarely,Research & Development,1,2619,14561,362,43,1,Research Scientist,1,3,No,8,0,0,0,0,No
+663,43,Male,Divorced,5,Health Science,frequently,Research & Development,9,5679,19627,1001,72,2,Laboratory Technician,3,3,Yes,10,8,7,4,7,No
+664,48,Female,Married,4,Social Sciences,rarely,Research & Development,1,15402,17997,1236,40,4,Manager,1,7,No,21,3,2,0,2,No
+665,44,Female,Single,4,Social Sciences,rarely,Human Resources,1,5985,26894,1112,50,2,Human Resources,3,4,No,10,2,2,0,2,No
+666,34,Female,Divorced,3,Engineering,rarely,Sales,14,2579,2912,204,31,1,Sales Representative,3,1,Yes,8,8,2,0,6,No
+667,27,Male,Divorced,1,Business,rarely,Sales,2,3041,16346,1420,85,1,Sales Representative,1,0,No,5,4,3,0,2,Yes
+669,21,Male,Single,1,Engineering,rarely,Sales,22,3447,24444,1343,49,1,Sales Representative,3,1,No,3,3,2,1,2,No
+671,44,Male,Married,4,Other,rarely,Research & Development,3,19513,9358,1315,35,5,Manager,4,4,Yes,26,2,2,0,1,No
+675,22,Male,Married,1,Health Science,rarely,Research & Development,6,2773,12145,604,69,1,Research Scientist,3,0,No,3,2,2,2,2,No
+677,33,Male,Divorced,4,Business,rarely,Sales,8,7104,20431,1216,39,2,Sales Executive,3,0,No,6,5,0,1,2,No
+679,32,Female,Married,4,Social Sciences,rarely,Research & Development,9,6322,18089,646,92,2,Research Scientist,4,1,Yes,6,6,4,0,5,No
+680,30,Female,Divorced,3,Health Science,frequently,Research & Development,3,2083,22653,160,71,1,Research Scientist,3,1,No,1,1,0,0,0,No
+682,53,Female,Single,1,Health Science,rarely,Sales,1,8381,7507,238,34,2,Sales Executive,1,7,No,18,14,7,8,10,No
+683,34,Male,Married,5,Social Sciences,rarely,Research & Development,1,2691,7660,1397,42,1,Research Scientist,4,1,No,10,10,9,8,8,No
+684,45,Female,Married,4,Social Sciences,frequently,Sales,26,4286,5630,306,100,2,Sales Executive,1,2,No,5,1,1,0,0,Yes
+686,26,Female,Married,3,Social Sciences,rarely,Research & Development,6,2659,17759,991,71,1,Laboratory Technician,4,1,Yes,3,3,2,0,2,No
+689,37,Male,Married,3,Other,rarely,Research & Development,3,9434,9606,482,36,3,Manufacturing Director,3,1,No,10,10,7,7,8,No
+690,29,Female,Married,2,Health Science,rarely,Sales,3,5561,3487,1176,62,2,Sales Executive,3,1,No,6,6,0,1,2,No
+691,35,Male,Single,4,Social Sciences,rarely,Research & Development,6,6646,19368,1017,82,2,Research Scientist,4,1,No,17,17,11,11,8,No
+692,33,Male,Divorced,3,Social Sciences,frequently,Research & Development,6,7725,5335,1296,30,2,Healthcare Representative,4,3,No,15,13,11,4,7,No
+698,54,Male,Married,4,Health Science,rarely,Human Resources,19,10725,6729,397,88,3,Human Resources,2,2,No,16,9,7,7,1,No
+699,36,Male,Divorced,2,Health Science,rarely,Research & Development,9,8847,13934,913,48,2,Manufacturing Director,2,2,Yes,13,3,2,0,2,No
+700,27,Male,Single,4,Health Science,rarely,Research & Development,3,2045,15174,1115,54,1,Research Scientist,4,0,No,5,4,2,1,1,No
+701,20,Male,Single,1,Health Science,rarely,Research & Development,10,1009,26999,1362,32,1,Research Scientist,3,1,Yes,1,1,0,1,1,Yes
+702,33,Male,Single,3,Social Sciences,frequently,Research & Development,3,3348,3164,1076,70,1,Research Scientist,1,1,Yes,10,10,8,9,7,Yes
+704,35,Male,Married,3,Social Sciences,none,Research & Development,3,1281,16900,727,41,1,Laboratory Technician,3,1,No,1,1,0,0,0,No
+705,23,Male,Married,3,Health Science,rarely,Research & Development,4,2819,8544,885,58,1,Research Scientist,1,2,No,5,3,2,0,2,No
+707,25,Male,Married,3,Social Sciences,rarely,Sales,8,4851,15678,810,57,2,Sales Executive,2,0,No,4,3,2,1,2,No
+709,38,Female,Single,4,Business,rarely,Sales,7,4028,7791,243,46,2,Sales Executive,4,0,No,8,7,7,0,5,No
+710,29,Male,Divorced,4,Social Sciences,frequently,Research & Development,1,2720,18959,806,76,1,Research Scientist,4,1,No,10,10,7,2,8,No
+712,48,Male,Married,1,Business,rarely,Sales,2,8120,18597,817,56,2,Sales Executive,2,3,No,12,2,2,2,2,No
+714,27,Female,Divorced,1,Health Science,frequently,Sales,3,4647,16673,1410,71,2,Sales Executive,4,1,Yes,6,6,5,0,4,No
+715,37,Male,Single,2,Social Sciences,rarely,Research & Development,10,4680,15232,1225,80,1,Research Scientist,4,3,No,4,1,0,0,0,No
+716,50,Male,Married,1,Health Science,rarely,Research & Development,28,3221,3297,1207,74,1,Laboratory Technician,3,1,Yes,20,20,8,3,8,No
+717,34,Female,Single,3,Health Science,rarely,Research & Development,9,8621,17654,1442,46,3,Healthcare Representative,2,1,No,9,8,7,7,7,No
+720,24,Female,Single,2,Social Sciences,rarely,Sales,3,4577,24785,693,65,2,Sales Executive,3,9,No,4,2,2,2,0,Yes
+721,39,Female,Single,4,Engineering,rarely,Research & Development,2,4553,20978,408,80,2,Healthcare Representative,3,1,No,20,20,7,11,10,No
+722,32,Male,Single,3,Business,rarely,Sales,10,5396,21703,929,55,2,Sales Executive,4,1,No,10,10,7,0,8,No
+723,50,Male,Married,2,Engineering,frequently,Sales,8,6796,23452,562,50,2,Sales Executive,3,3,Yes,18,4,3,1,3,Yes
+724,38,Female,Single,4,Social Sciences,rarely,Research & Development,1,7625,19383,827,33,2,Healthcare Representative,4,0,No,10,9,7,1,8,No
+725,27,Female,Married,2,Social Sciences,rarely,Research & Development,1,7412,6009,608,68,3,Manufacturing Director,1,1,No,9,9,7,0,7,No
+727,32,Female,Single,2,Social Sciences,rarely,Research & Development,3,11159,19373,1018,39,3,Research Director,4,3,No,10,7,7,7,7,No
+728,47,Male,Single,4,Business,rarely,Sales,14,4960,11825,703,42,2,Sales Executive,1,2,No,20,7,7,1,7,No
+729,40,Male,Married,4,Social Sciences,frequently,Sales,5,10475,23772,580,48,3,Sales Executive,1,5,Yes,20,18,13,1,12,No
+730,53,Male,Married,3,Social Sciences,rarely,Research & Development,7,14814,13514,970,59,4,Research Director,3,3,No,32,5,1,1,3,No
+731,41,Male,Divorced,4,Human Resources,rarely,Human Resources,10,19141,8861,427,73,5,Manager,4,3,No,23,21,6,12,6,No
+732,60,Male,Single,4,Business,rarely,Sales,16,5405,11924,1179,84,2,Sales Executive,1,8,No,10,2,2,2,2,No
+733,27,Male,Divorced,2,Social Sciences,frequently,Research & Development,10,8793,4809,294,32,3,Manufacturing Director,1,1,No,9,9,7,1,7,No
+734,41,Male,Married,3,Human Resources,rarely,Human Resources,1,19189,19562,314,59,5,Manager,3,1,No,22,22,7,2,10,No
+738,50,Male,Married,4,Business,rarely,Sales,8,3875,9983,316,54,1,Sales Representative,2,7,No,4,2,2,2,2,No
+741,28,Female,Single,2,Social Sciences,rarely,Research & Development,1,2216,3872,654,67,1,Research Scientist,2,7,Yes,10,7,7,3,7,Yes
+742,36,Female,Married,3,Social Sciences,none,Research & Development,8,11713,20335,427,63,3,Research Director,1,9,No,10,8,7,0,5,No
+743,38,Female,Single,3,Social Sciences,rarely,Research & Development,1,7861,15397,168,81,3,Manufacturing Director,3,4,Yes,10,1,0,0,0,No
+744,44,Male,Single,3,Health Science,none,Research & Development,24,3708,2104,381,49,1,Laboratory Technician,3,2,No,9,5,2,1,4,No
+746,47,Female,Divorced,3,Health Science,frequently,Sales,3,13770,10225,217,49,4,Sales Executive,3,9,Yes,28,22,2,11,13,No
+747,30,Male,Divorced,5,Business,rarely,Sales,27,5304,25275,501,99,2,Sales Executive,4,7,No,10,8,7,7,7,No
+749,29,Male,Single,3,Social Sciences,rarely,Sales,10,2642,2755,1396,99,1,Sales Representative,3,1,No,1,1,0,0,0,No
+752,42,Male,Divorced,3,Health Science,frequently,Research & Development,19,2759,20366,933,57,1,Research Scientist,3,6,Yes,7,2,2,2,2,Yes
+754,43,Male,Married,3,Social Sciences,frequently,Sales,15,6804,23683,775,47,2,Sales Executive,4,3,No,7,2,2,2,2,No
+757,34,Female,Single,2,Health Science,rarely,Research & Development,8,6142,7360,970,96,2,Healthcare Representative,3,3,No,10,5,1,4,3,No
+758,23,Male,Married,1,Health Science,rarely,Research & Development,9,2500,4344,650,37,1,Laboratory Technician,1,1,No,5,4,3,0,2,No
+760,39,Female,Married,3,Human Resources,rarely,Human Resources,3,6389,18767,141,44,2,Human Resources,2,9,No,12,8,3,3,6,No
+762,56,Male,Married,3,Health Science,rarely,Research & Development,9,11103,20420,832,81,4,Healthcare Representative,4,7,No,30,10,7,1,1,No
+763,40,Female,Single,1,Health Science,rarely,Research & Development,2,2342,22929,804,86,1,Research Scientist,4,0,Yes,5,4,2,2,3,No
+764,27,Female,Single,3,Health Science,rarely,Research & Development,7,6811,23398,975,55,2,Healthcare Representative,1,8,No,9,7,6,0,7,No
+766,29,Male,Divorced,3,Business,rarely,Sales,10,2297,17967,1090,83,1,Sales Representative,2,1,No,2,2,2,2,2,No
+769,53,Male,Single,3,Social Sciences,rarely,Research & Development,6,2450,10919,346,86,2,Laboratory Technician,4,2,No,19,2,2,2,2,No
+771,35,Female,Divorced,4,Social Sciences,none,Research & Development,2,5093,4761,1225,61,2,Healthcare Representative,1,2,No,16,1,0,0,0,No
+772,32,Male,Married,4,Social Sciences,frequently,Research & Development,24,5309,21146,430,80,2,Laboratory Technician,4,1,No,10,10,8,4,7,No
+773,38,Male,Married,5,Health Science,rarely,Research & Development,2,3057,20471,268,92,1,Research Scientist,3,6,Yes,6,1,0,0,1,No
+775,34,Female,Divorced,5,Social Sciences,rarely,Research & Development,8,5121,4187,167,32,2,Manufacturing Director,1,3,No,7,0,0,0,0,No
+776,52,Male,Married,4,Business,rarely,Sales,3,16856,10084,621,31,4,Manager,1,1,No,34,34,6,1,16,No
+780,33,Male,Single,4,Other,rarely,Research & Development,1,2686,5207,527,63,1,Research Scientist,4,1,Yes,10,10,9,7,8,Yes
+781,25,Female,Single,1,Health Science,rarely,Sales,26,6180,22807,883,32,2,Sales Executive,4,1,No,6,6,5,1,4,No
+783,45,Male,Single,2,Engineering,rarely,Sales,2,6632,12388,954,46,2,Sales Representative,3,0,No,9,8,7,3,1,No
+784,23,Male,Single,1,Health Science,rarely,Research & Development,10,3505,19630,310,79,1,Research Scientist,3,1,No,2,2,2,0,2,No
+785,47,Female,Single,2,Social Sciences,frequently,Sales,27,6397,10339,719,77,2,Sales Executive,3,4,Yes,8,5,4,1,3,Yes
+786,34,Male,Single,3,Other,rarely,Sales,2,6274,18686,304,60,2,Sales Executive,4,1,No,6,6,5,1,4,No
+787,55,Male,Married,3,Health Science,rarely,Research & Development,2,19859,21199,725,78,5,Manager,1,5,Yes,24,5,2,1,4,Yes
+789,36,Male,Single,4,Social Sciences,none,Sales,8,7587,14229,1434,76,3,Sales Executive,1,1,No,10,10,7,0,9,No
+791,52,Male,Married,4,Health Science,none,Research & Development,19,4258,26589,715,41,1,Research Scientist,4,0,No,5,4,3,1,2,No
+792,26,Female,Divorced,2,Social Sciences,frequently,Research & Development,1,4364,5288,575,71,1,Laboratory Technician,4,3,No,5,2,2,2,0,No
+793,29,Female,Married,3,Health Science,rarely,Research & Development,27,4335,25549,657,66,2,Healthcare Representative,3,4,No,11,8,7,1,1,No
+796,26,Male,Single,3,Engineering,rarely,Sales,8,5326,3064,1146,38,2,Sales Executive,1,6,No,6,4,3,1,2,Yes
+797,34,Female,Single,4,Social Sciences,rarely,Research & Development,1,3280,13551,182,72,1,Research Scientist,4,2,No,10,4,2,1,3,No
+799,54,Female,Divorced,4,Health Science,rarely,Research & Development,19,5485,22670,376,95,2,Manufacturing Director,1,9,Yes,9,5,3,1,4,No
+800,27,Male,Married,1,Business,frequently,Sales,8,4342,24008,829,84,2,Sales Executive,4,0,No,5,4,2,1,1,No
+802,37,Female,Divorced,1,Social Sciences,rarely,Research & Development,10,2782,19905,571,82,1,Research Scientist,1,0,Yes,6,5,3,4,3,No
+803,38,Female,Single,4,Social Sciences,frequently,Research & Development,2,5980,26085,240,75,2,Manufacturing Director,1,6,Yes,17,15,7,4,12,No
+804,34,Female,Single,4,Health Science,rarely,Research & Development,2,4381,7530,121,86,1,Research Scientist,1,1,No,6,6,5,1,3,No
+805,35,Female,Married,4,Social Sciences,rarely,Sales,8,2572,20317,384,72,1,Sales Representative,4,1,No,3,3,2,0,2,No
+806,30,Male,Married,3,Social Sciences,rarely,Research & Development,1,3833,24375,921,38,1,Laboratory Technician,3,3,No,7,2,2,0,2,No
+807,40,Female,Married,2,Health Science,frequently,Research & Development,2,4244,9931,791,38,2,Healthcare Representative,2,1,No,8,8,7,3,7,No
+808,34,Female,Married,2,Social Sciences,rarely,Sales,8,6500,13305,1111,93,2,Sales Executive,1,5,No,6,3,2,1,2,No
+809,42,Male,Divorced,3,Social Sciences,frequently,Research & Development,8,18430,16225,570,66,5,Manager,4,1,No,24,24,7,14,9,No
+811,23,Male,Married,3,Social Sciences,rarely,Research & Development,6,1601,3445,1243,63,1,Laboratory Technician,1,1,Yes,1,0,0,0,0,Yes
+812,24,Male,Divorced,3,Social Sciences,none,Research & Development,9,2694,26551,1092,60,1,Laboratory Technician,2,1,No,1,1,0,0,0,No
+813,52,Female,Married,4,Social Sciences,rarely,Research & Development,11,3149,21821,1325,82,2,Laboratory Technician,3,8,No,9,5,2,1,4,No
+815,50,Male,Married,3,Health Science,rarely,Research & Development,2,17639,6881,691,64,4,Research Director,3,5,No,30,4,3,0,3,No
+816,29,Female,Married,2,Social Sciences,rarely,Research & Development,1,2319,6689,805,36,1,Laboratory Technician,1,1,Yes,1,1,0,0,0,Yes
+817,33,Male,Married,3,Health Science,rarely,Research & Development,7,11691,25995,213,49,3,Research Director,3,0,No,14,13,9,3,7,No
+819,33,Female,Single,3,Business,rarely,Sales,16,5324,26507,118,69,2,Sales Executive,1,5,No,6,3,2,0,2,Yes
+820,47,Female,Married,2,Other,rarely,Research & Development,2,16752,12982,202,33,4,Manager,4,1,Yes,26,26,14,3,0,No
+823,36,Female,Married,3,Other,rarely,Research & Development,1,5228,23361,676,35,2,Manufacturing Director,2,0,No,10,9,7,0,5,No
+824,29,Male,Married,2,Social Sciences,rarely,Research & Development,23,2700,23779,1252,81,1,Research Scientist,3,1,No,10,10,7,0,7,No
+825,58,Male,Single,4,Social Sciences,rarely,Research & Development,2,19246,25761,286,31,5,Research Director,2,7,Yes,40,31,15,13,8,Yes
+826,35,Female,Single,4,Social Sciences,rarely,Research & Development,1,2506,13301,1258,40,1,Research Scientist,3,3,No,7,2,2,2,2,No
+827,42,Female,Married,2,Social Sciences,rarely,Research & Development,1,6062,4051,932,43,2,Manufacturing Director,4,9,Yes,8,4,3,0,2,No
+828,28,Male,Single,4,Health Science,rarely,Research & Development,2,4382,16374,890,46,1,Research Scientist,3,6,No,5,2,2,2,1,Yes
+829,36,Male,Married,3,Human Resources,rarely,Human Resources,13,2143,25527,1041,36,1,Human Resources,2,4,No,8,5,2,0,4,No
+830,32,Female,Married,3,Social Sciences,rarely,Research & Development,4,6162,19124,859,98,2,Manufacturing Director,3,1,No,14,14,13,6,8,No
+832,40,Male,Single,4,Health Science,frequently,Research & Development,16,5094,11983,720,51,2,Laboratory Technician,3,6,No,10,1,0,0,0,No
+833,30,Female,Single,3,Health Science,rarely,Research & Development,2,6877,20234,946,52,2,Manufacturing Director,4,5,Yes,12,0,0,0,0,No
+834,45,Female,Single,3,Social Sciences,rarely,Research & Development,2,2274,6153,252,95,1,Research Scientist,3,1,No,1,1,0,0,0,No
+836,42,Male,Married,3,Social Sciences,rarely,Research & Development,29,4434,11806,933,98,2,Manufacturing Director,2,1,No,10,9,8,7,8,No
+837,38,Male,Divorced,3,Social Sciences,frequently,Research & Development,12,6288,4284,471,45,2,Healthcare Representative,1,2,No,13,4,3,1,2,No
+838,34,Female,Single,4,Social Sciences,frequently,Research & Development,16,2553,8306,702,100,1,Research Scientist,4,1,No,6,5,2,1,3,No
+840,49,Female,Married,3,Business,rarely,Sales,11,7654,5860,1184,43,3,Sales Executive,4,1,No,9,9,8,7,7,Yes
+842,55,Male,Single,1,Health Science,rarely,Sales,2,5160,21519,436,37,2,Sales Executive,4,4,No,12,9,7,7,3,Yes
+843,43,Male,Married,2,Social Sciences,rarely,Research & Development,14,17159,5200,589,94,4,Research Director,1,6,No,22,4,1,1,0,No
+844,27,Male,Divorced,1,Engineering,rarely,Research & Development,5,12808,8842,269,42,3,Research Director,4,1,Yes,9,9,8,0,8,No
+845,35,Male,Single,3,Other,rarely,Research & Development,7,10221,18869,950,59,3,Manufacturing Director,3,3,No,17,8,5,1,6,No
+846,28,Female,Married,4,Business,rarely,Sales,2,4779,3698,760,81,2,Sales Executive,2,1,Yes,8,8,7,7,5,No
+847,34,Male,Married,2,Human Resources,rarely,Human Resources,3,3737,2243,829,88,1,Human Resources,4,0,No,4,3,2,0,2,No
+848,26,Female,Married,2,Health Science,frequently,Research & Development,5,2366,20898,887,88,1,Research Scientist,3,1,Yes,8,8,7,1,7,Yes
+850,27,Male,Married,3,Health Science,none,Research & Development,3,1706,16571,443,50,1,Research Scientist,4,1,No,0,0,0,0,0,No
+851,51,Female,Married,4,Business,rarely,Sales,26,16307,5594,1318,66,4,Manager,3,2,No,29,20,6,4,17,No
+852,44,Male,Single,3,Health Science,rarely,Research & Development,4,5933,5197,625,50,2,Healthcare Representative,2,9,No,10,5,2,2,3,No
+854,25,Male,Single,1,Health Science,rarely,Research & Development,2,3424,21632,180,65,1,Research Scientist,1,7,No,6,4,3,0,1,No
+855,33,Male,Divorced,3,Health Science,rarely,Sales,1,4037,21816,586,48,2,Sales Executive,1,1,No,9,9,8,0,8,No
+856,35,Female,Single,1,Health Science,rarely,Research & Development,27,2559,17852,1343,53,1,Research Scientist,1,1,No,6,6,5,1,1,No
+857,36,Male,Married,2,Social Sciences,rarely,Sales,1,6201,2823,928,56,2,Sales Executive,4,1,Yes,18,18,14,4,11,No
+859,32,Male,Divorced,4,Social Sciences,rarely,Sales,13,4403,9250,117,73,2,Sales Executive,4,2,No,8,5,2,0,3,No
+861,30,Male,Divorced,4,Social Sciences,frequently,Research & Development,5,3761,2373,1012,75,1,Research Scientist,4,9,No,10,5,4,0,3,No
+862,53,Female,Married,2,Business,rarely,Sales,7,10934,20715,661,78,3,Sales Executive,4,7,Yes,35,5,2,0,4,No
+864,45,Male,Divorced,3,Business,rarely,Sales,9,10761,19239,930,74,3,Sales Executive,1,4,Yes,18,5,4,0,2,No
+865,32,Female,Married,2,Health Science,rarely,Research & Development,8,5175,22162,638,91,2,Research Scientist,3,5,No,9,5,3,1,3,No
+867,52,Female,Married,4,Health Science,frequently,Research & Development,25,13826,19028,890,81,4,Manufacturing Director,4,3,No,31,9,8,0,0,No
+868,37,Male,Divorced,4,Business,rarely,Sales,16,6334,24558,342,66,2,Sales Executive,3,4,No,9,1,0,0,0,No
+869,28,Male,Divorced,2,Health Science,rarely,Human Resources,8,4936,23965,1169,63,1,Human Resources,4,1,No,6,5,1,0,4,No
+872,22,Male,Married,2,Social Sciences,rarely,Research & Development,1,4775,19146,1230,33,2,Manufacturing Director,4,6,No,4,2,2,2,2,No
+874,44,Male,Married,4,Social Sciences,rarely,Research & Development,8,2818,5044,986,62,1,Laboratory Technician,4,2,Yes,10,3,2,0,2,No
+875,42,Male,Single,1,Health Science,frequently,Research & Development,2,2515,9068,1271,35,1,Research Scientist,4,5,Yes,8,2,1,2,2,No
+878,36,Male,Married,3,Social Sciences,rarely,Human Resources,8,2342,8635,1278,77,1,Human Resources,1,0,No,6,5,4,0,3,No
+879,25,Male,Married,1,Other,rarely,Sales,3,4194,14363,141,98,2,Sales Executive,1,1,Yes,5,5,3,0,3,No
+880,35,Female,Married,3,Social Sciences,rarely,Research & Development,9,10685,23457,607,66,3,Manufacturing Director,3,1,Yes,17,17,14,5,15,No
+881,35,Female,Divorced,4,Social Sciences,frequently,Research & Development,25,2022,16612,130,96,1,Research Scientist,2,1,Yes,10,10,2,7,8,Yes
+882,32,Male,Divorced,3,Social Sciences,none,Research & Development,1,2314,9148,300,61,1,Laboratory Technician,4,0,No,4,3,0,0,2,No
+885,25,Male,Married,1,Business,rarely,Sales,4,4256,18154,583,87,2,Sales Executive,1,1,No,5,5,2,0,3,No
+887,49,Female,Married,3,Engineering,rarely,Research & Development,1,3580,10554,1418,36,1,Research Scientist,1,2,No,7,4,2,0,2,No
+888,24,Male,Married,1,Social Sciences,none,Research & Development,4,3162,10778,1269,46,1,Laboratory Technician,4,0,No,6,5,2,3,4,No
+889,32,Male,Married,2,Social Sciences,frequently,Sales,5,6524,8891,379,48,2,Sales Executive,2,1,No,10,10,8,5,3,No
+893,38,Male,Married,3,Business,rarely,Sales,9,2899,12102,395,98,1,Sales Representative,2,0,No,3,2,2,1,2,No
+894,42,Female,Married,3,Social Sciences,rarely,Research & Development,3,5231,23726,1265,95,2,Laboratory Technician,4,2,Yes,17,5,3,1,3,No
+895,31,Male,Married,4,Social Sciences,rarely,Research & Development,11,2356,14871,1222,48,1,Research Scientist,4,3,Yes,8,6,4,0,2,No
+896,29,Female,Divorced,3,Health Science,rarely,Sales,1,2800,23522,341,48,1,Sales Representative,3,6,Yes,5,3,2,0,2,Yes
+897,53,Male,Married,3,Business,rarely,Sales,8,11836,22789,868,73,4,Sales Executive,4,5,No,28,2,0,2,2,No
+899,35,Male,Married,3,Engineering,rarely,Research & Development,25,10903,9129,672,78,3,Manufacturing Director,2,3,No,16,13,10,4,8,No
+900,37,Female,Married,2,Health Science,frequently,Sales,21,2973,21222,1231,54,1,Sales Representative,4,5,No,10,5,4,0,0,No
+901,53,Female,Single,4,Social Sciences,rarely,Research & Development,23,14275,20206,102,72,4,Research Director,4,6,No,33,12,9,3,8,No
+902,43,Female,Married,3,Social Sciences,frequently,Research & Development,1,5562,21782,422,33,2,Healthcare Representative,4,4,No,12,5,2,2,2,No
+903,47,Female,Married,2,Business,rarely,Sales,2,4537,17783,249,35,2,Sales Executive,4,0,Yes,8,7,6,7,7,No
+904,37,Male,Single,2,Health Science,none,Sales,19,7642,4814,1252,32,3,Sales Executive,2,1,Yes,10,10,0,0,9,No
+905,50,Male,Divorced,4,Social Sciences,none,Research & Development,2,17924,4544,881,98,4,Manager,1,1,No,31,31,6,14,7,No
+909,39,Female,Married,3,Social Sciences,rarely,Human Resources,2,5204,7790,1383,42,2,Human Resources,4,8,No,13,5,4,0,4,No
+910,33,Male,Divorced,2,Human Resources,rarely,Human Resources,3,2277,22650,1075,57,1,Human Resources,2,3,Yes,7,4,3,0,3,No
+911,32,Male,Single,4,Social Sciences,rarely,Research & Development,25,2795,18016,374,87,1,Laboratory Technician,4,1,Yes,1,1,0,0,1,Yes
+912,29,Female,Divorced,1,Health Science,rarely,Research & Development,7,2532,6054,1086,62,1,Laboratory Technician,4,6,No,8,4,3,0,3,No
+913,44,Male,Married,2,Social Sciences,rarely,Research & Development,9,2559,7508,661,61,1,Research Scientist,1,1,Yes,8,8,7,7,1,No
+916,28,Male,Single,4,Health Science,rarely,Sales,5,4908,24252,821,98,2,Sales Executive,4,1,No,4,4,2,0,2,No
+918,58,Male,Divorced,1,Social Sciences,frequently,Research & Development,2,2380,13384,781,57,1,Laboratory Technician,4,9,Yes,3,1,0,0,0,Yes
+920,43,Female,Divorced,3,Social Sciences,rarely,Research & Development,8,4765,23814,177,55,2,Manufacturing Director,2,4,No,4,1,0,0,0,No
+922,20,Female,Single,3,Health Science,rarely,Sales,2,2044,22052,500,49,1,Sales Representative,3,1,No,2,2,2,0,2,Yes
+923,21,Female,Single,1,Other,rarely,Research & Development,18,2693,8870,1427,65,1,Research Scientist,4,1,No,1,1,0,0,0,Yes
+924,36,Male,Married,1,Social Sciences,rarely,Research & Development,14,6586,4821,1425,68,2,Healthcare Representative,4,0,Yes,17,16,8,4,11,No
+925,47,Female,Single,4,Social Sciences,rarely,Sales,2,3294,13137,1454,65,1,Sales Representative,4,1,Yes,3,3,2,1,2,No
+926,22,Female,Married,1,Social Sciences,rarely,Research & Development,3,4171,10022,617,34,2,Manufacturing Director,3,0,Yes,4,3,2,0,2,Yes
+927,41,Female,Divorced,4,Social Sciences,rarely,Research & Development,2,2778,17725,1085,57,1,Laboratory Technician,4,4,Yes,10,7,7,1,0,Yes
+930,28,Female,Divorced,3,Health Science,rarely,Research & Development,9,2377,9834,995,77,1,Research Scientist,3,5,No,6,2,2,2,2,No
+932,39,Male,Married,3,Health Science,rarely,Research & Development,6,2404,4303,1122,70,1,Laboratory Technician,1,7,Yes,8,2,2,2,2,Yes
+933,27,Female,Single,3,Social Sciences,rarely,Research & Development,4,2318,17808,618,76,1,Research Scientist,3,1,No,1,1,1,0,0,No
+934,34,Male,Divorced,3,Social Sciences,rarely,Research & Development,10,2008,6896,546,83,1,Laboratory Technician,2,1,No,1,1,0,1,0,No
+936,42,Female,Single,2,Health Science,rarely,Sales,14,6244,7824,462,68,2,Sales Executive,3,7,No,10,5,4,0,3,No
+939,33,Male,Single,4,Other,rarely,Research & Development,1,2799,3339,1198,100,1,Research Scientist,1,3,Yes,6,3,2,0,2,No
+940,58,Female,Divorced,3,Engineering,rarely,Research & Development,5,10552,9255,1272,37,3,Healthcare Representative,2,2,Yes,24,6,0,0,4,No
+941,31,Male,Married,4,Social Sciences,rarely,Sales,7,2329,11737,154,41,1,Sales Representative,3,3,No,13,7,7,5,2,No
+942,35,Female,Married,1,Social Sciences,rarely,Research & Development,21,4014,19170,1137,51,2,Healthcare Representative,4,1,Yes,10,10,6,0,7,No
+944,49,Female,Married,2,Other,rarely,Research & Development,8,7403,22477,527,51,3,Laboratory Technician,2,4,No,29,26,9,1,7,No
+945,48,Male,Married,4,Health Science,rarely,Research & Development,20,2259,5543,1469,51,1,Research Scientist,3,4,No,13,0,0,0,0,No
+947,31,Female,Married,2,Business,none,Sales,20,6932,24406,1188,45,2,Sales Executive,3,1,No,9,9,8,0,0,No
+949,36,Male,Single,4,Other,rarely,Research & Development,7,4678,23293,188,65,1,Research Scientist,4,2,No,8,6,2,0,1,No
+950,38,Female,Married,3,Engineering,rarely,Research & Development,1,13582,16292,1333,80,3,Research Director,1,1,No,15,15,12,5,11,No
+951,32,Female,Married,3,Social Sciences,none,Research & Development,1,2332,3974,1184,70,1,Laboratory Technician,2,6,No,5,3,0,0,2,No
+952,25,Male,Married,2,Business,rarely,Sales,19,2413,18798,867,36,1,Sales Representative,2,1,Yes,1,1,0,0,0,Yes
+954,40,Male,Divorced,4,Business,rarely,Sales,10,9705,20652,658,67,3,Sales Executive,2,2,No,11,1,0,0,0,No
+956,26,Male,Single,3,Health Science,frequently,Sales,1,4294,11148,1283,52,2,Sales Executive,1,1,No,7,7,7,0,7,No
+957,41,Male,Single,3,Health Science,rarely,Research & Development,6,4721,3119,263,59,1,Laboratory Technician,1,2,Yes,20,18,13,2,17,No
+958,36,Male,Single,4,Health Science,rarely,Research & Development,2,2519,12287,938,79,1,Laboratory Technician,3,4,No,16,11,8,3,9,No
+959,19,Male,Single,3,Other,rarely,Sales,21,2121,9947,419,37,1,Sales Representative,2,1,Yes,1,1,0,0,0,Yes
+960,20,Male,Single,3,Engineering,rarely,Research & Development,4,2973,13008,129,84,1,Laboratory Technician,1,1,No,1,1,0,0,0,Yes
+961,31,Female,Married,3,Health Science,rarely,Research & Development,12,5855,17369,616,41,2,Healthcare Representative,4,0,Yes,10,9,7,8,5,No
+964,40,Male,Divorced,4,Health Science,frequently,Research & Development,9,3617,25063,1469,35,1,Research Scientist,2,8,Yes,3,1,1,0,0,No
+966,32,Female,Married,4,Health Science,rarely,Research & Development,3,6725,13554,498,93,2,Manufacturing Director,1,1,No,8,8,7,6,3,No
+967,36,Male,Married,1,Social Sciences,rarely,Sales,3,10325,5518,530,51,3,Sales Executive,4,1,Yes,16,16,7,3,7,Yes
+969,33,Female,Single,3,Social Sciences,rarely,Research & Development,1,6949,12291,1069,42,2,Healthcare Representative,4,0,No,6,5,0,1,4,No
+970,37,Male,Married,4,Social Sciences,rarely,Sales,1,10609,14922,625,46,3,Sales Executive,3,5,No,17,14,1,11,7,Yes
+972,45,Male,Married,2,Social Sciences,none,Research & Development,4,4447,23163,805,57,2,Laboratory Technician,2,1,No,9,9,7,0,8,No
+974,29,Female,Married,3,Engineering,frequently,Sales,20,2157,18203,1404,84,1,Sales Representative,4,1,No,3,3,1,0,2,No
+975,35,Female,Married,3,Health Science,rarely,Sales,18,4601,6179,1219,86,2,Sales Executive,3,1,No,5,5,2,1,0,No
+976,52,Male,Married,2,Social Sciences,rarely,Research & Development,1,17099,13829,1053,70,4,Manager,4,2,No,26,9,8,7,8,No
+977,58,Male,Single,3,Engineering,rarely,Research & Development,2,2479,26227,289,51,1,Research Scientist,3,4,No,7,1,0,0,0,Yes
+981,53,Male,Divorced,2,Health Science,rarely,Sales,2,14852,13938,1376,45,4,Manager,3,6,No,22,17,13,15,2,No
+982,30,Male,Divorced,2,Other,rarely,Sales,8,7264,9977,231,62,3,Sales Executive,3,5,No,10,8,4,7,7,No
+983,38,Female,Single,3,Engineering,none,Sales,10,5666,19899,152,85,2,Sales Executive,4,1,Yes,6,5,3,1,3,No
+984,35,Male,Divorced,4,Social Sciences,rarely,Sales,3,7823,6812,882,92,3,Sales Executive,4,6,No,12,10,9,0,8,No
+985,39,Male,Single,5,Social Sciences,rarely,Sales,2,7880,2560,903,41,3,Sales Executive,3,0,No,9,8,7,0,7,No
+986,40,Female,Single,3,Social Sciences,none,Sales,24,13194,17071,1479,100,4,Sales Executive,2,4,Yes,22,1,0,0,0,Yes
+987,47,Male,Divorced,4,Health Science,frequently,Research & Development,16,5067,6759,1379,64,2,Manufacturing Director,3,1,Yes,20,19,10,2,7,No
+990,36,Male,Divorced,4,Engineering,none,Sales,8,5079,25952,1229,84,2,Sales Executive,4,4,No,12,7,7,0,7,No
+991,31,Male,Single,2,Health Science,none,Research & Development,9,2321,10322,335,46,1,Research Scientist,1,0,Yes,4,3,2,1,2,Yes
+992,33,Male,Single,3,Social Sciences,none,Sales,17,17444,20489,722,38,4,Manager,3,1,No,10,10,8,6,0,No
+994,29,Female,Single,3,Social Sciences,rarely,Research & Development,10,2404,11479,906,92,1,Research Scientist,1,6,Yes,3,0,0,0,0,Yes
+995,33,Female,Single,1,Social Sciences,rarely,Research & Development,13,3452,17241,461,53,1,Research Scientist,4,3,No,5,3,2,0,2,No
+996,45,Female,Divorced,4,Health Science,rarely,Research & Development,1,2270,11005,974,91,1,Laboratory Technician,4,3,No,8,5,3,0,2,No
+997,50,Male,Divorced,2,Health Science,rarely,Research & Development,1,17399,6615,1126,66,4,Research Director,4,9,No,32,5,4,1,3,No
+998,33,Female,Married,4,Other,frequently,Research & Development,1,5488,20161,827,84,2,Healthcare Representative,2,1,Yes,6,6,5,1,2,No
+999,41,Male,Divorced,3,Health Science,frequently,Research & Development,9,19419,3735,840,64,5,Research Director,3,2,No,21,18,16,0,11,No
+1001,27,Female,Married,4,Engineering,rarely,Research & Development,16,2811,12086,1134,37,1,Laboratory Technician,2,9,No,4,2,2,2,2,No
+1002,45,Male,Married,2,Social Sciences,none,Research & Development,23,3633,14039,248,42,2,Laboratory Technician,1,1,Yes,9,9,8,0,8,No
+1003,47,Female,Single,2,Social Sciences,rarely,Sales,4,4163,8571,955,83,2,Sales Executive,4,1,Yes,9,9,0,0,7,No
+1004,30,Female,Married,3,Social Sciences,rarely,Research & Development,22,2132,11539,138,48,1,Research Scientist,3,4,Yes,7,5,2,0,1,Yes
+1005,50,Male,Married,3,Social Sciences,rarely,Research & Development,24,13973,4161,939,95,4,Manufacturing Director,3,3,Yes,22,12,11,1,5,No
+1006,38,Male,Married,1,Health Science,frequently,Research & Development,10,2684,12127,1391,66,1,Research Scientist,3,0,No,3,2,1,0,2,No
+1007,46,Male,Divorced,2,Health Science,rarely,Research & Development,7,10845,24208,566,75,3,Manufacturing Director,3,6,No,13,8,7,0,7,No
+1009,24,Female,Divorced,1,Health Science,rarely,Research & Development,17,4377,24117,1206,41,2,Manufacturing Director,3,1,No,5,4,2,3,2,No
+1010,35,Male,Divorced,4,Other,rarely,Research & Development,14,3743,10074,622,39,1,Laboratory Technician,2,1,Yes,5,4,2,0,2,Yes
+1011,31,Female,Married,1,Social Sciences,frequently,Research & Development,1,4148,11275,853,96,2,Manufacturing Director,1,1,No,4,4,3,0,3,No
+1012,18,Male,Single,2,Social Sciences,none,Research & Development,5,1051,13493,287,73,1,Research Scientist,4,1,No,0,0,0,0,0,No
+1013,54,Female,Married,3,Engineering,rarely,Research & Development,17,10739,13943,1441,56,3,Manufacturing Director,3,8,No,22,10,7,0,8,No
+1014,35,Female,Divorced,4,Health Science,rarely,Research & Development,25,10388,6975,583,57,3,Healthcare Representative,3,1,Yes,16,16,10,10,1,No
+1015,30,Female,Married,2,Social Sciences,rarely,Research & Development,8,11416,17802,153,73,3,Research Director,1,0,Yes,9,8,7,1,7,No
+1016,20,Female,Single,3,Health Science,rarely,Research & Development,11,2600,18275,1097,98,1,Research Scientist,1,1,Yes,1,1,0,0,0,Yes
+1017,30,Female,Single,3,Health Science,frequently,Research & Development,5,2422,25725,109,60,1,Laboratory Technician,2,0,No,4,3,2,1,2,Yes
+1018,26,Male,Married,2,Health Science,rarely,Research & Development,2,5472,3334,1066,32,2,Manufacturing Director,4,1,No,8,8,7,1,3,No
+1019,22,Male,Married,1,Social Sciences,rarely,Research & Development,8,2451,6881,217,94,1,Laboratory Technician,1,1,No,4,4,3,1,1,No
+1022,48,Male,Single,3,Social Sciences,rarely,Research & Development,6,4240,13119,277,97,2,Healthcare Representative,3,2,No,19,2,2,2,2,No
+1024,48,Male,Single,4,Social Sciences,rarely,Research & Development,4,10999,22245,1355,78,3,Healthcare Representative,3,7,No,27,15,11,4,8,No
+1025,41,Female,Single,2,Health Science,rarely,Research & Development,7,5003,23371,549,42,2,Manufacturing Director,3,6,No,8,2,2,2,1,No
+1026,39,Female,Married,1,Social Sciences,rarely,Research & Development,1,12742,7060,466,65,4,Manufacturing Director,4,1,No,21,21,6,11,8,No
+1027,27,Female,Married,4,Social Sciences,rarely,Research & Development,2,4227,4658,1055,47,2,Manufacturing Director,4,0,No,4,3,2,2,2,No
+1028,35,Male,Divorced,3,Other,rarely,Research & Development,10,3917,9541,802,45,1,Laboratory Technician,4,1,No,3,3,2,1,2,No
+1029,42,Male,Married,2,Business,rarely,Sales,5,18303,7770,265,90,5,Manager,3,6,No,21,1,0,0,0,No
+1030,50,Male,Married,3,Social Sciences,rarely,Research & Development,9,2380,20165,804,64,1,Laboratory Technician,4,4,No,8,1,0,0,0,No
+1032,59,Female,Single,3,Social Sciences,rarely,Research & Development,2,13726,21829,715,69,4,Manufacturing Director,4,3,Yes,30,5,3,4,3,No
+1033,37,Female,Married,2,Health Science,rarely,Research & Development,11,4777,14382,1141,61,2,Healthcare Representative,2,5,No,15,1,0,0,0,Yes
+1034,55,Male,Married,4,Health Science,frequently,Research & Development,18,6385,12992,135,62,2,Healthcare Representative,2,3,Yes,17,8,7,6,7,No
+1035,41,Female,Divorced,1,Social Sciences,none,Research & Development,7,19973,20284,247,55,5,Research Director,3,1,No,21,21,16,5,10,No
+1036,38,Male,Single,4,Social Sciences,rarely,Sales,3,6861,4981,1035,42,2,Sales Executive,4,8,Yes,19,1,0,0,0,No
+1037,26,Male,Single,2,Health Science,none,Sales,29,4969,21813,265,79,2,Sales Executive,1,8,No,7,2,2,2,2,Yes
+1038,52,Female,Married,1,Business,rarely,Sales,2,19845,25846,266,57,5,Manager,4,1,No,33,32,14,6,9,Yes
+1039,44,Female,Married,3,Health Science,rarely,Sales,28,13320,11737,1448,53,4,Sales Executive,4,3,Yes,23,12,11,11,11,No
+1040,50,Female,Married,3,Social Sciences,none,Sales,1,6347,24920,145,95,2,Sales Executive,3,0,No,19,18,7,0,13,No
+1042,36,Female,Single,4,Social Sciences,rarely,Research & Development,16,2743,8269,885,43,1,Laboratory Technician,1,1,No,18,17,13,15,14,Yes
+1043,39,Female,Single,3,Health Science,frequently,Research & Development,22,10880,5083,945,82,3,Manufacturing Director,1,1,Yes,21,21,6,2,8,No
+1044,33,Female,Single,1,Social Sciences,none,Sales,8,2342,21437,1038,88,1,Sales Representative,4,0,No,3,2,2,2,2,No
+1045,45,Female,Married,2,Social Sciences,rarely,Sales,11,17650,5404,1234,90,4,Manager,4,3,No,26,9,3,1,1,No
+1046,32,Female,Single,4,Health Science,none,Research & Development,29,4025,11135,1109,69,1,Laboratory Technician,3,9,No,10,8,7,7,7,No
+1047,34,Male,Divorced,4,Business,rarely,Sales,1,9725,12278,216,75,2,Sales Executive,4,0,No,16,15,1,0,9,No
+1048,59,Male,Married,2,Engineering,rarely,Sales,1,11904,11038,1089,66,3,Manager,4,3,Yes,14,6,4,0,4,No
+1049,45,Male,Single,4,Health Science,rarely,Human Resources,24,2177,8318,788,36,1,Human Resources,2,1,No,6,6,3,0,4,No
+1050,53,Female,Married,3,Business,frequently,Sales,2,7525,23537,124,38,3,Sales Executive,2,2,No,30,15,7,6,12,No
+1052,36,Male,Divorced,3,Other,rarely,Research & Development,15,4834,7858,660,81,2,Laboratory Technician,3,7,No,9,1,0,0,0,Yes
+1053,26,Male,Married,3,Social Sciences,frequently,Research & Development,2,2042,15346,342,57,1,Research Scientist,1,6,Yes,6,3,2,1,2,Yes
+1055,34,Female,Married,4,Social Sciences,rarely,Sales,10,2220,18410,1333,87,1,Sales Representative,3,1,Yes,1,1,1,0,0,No
+1056,28,Male,Married,1,Health Science,rarely,Sales,10,1052,23384,1144,74,1,Sales Representative,2,1,No,1,1,0,0,0,No
+1060,38,Male,Married,4,Other,frequently,Research & Development,3,2821,2997,1186,44,1,Research Scientist,3,3,No,8,2,2,2,2,No
+1061,50,Male,Married,4,Health Science,rarely,Research & Development,2,19237,12853,1464,62,5,Research Director,3,2,Yes,29,8,1,7,7,No
+1062,37,Female,Single,3,Other,rarely,Research & Development,3,4107,13848,124,35,2,Healthcare Representative,2,3,No,8,4,3,0,1,No
+1066,40,Male,Married,3,Business,rarely,Sales,26,8396,22217,300,74,2,Sales Executive,1,1,No,8,7,7,7,5,No
+1068,26,Female,Divorced,1,Health Science,frequently,Research & Development,1,2007,25265,921,66,1,Research Scientist,3,1,No,5,5,3,1,3,No
+1069,46,Male,Divorced,4,Health Science,rarely,Research & Development,1,19627,21445,430,40,5,Research Director,4,9,No,23,2,2,2,2,No
+1070,54,Female,Married,4,Social Sciences,rarely,Sales,2,10686,8392,1082,41,3,Sales Executive,3,6,No,13,9,4,7,0,No
+1071,56,Female,Married,3,Health Science,frequently,Research & Development,9,2942,12154,1240,63,1,Research Scientist,3,2,No,18,5,4,0,3,No
+1073,36,Female,Single,5,Health Science,rarely,Research & Development,12,8858,15669,796,51,3,Manufacturing Director,4,0,No,15,14,8,7,8,No
+1074,55,Male,Single,1,Health Science,none,Research & Development,2,16756,17323,444,40,4,Manager,1,7,No,31,9,7,6,2,No
+1076,43,Male,Divorced,3,Health Science,rarely,Sales,25,10798,5268,415,79,3,Sales Executive,4,5,No,18,1,0,0,0,No
+1077,20,Female,Single,3,Business,frequently,Sales,9,2323,17205,769,54,1,Sales Representative,4,1,Yes,2,2,2,0,2,Yes
+1079,21,Female,Single,3,Social Sciences,rarely,Research & Development,10,1416,17258,1334,36,1,Laboratory Technician,1,1,No,1,1,0,1,0,Yes
+1080,46,Female,Divorced,4,Social Sciences,rarely,Research & Development,8,4615,21029,1003,74,2,Research Scientist,1,8,Yes,19,16,13,1,7,No
+1081,51,Male,Married,4,Social Sciences,rarely,Research & Development,4,2461,10332,1323,34,1,Research Scientist,3,9,Yes,18,10,0,2,7,Yes
+1082,28,Male,Single,2,Engineering,none,Research & Development,24,8722,12355,1366,72,3,Healthcare Representative,1,1,No,10,10,7,1,9,Yes
+1083,26,Male,Married,2,Health Science,rarely,Research & Development,1,3955,11141,192,59,1,Laboratory Technician,1,1,No,6,5,3,1,3,No
+1084,30,Male,Married,3,Other,rarely,Research & Development,20,9957,9096,1176,85,2,Manufacturing Director,1,0,No,7,6,2,0,2,No
+1085,41,Female,Married,2,Engineering,rarely,Research & Development,7,3376,18863,509,43,1,Research Scientist,3,1,No,10,10,6,0,8,No
+1088,38,Female,Married,1,Social Sciences,rarely,Research & Development,17,8823,24608,330,65,3,Healthcare Representative,3,0,No,20,19,9,1,9,No
+1092,40,Male,Married,4,Engineering,rarely,Research & Development,20,10322,26542,1492,61,3,Healthcare Representative,4,4,No,14,11,10,11,1,No
+1094,27,Male,Married,5,Social Sciences,none,Research & Development,8,4621,5869,1277,87,1,Laboratory Technician,3,1,No,3,3,2,1,2,No
+1096,55,Male,Married,1,Social Sciences,frequently,Research & Development,2,10976,15813,1091,65,3,Manufacturing Director,2,3,No,23,3,2,1,2,No
+1097,28,Female,Single,3,Other,rarely,Research & Development,10,3660,7909,857,59,2,Research Scientist,3,3,No,10,8,7,1,7,No
+1098,44,Male,Married,2,Health Science,rarely,Human Resources,1,10482,2326,1376,91,3,Human Resources,1,9,No,24,20,6,3,6,Yes
+1099,33,Male,Divorced,3,Social Sciences,rarely,Research & Development,5,7119,21214,654,34,3,Healthcare Representative,4,4,No,9,3,2,1,2,No
+1100,35,Male,Single,3,Engineering,rarely,Sales,4,9582,10333,1204,86,3,Sales Executive,1,0,Yes,9,8,7,4,7,Yes
+1101,33,Female,Single,4,Health Science,frequently,Research & Development,29,4508,3129,827,54,2,Research Scientist,3,1,No,14,13,7,3,8,Yes
+1102,28,Male,Divorced,2,Social Sciences,rarely,Research & Development,15,2207,22482,895,50,1,Laboratory Technician,3,1,No,4,4,2,2,2,No
+1103,34,Male,Single,1,Social Sciences,frequently,Research & Development,3,7756,22266,618,45,2,Healthcare Representative,4,0,No,7,6,2,0,4,No
+1105,37,Female,Divorced,4,Social Sciences,rarely,Sales,10,6694,24223,309,88,2,Sales Executive,4,2,Yes,8,1,0,0,0,No
+1106,25,Male,Married,1,Engineering,rarely,Research & Development,4,3691,4605,1219,32,1,Laboratory Technician,4,1,Yes,7,7,7,5,6,Yes
+1107,26,Male,Divorced,3,Health Science,rarely,Research & Development,21,2377,19373,1330,37,1,Laboratory Technician,3,1,No,1,1,1,0,0,Yes
+1108,33,Male,Single,3,Health Science,rarely,Research & Development,25,2313,2993,1017,55,1,Research Scientist,2,4,Yes,5,2,2,2,2,Yes
+1109,42,Male,Married,2,Health Science,rarely,Research & Development,2,17665,14399,469,35,4,Manager,1,0,No,23,22,6,13,7,No
+1111,28,Male,Divorced,3,Health Science,frequently,Research & Development,1,2596,7160,1009,45,1,Laboratory Technician,2,1,No,1,1,0,0,0,Yes
+1113,50,Male,Single,4,Other,frequently,Sales,1,4728,17251,959,81,2,Sales Executive,3,3,Yes,5,0,0,0,0,Yes
+1114,33,Female,Married,3,Social Sciences,frequently,Sales,7,4302,13401,970,30,2,Sales Executive,2,0,No,4,3,2,0,2,No
+1115,34,Male,Married,4,Social Sciences,none,Research & Development,3,2979,22478,697,40,1,Research Scientist,4,3,No,6,0,0,0,0,No
+1116,48,Male,Single,4,Health Science,none,Research & Development,1,16885,16154,1262,35,4,Manager,4,2,No,27,5,4,2,1,No
+1117,45,Female,Married,4,Social Sciences,none,Sales,9,5593,17970,1050,65,2,Sales Executive,3,1,No,15,15,10,4,12,No
+1118,52,Male,Single,4,Social Sciences,rarely,Research & Development,7,10445,15322,994,87,3,Healthcare Representative,2,7,No,18,8,6,4,0,No
+1119,38,Male,Divorced,4,Business,rarely,Sales,10,8740,5569,770,73,3,Sales Executive,3,0,Yes,9,8,7,2,7,No
+1120,29,Female,Divorced,4,Social Sciences,rarely,Research & Development,28,2514,26968,1107,93,1,Research Scientist,4,4,No,11,7,5,1,7,No
+1121,28,Female,Divorced,3,Health Science,rarely,Research & Development,3,7655,8039,950,93,3,Manufacturing Director,2,0,No,10,9,7,1,7,No
+1124,46,Male,Married,1,Business,rarely,Sales,3,17465,15596,406,52,4,Manager,3,3,No,23,12,9,4,9,No
+1125,38,Male,Single,2,Business,rarely,Sales,2,7351,20619,130,32,3,Sales Executive,2,7,No,10,1,0,0,0,No
+1126,43,Female,Married,3,Social Sciences,frequently,Research & Development,27,10820,11535,1082,83,3,Manufacturing Director,1,8,No,18,8,7,0,1,No
+1127,39,Male,Divorced,3,Social Sciences,frequently,Research & Development,2,12169,13547,203,84,4,Healthcare Representative,4,7,No,21,18,7,11,5,Yes
+1128,40,Male,Single,3,Health Science,rarely,Research & Development,14,19626,17544,1308,44,5,Research Director,3,1,No,21,20,7,4,9,No
+1131,21,Female,Single,1,Engineering,rarely,Research & Development,1,2070,25326,984,70,1,Research Scientist,2,1,Yes,2,2,2,2,2,No
+1132,39,Male,Single,3,Social Sciences,none,Research & Development,9,6782,8770,439,70,2,Laboratory Technician,2,9,No,9,5,4,0,3,No
+1133,36,Male,Single,4,Social Sciences,none,Research & Development,18,7779,23238,217,78,2,Manufacturing Director,4,2,No,18,11,9,0,9,No
+1135,31,Male,Married,3,Social Sciences,frequently,Sales,20,2791,21981,793,67,1,Sales Representative,4,0,No,3,2,2,2,2,No
+1136,28,Male,Married,1,Social Sciences,rarely,Research & Development,2,3201,19911,1451,67,1,Research Scientist,2,0,No,6,5,3,0,4,No
+1137,35,Male,Divorced,2,Business,frequently,Sales,11,4968,18500,1182,54,2,Sales Executive,4,1,No,5,5,2,0,2,No
+1138,49,Male,Married,4,Engineering,rarely,Sales,8,13120,11879,174,56,4,Sales Executive,2,6,No,22,9,8,2,3,No
+1140,34,Male,Single,2,Social Sciences,frequently,Research & Development,2,4033,15834,1003,95,2,Manufacturing Director,3,2,No,5,3,2,0,2,No
+1143,29,Female,Divorced,3,Social Sciences,frequently,Research & Development,10,3291,17940,490,61,1,Research Scientist,2,0,No,8,7,5,1,1,No
+1148,42,Male,Single,3,Health Science,rarely,Research & Development,29,4272,9558,188,56,2,Laboratory Technician,4,4,No,16,1,0,0,0,No
+1150,29,Male,Married,1,Health Science,rarely,Research & Development,8,5056,17689,718,79,2,Manufacturing Director,4,1,Yes,10,10,7,1,2,No
+1152,38,Male,Married,3,Human Resources,rarely,Human Resources,1,2844,6004,433,37,1,Human Resources,3,1,No,7,7,6,5,0,No
+1154,28,Male,Divorced,3,Social Sciences,frequently,Research & Development,6,2703,22088,773,39,1,Research Scientist,3,1,Yes,3,3,1,0,2,No
+1156,18,Male,Single,1,Health Science,none,Research & Development,8,1904,13556,247,80,1,Laboratory Technician,3,1,No,0,0,0,0,0,Yes
+1157,33,Female,Single,4,Business,rarely,Sales,9,8224,18385,603,77,2,Sales Executive,1,0,Yes,6,5,2,0,3,Yes
+1158,41,Male,Married,4,Social Sciences,rarely,Research & Development,12,4766,9051,167,46,1,Laboratory Technician,4,3,Yes,6,1,0,0,0,No
+1160,31,Male,Married,3,Health Science,frequently,Research & Development,15,2610,6233,874,72,1,Laboratory Technician,3,1,No,2,2,2,2,2,Yes
+1161,37,Female,Divorced,2,Health Science,rarely,Research & Development,25,5731,17171,367,52,2,Healthcare Representative,4,7,No,9,6,2,1,3,No
+1162,27,Male,Married,3,Social Sciences,rarely,Research & Development,6,2539,7950,199,55,1,Research Scientist,3,1,No,4,4,2,2,2,No
+1163,34,Female,Married,1,Social Sciences,rarely,Sales,9,5714,5829,1400,70,2,Sales Executive,3,1,No,6,6,5,1,3,No
+1164,35,Male,Single,4,Engineering,rarely,Human Resources,8,4323,7108,528,100,1,Human Resources,3,1,No,6,5,4,1,4,No
+1165,29,Female,Married,1,Social Sciences,rarely,Sales,23,7336,11162,408,45,3,Sales Executive,1,1,No,11,11,8,3,10,Yes
+1166,40,Female,Single,4,Health Science,frequently,Research & Development,9,13499,13782,593,88,3,Research Director,3,9,No,20,18,7,2,13,No
+1167,42,Male,Single,3,Social Sciences,frequently,Sales,12,13758,2447,481,44,4,Sales Executive,1,0,Yes,22,21,9,13,14,Yes
+1171,42,Male,Single,4,Business,rarely,Sales,4,5155,2253,647,45,2,Sales Executive,1,7,No,9,6,4,1,5,No
+1172,35,Male,Married,4,Health Science,rarely,Research & Development,1,2258,16340,982,58,1,Laboratory Technician,3,6,No,10,8,0,1,7,No
+1173,24,Male,Single,3,Health Science,rarely,Research & Development,24,3597,6409,477,49,1,Laboratory Technician,2,8,No,6,4,3,1,2,No
+1175,28,Female,Married,1,Social Sciences,rarely,Research & Development,12,2515,22955,1485,79,1,Laboratory Technician,4,1,Yes,1,1,1,0,0,Yes
+1177,26,Male,Married,4,Health Science,rarely,Research & Development,3,4420,13421,1384,82,1,Laboratory Technician,4,1,No,8,8,7,0,7,No
+1179,30,Male,Married,3,Business,rarely,Sales,10,6578,2706,852,72,2,Sales Executive,3,1,No,10,10,3,1,4,No
+1180,40,Female,Married,2,Health Science,frequently,Research & Development,26,4422,21203,902,92,2,Research Scientist,4,3,Yes,16,1,1,0,0,No
+1182,35,Male,Divorced,3,Social Sciences,rarely,Research & Development,2,10274,19588,819,44,3,Manufacturing Director,2,2,No,15,7,7,6,4,No
+1184,34,Male,Single,3,Health Science,frequently,Research & Development,1,5343,25755,669,97,2,Healthcare Representative,1,0,No,14,13,9,4,9,No
+1185,35,Male,Married,4,Other,frequently,Research & Development,4,2376,26537,636,47,1,Laboratory Technician,4,1,No,2,2,2,2,2,No
+1188,43,Female,Single,3,Business,rarely,Sales,9,5346,9489,1372,85,2,Sales Executive,3,8,No,7,4,3,1,3,Yes
+1190,32,Female,Divorced,1,Social Sciences,none,Sales,2,2827,14947,862,76,1,Sales Representative,1,1,No,1,1,0,0,0,No
+1191,56,Female,Divorced,4,Engineering,rarely,Research & Development,4,19943,18575,718,92,5,Manager,1,4,No,28,5,2,4,2,No
+1192,29,Female,Married,1,Health Science,rarely,Research & Development,6,3131,26342,1401,54,1,Laboratory Technician,4,1,No,10,10,8,0,8,No
+1193,19,Male,Single,2,Social Sciences,rarely,Research & Development,9,2552,7172,645,54,1,Research Scientist,1,1,No,1,1,1,0,0,No
+1195,45,Female,Married,3,Health Science,rarely,Research & Development,7,4477,20100,1457,83,1,Research Scientist,3,4,Yes,7,3,2,0,2,No
+1196,37,Female,Married,3,Social Sciences,rarely,Research & Development,1,6474,9961,977,56,2,Manufacturing Director,4,1,No,14,14,8,3,11,No
+1198,20,Male,Single,3,Social Sciences,rarely,Research & Development,3,3033,12828,805,87,1,Laboratory Technician,3,1,No,2,2,2,1,2,No
+1200,44,Male,Single,4,Social Sciences,rarely,Research & Development,10,2936,10826,1097,96,1,Research Scientist,3,1,Yes,6,6,4,0,2,Yes
+1201,53,Female,Divorced,2,Health Science,rarely,Research & Development,7,18606,18640,1223,50,5,Manager,3,3,No,26,7,7,4,7,No
+1202,29,Female,Married,1,Social Sciences,rarely,Research & Development,15,2168,26933,942,69,1,Research Scientist,4,0,Yes,6,5,4,1,3,No
+1203,22,Male,Married,4,Social Sciences,frequently,Research & Development,3,2853,4223,1256,48,1,Research Scientist,4,0,Yes,1,0,0,0,0,Yes
+1204,46,Female,Married,3,Business,rarely,Sales,2,17048,24097,1402,69,4,Manager,1,8,No,28,26,15,15,9,No
+1206,44,Male,Single,3,Social Sciences,none,Research & Development,17,2290,4279,111,74,1,Research Scientist,3,2,No,6,0,0,0,0,No
+1207,33,Male,Married,3,Human Resources,rarely,Human Resources,2,3600,8429,147,99,1,Human Resources,3,1,No,5,5,4,1,4,No
+1210,41,Male,Divorced,2,Social Sciences,none,Research & Development,5,2107,20293,906,95,1,Research Scientist,1,6,No,5,1,0,0,0,Yes
+1211,30,Male,Divorced,4,Social Sciences,rarely,Sales,29,4115,13192,1329,61,2,Sales Executive,1,8,No,8,4,3,0,3,No
+1212,40,Male,Married,4,Health Science,frequently,Sales,2,4327,25440,1184,62,2,Sales Executive,2,5,No,5,0,0,0,0,No
+1215,50,Female,Married,3,Health Science,frequently,Research & Development,2,17856,9490,1421,30,4,Manager,1,2,No,32,2,2,2,2,No
+1216,28,Male,Married,4,Health Science,rarely,Research & Development,19,3196,12449,1179,78,1,Laboratory Technician,1,1,No,6,6,5,3,3,No
+1217,46,Male,Married,2,Social Sciences,rarely,Research & Development,15,19081,10849,1450,52,5,Research Director,2,5,No,25,4,2,0,3,No
+1218,35,Male,Married,4,Social Sciences,rarely,Sales,17,8966,21026,1361,94,2,Sales Executive,1,3,Yes,15,7,7,1,7,No
+1219,24,Female,Married,2,Social Sciences,rarely,Research & Development,17,2210,3372,984,97,1,Laboratory Technician,2,1,No,1,1,0,0,0,Yes
+1220,33,Female,Married,3,Health Science,frequently,Sales,25,4539,4905,1146,82,2,Sales Executive,3,1,No,10,10,7,0,1,No
+1221,36,Male,Divorced,4,Social Sciences,rarely,Research & Development,6,2741,6865,917,60,1,Laboratory Technician,3,1,No,7,7,7,1,7,No
+1224,30,Male,Divorced,4,Social Sciences,rarely,Research & Development,7,3491,11309,853,49,2,Laboratory Technician,3,1,No,10,10,7,8,9,No
+1225,44,Male,Single,4,Other,rarely,Research & Development,29,4541,7744,200,32,2,Research Scientist,4,1,No,20,20,11,13,17,No
+1226,20,Male,Single,3,Business,rarely,Sales,21,2678,5050,654,43,1,Sales Representative,4,1,No,2,2,1,2,2,No
+1228,46,Male,Divorced,4,Engineering,rarely,Research & Development,2,7379,17433,150,60,2,Manufacturing Director,4,2,No,12,6,3,1,4,No
+1231,42,Male,Married,5,Health Science,none,Human Resources,2,6272,12858,179,79,2,Human Resources,1,7,No,10,4,3,0,3,No
+1233,60,Male,Divorced,4,Business,rarely,Sales,7,5220,10893,696,52,2,Sales Executive,4,0,Yes,12,11,7,1,9,No
+1234,32,Female,Married,3,Other,frequently,Research & Development,13,2743,7331,116,77,1,Laboratory Technician,2,1,No,2,2,2,2,2,No
+1235,32,Female,Single,2,Social Sciences,frequently,Research & Development,2,4998,2338,1316,38,2,Research Scientist,3,4,Yes,10,8,7,0,7,No
+1237,36,Female,Divorced,3,Engineering,rarely,Research & Development,1,10252,4235,363,77,3,Manufacturing Director,1,2,Yes,17,7,7,7,7,No
+1238,33,Male,Married,3,Health Science,rarely,Research & Development,9,2781,6311,117,60,1,Research Scientist,4,0,No,15,14,10,4,10,No
+1239,40,Female,Divorced,3,Engineering,rarely,Sales,10,6852,11591,107,84,2,Sales Executive,2,7,No,7,5,1,1,3,No
+1240,25,Male,Single,4,Social Sciences,rarely,Sales,10,4950,20623,1356,57,2,Sales Executive,4,0,No,5,4,3,1,1,No
+1241,30,Male,Married,3,Health Science,rarely,Research & Development,1,3579,9369,1465,63,1,Research Scientist,2,0,Yes,12,11,9,5,7,No
+1242,42,Female,Married,5,Health Science,frequently,Research & Development,26,13191,23281,458,60,3,Research Director,1,3,Yes,20,1,0,0,0,No
+1243,35,Female,Married,2,Business,none,Sales,8,10377,13755,1212,78,3,Sales Executive,4,4,Yes,16,13,2,4,12,No
+1244,27,Male,Married,3,Social Sciences,rarely,Research & Development,14,2235,14377,1103,42,1,Research Scientist,1,1,Yes,9,9,7,6,8,No
+1245,54,Female,Divorced,4,Social Sciences,frequently,Research & Development,1,10502,9659,966,53,3,Manufacturing Director,3,7,No,33,5,4,1,4,No
+1246,44,Female,Married,1,Social Sciences,rarely,Research & Development,2,2011,19982,1117,72,1,Research Scientist,4,1,No,10,10,5,7,7,No
+1248,19,Female,Single,3,Health Science,none,Research & Development,10,1859,6148,504,96,1,Research Scientist,2,1,Yes,1,1,1,0,0,Yes
+1249,29,Female,Divorced,3,Social Sciences,rarely,Research & Development,1,3760,5598,1010,97,1,Research Scientist,4,1,No,3,3,2,1,2,No
+1250,54,Male,Married,3,Social Sciences,rarely,Research & Development,3,17779,23474,685,85,4,Research Director,4,3,No,36,10,9,0,9,No
+1251,31,Male,Married,2,Health Science,rarely,Research & Development,11,6833,17089,1332,80,2,Healthcare Representative,1,1,Yes,6,6,5,0,1,No
+1252,31,Female,Single,3,Health Science,rarely,Research & Development,24,6812,17198,1062,96,2,Healthcare Representative,1,1,No,10,10,9,1,8,No
+1254,59,Female,Single,3,Social Sciences,rarely,Sales,3,5171,16490,326,48,2,Sales Executive,4,5,No,13,6,1,0,5,No
+1255,43,Male,Married,3,Social Sciences,rarely,Research & Development,3,19740,18625,920,96,5,Research Director,4,3,No,25,8,7,0,7,No
+1256,49,Male,Married,2,Health Science,rarely,Research & Development,4,18711,12124,1098,85,5,Manager,3,2,No,23,1,0,0,0,No
+1257,36,Male,Married,3,Engineering,frequently,Research & Development,3,3692,9256,469,46,1,Research Scientist,2,1,No,12,11,10,0,7,No
+1258,48,Male,Single,2,Engineering,rarely,Research & Development,2,2559,16620,969,76,1,Laboratory Technician,2,5,No,7,1,0,0,0,No
+1259,27,Male,Divorced,2,Social Sciences,rarely,Research & Development,4,2517,3208,1167,76,1,Research Scientist,3,1,No,5,5,3,0,3,No
+1260,29,Male,Divorced,3,Social Sciences,rarely,Research & Development,7,6623,4204,1329,82,2,Healthcare Representative,4,1,Yes,6,6,0,1,0,No
+1263,48,Male,Single,3,Social Sciences,rarely,Research & Development,1,18265,8733,715,76,5,Research Director,4,6,No,25,1,0,0,0,No
+1264,29,Female,Divorced,3,Social Sciences,rarely,Research & Development,1,16124,3423,694,87,4,Research Director,4,3,No,9,7,7,1,7,No
+1265,34,Female,Married,3,Engineering,rarely,Research & Development,20,2585,21643,1320,89,1,Research Scientist,3,0,No,2,1,0,0,0,No
+1267,44,Male,Married,3,Business,rarely,Sales,5,18213,8751,1099,88,5,Manager,2,7,No,26,22,9,3,10,No
+1268,33,Male,Divorced,5,Business,rarely,Sales,10,8380,21708,536,82,3,Sales Executive,3,0,Yes,10,9,8,0,8,No
+1269,19,Female,Single,3,Social Sciences,rarely,Research & Development,25,2994,21221,265,57,1,Research Scientist,4,1,Yes,1,1,0,0,1,No
+1270,23,Male,Married,2,Social Sciences,rarely,Research & Development,1,1223,16901,373,47,1,Research Scientist,3,1,No,1,1,0,0,1,No
+1273,25,Male,Single,1,Social Sciences,frequently,Sales,24,1118,8040,599,73,1,Sales Representative,4,1,Yes,1,1,0,1,0,Yes
+1275,26,Male,Single,2,Social Sciences,rarely,Research & Development,4,2875,9973,583,53,1,Research Scientist,4,1,Yes,8,8,5,2,2,No
+1277,45,Female,Single,3,Business,rarely,Sales,2,18824,2493,1449,94,5,Manager,2,2,Yes,26,24,10,1,11,Yes
+1278,55,Male,Divorced,1,Health Science,none,Research & Development,8,13577,25592,177,37,4,Healthcare Representative,2,1,Yes,34,33,9,15,0,No
+1279,21,Female,Single,2,Social Sciences,frequently,Research & Development,10,2625,25308,251,45,1,Laboratory Technician,3,1,No,2,2,2,2,2,Yes
+1280,46,Female,Married,2,Business,rarely,Sales,4,18789,9946,168,33,5,Manager,2,2,No,26,11,4,0,8,No
+1281,34,Female,Single,3,Business,rarely,Sales,2,4538,6039,131,86,2,Sales Executive,1,0,Yes,4,3,2,0,2,No
+1282,51,Male,Divorced,3,Social Sciences,frequently,Sales,9,19847,19196,237,83,5,Manager,2,4,Yes,31,29,10,11,10,No
+1283,59,Male,Single,4,Health Science,rarely,Research & Development,18,10512,20002,1429,67,3,Manufacturing Director,4,6,No,25,9,7,5,4,No
+1285,34,Female,Divorced,3,Health Science,frequently,Research & Development,19,4444,22534,135,46,2,Laboratory Technician,2,4,No,15,11,8,5,10,No
+1286,28,Male,Single,4,Health Science,frequently,Research & Development,1,2154,6842,791,44,1,Laboratory Technician,3,0,Yes,5,4,2,0,2,No
+1288,44,Male,Divorced,2,Social Sciences,rarely,Research & Development,4,19190,17477,1199,92,5,Manager,1,1,No,26,25,9,14,13,No
+1289,34,Male,Married,3,Social Sciences,frequently,Human Resources,11,4490,21833,648,56,2,Human Resources,2,4,No,14,10,9,1,8,No
+1291,35,Male,Married,1,Social Sciences,rarely,Research & Development,6,3506,6020,735,66,1,Research Scientist,3,0,Yes,4,3,2,2,2,No
+1292,42,Female,Married,4,Health Science,rarely,Research & Development,7,2372,5628,603,78,2,Research Scientist,2,6,Yes,18,1,0,0,0,No
+1293,43,Female,Single,4,Business,rarely,Sales,4,10231,20364,531,56,3,Sales Executive,4,3,No,23,21,7,15,17,No
+1294,36,Female,Single,4,Social Sciences,rarely,Research & Development,2,5410,2323,429,53,2,Manufacturing Director,2,9,Yes,18,16,14,5,12,No
+1295,44,Female,Married,3,Health Science,rarely,Research & Development,15,7978,14075,621,73,3,Healthcare Representative,4,1,No,10,10,7,0,5,Yes
+1296,28,Male,Married,3,Social Sciences,frequently,Research & Development,2,3867,14222,193,52,1,Laboratory Technician,4,1,Yes,2,2,2,2,2,No
+1297,51,Female,Single,2,Health Science,frequently,Research & Development,6,2838,4257,968,40,1,Laboratory Technician,3,0,No,8,7,0,7,7,No
+1298,30,Female,Single,2,Health Science,none,Research & Development,9,4695,12858,879,72,2,Manufacturing Director,3,7,Yes,10,8,4,1,7,No
+1299,29,Female,Divorced,3,Engineering,rarely,Research & Development,7,3339,17285,806,39,1,Laboratory Technician,3,3,Yes,10,7,7,7,7,Yes
+1301,28,Male,Single,3,Engineering,rarely,Research & Development,1,2080,4732,640,84,1,Research Scientist,1,2,No,5,3,2,1,2,No
+1303,25,Female,Single,3,Health Science,rarely,Research & Development,1,2096,18830,266,40,1,Research Scientist,2,1,No,2,2,2,2,1,No
+1304,32,Male,Married,3,Health Science,rarely,Sales,8,6209,11693,604,56,2,Sales Executive,4,1,No,10,10,7,0,8,No
+1306,45,Female,Single,3,Health Science,frequently,Research & Development,25,18061,13035,364,83,5,Manager,2,3,No,22,0,0,0,0,No
+1307,39,Female,Divorced,4,Health Science,rarely,Research & Development,13,17123,17334,412,94,4,Manager,2,6,Yes,21,19,9,15,2,No
+1308,58,Male,Divorced,4,Social Sciences,rarely,Research & Development,23,2372,26076,848,88,1,Research Scientist,3,1,No,2,2,2,2,2,No
+1309,32,Male,Married,2,Social Sciences,rarely,Research & Development,7,4883,22845,1089,79,2,Laboratory Technician,3,1,No,10,10,4,1,1,Yes
+1310,39,Male,Single,3,Health Science,rarely,Research & Development,23,3904,22154,360,93,1,Research Scientist,1,0,No,6,5,2,0,3,Yes
+1311,30,Female,Married,3,Engineering,rarely,Research & Development,6,4627,23631,1138,48,2,Laboratory Technician,4,0,No,10,9,2,6,7,No
+1312,36,Female,Married,4,Engineering,rarely,Research & Development,10,7094,5747,325,63,3,Healthcare Representative,3,3,No,10,7,7,1,7,No
+1314,46,Female,Single,2,Social Sciences,rarely,Human Resources,1,3423,22957,991,44,1,Human Resources,1,6,No,10,7,6,5,7,No
+1315,28,Female,Married,3,Social Sciences,none,Research & Development,1,6674,16392,1476,55,2,Laboratory Technician,4,0,No,10,9,8,7,5,No
+1317,50,Female,Married,3,Social Sciences,rarely,Research & Development,28,16880,22422,1322,43,4,Research Director,1,4,Yes,25,3,2,1,2,No
+1318,40,Male,Single,4,Business,rarely,Sales,25,9094,17235,299,57,3,Sales Executive,2,2,Yes,9,5,4,1,0,Yes
+1319,52,Male,Single,3,Social Sciences,rarely,Sales,5,8446,21534,1030,64,3,Sales Executive,2,9,Yes,10,8,7,7,7,Yes
+1321,30,Female,Married,4,Health Science,rarely,Research & Development,17,11916,25927,634,95,3,Manager,1,1,Yes,9,9,1,0,8,No
+1322,39,Male,Single,2,Social Sciences,rarely,Research & Development,18,4534,13352,524,32,2,Manufacturing Director,3,0,No,9,8,7,1,7,No
+1324,31,Female,Divorced,4,Social Sciences,none,Sales,2,9852,8935,587,57,3,Sales Executive,3,1,Yes,10,10,8,9,6,No
+1329,41,Male,Single,2,Health Science,none,Sales,10,6151,22074,256,40,2,Sales Executive,2,1,No,19,19,2,11,9,No
+1331,31,Female,Single,3,Social Sciences,frequently,Sales,1,2302,8319,1060,54,1,Sales Representative,2,1,Yes,3,3,2,2,2,Yes
+1333,44,Male,Married,3,Social Sciences,rarely,Research & Development,3,2362,14669,935,89,1,Laboratory Technician,1,4,No,10,3,2,1,2,Yes
+1334,42,Male,Married,1,Social Sciences,none,Research & Development,2,17861,26582,495,37,4,Manager,3,0,Yes,21,20,8,2,10,No
+1336,55,Female,Married,2,Health Science,rarely,Research & Development,2,19187,6992,282,58,5,Manager,3,4,No,23,19,9,9,11,No
+1338,56,Male,Single,4,Social Sciences,rarely,Human Resources,8,19717,4022,206,99,5,Manager,2,6,No,36,7,3,7,7,No
+1340,40,Male,Divorced,2,Social Sciences,none,Research & Development,16,3544,8532,458,74,1,Research Scientist,3,9,No,6,4,2,0,0,No
+1344,34,Male,Divorced,3,Social Sciences,rarely,Research & Development,9,8500,5494,943,86,3,Healthcare Representative,4,0,No,10,9,7,1,6,No
+1346,40,Male,Single,3,Social Sciences,rarely,Research & Development,2,4661,22455,523,98,2,Research Scientist,4,1,No,9,9,8,8,8,No
+1349,41,Female,Divorced,3,Business,frequently,Sales,1,4103,4297,1018,66,2,Sales Executive,1,0,No,10,9,3,1,7,No
+1350,35,Male,Single,4,Social Sciences,frequently,Research & Development,4,4249,2690,482,87,2,Research Scientist,3,1,Yes,9,9,6,1,1,No
+1352,51,Male,Divorced,3,Social Sciences,rarely,Human Resources,5,14026,17588,770,84,4,Manager,2,1,Yes,33,33,9,0,10,No
+1355,38,Female,Divorced,2,Social Sciences,rarely,Sales,2,6893,19461,1009,31,2,Sales Executive,1,3,No,11,7,7,1,7,No
+1356,34,Female,Single,2,Health Science,rarely,Sales,15,6125,23553,507,66,2,Sales Executive,1,1,No,10,10,8,9,6,No
+1358,25,Male,Married,1,Health Science,rarely,Research & Development,19,3669,9075,882,67,1,Laboratory Technician,4,3,No,7,3,2,1,2,No
+1360,58,Female,Married,4,Health Science,rarely,Research & Development,7,10008,12023,601,53,3,Manufacturing Director,1,7,Yes,31,10,9,5,9,Yes
+1361,40,Male,Married,4,Social Sciences,rarely,Research & Development,1,2387,6762,329,88,1,Laboratory Technician,2,3,No,7,4,2,0,3,No
+1362,36,Female,Married,3,Business,frequently,Sales,7,4639,2261,607,83,2,Sales Executive,1,2,No,17,15,7,6,13,No
+1363,48,Male,Single,3,Social Sciences,rarely,Research & Development,4,7898,18706,855,54,3,Manufacturing Director,4,1,No,11,10,9,0,8,No
+1364,27,Female,Married,3,Health Science,rarely,Sales,11,2534,6527,1291,98,1,Sales Representative,4,8,No,5,1,0,0,0,No
+1367,51,Female,Single,2,Engineering,rarely,Research & Development,11,13142,24439,1405,82,4,Manufacturing Director,2,3,No,29,5,2,0,3,No
+1368,18,Female,Single,3,Social Sciences,none,Research & Development,1,1611,19305,1124,97,1,Laboratory Technician,4,1,No,0,0,0,0,0,No
+1369,35,Female,Married,3,Health Science,rarely,Research & Development,1,5363,10846,817,60,2,Laboratory Technician,4,0,No,10,9,7,0,0,No
+1371,27,Male,Single,1,Social Sciences,frequently,Sales,2,5071,20392,793,43,2,Sales Executive,4,3,No,8,6,2,0,0,No
+1372,55,Male,Single,4,Business,rarely,Sales,13,13695,9277,267,85,4,Sales Executive,3,6,Yes,24,19,7,3,8,Yes
+1373,56,Male,Married,3,Social Sciences,rarely,Research & Development,23,13402,18235,1369,68,4,Manufacturing Director,2,4,Yes,33,19,16,15,9,No
+1374,34,Female,Divorced,1,Engineering,none,Research & Development,26,2029,15891,999,92,1,Research Scientist,3,1,No,5,5,4,0,0,No
+1375,40,Female,Divorced,1,Health Science,rarely,Research & Development,2,6377,13888,1202,89,2,Healthcare Representative,3,5,No,15,12,11,11,8,No
+1377,34,Male,Married,3,Health Science,rarely,Research & Development,29,5429,17491,285,86,2,Laboratory Technician,3,4,No,10,8,7,7,7,No
+1379,31,Female,Single,3,Social Sciences,frequently,Sales,2,2785,11882,703,90,1,Sales Representative,4,7,No,3,1,0,0,0,Yes
+1380,35,Female,Married,4,Business,frequently,Sales,18,4614,23288,662,67,2,Sales Executive,3,0,Yes,5,4,2,3,2,Yes
+1382,38,Male,Divorced,3,Social Sciences,frequently,Research & Development,7,2610,15748,693,57,1,Research Scientist,3,1,No,4,4,2,0,3,No
+1383,34,Female,Single,4,Engineering,rarely,Research & Development,2,6687,6163,404,98,2,Healthcare Representative,4,1,No,14,14,11,4,11,No
+1387,28,Male,Married,3,Social Sciences,rarely,Sales,26,4724,24232,736,48,2,Sales Executive,1,1,No,5,5,3,0,4,No
+1389,31,Male,Married,4,Health Science,rarely,Research & Development,22,6179,21057,330,98,2,Manufacturing Director,3,1,Yes,10,10,2,6,7,Yes
+1390,39,Male,Married,4,Social Sciences,rarely,Sales,21,6120,3567,1498,44,2,Sales Executive,4,3,Yes,8,5,4,1,4,No
+1391,51,Male,Married,3,Business,frequently,Sales,2,10596,15395,541,52,3,Sales Executive,2,2,No,14,4,2,3,2,No
+1392,41,Female,Divorced,3,Social Sciences,frequently,Research & Development,22,5467,13953,1200,75,2,Research Scientist,4,3,Yes,12,6,2,3,3,No
+1394,37,Male,Married,1,Social Sciences,rarely,Research & Development,4,2996,5182,1439,54,1,Research Scientist,3,7,Yes,8,6,4,1,3,No
+1395,33,Male,Married,1,Social Sciences,frequently,Sales,5,9998,19293,1111,61,2,Sales Executive,4,6,No,8,5,4,1,2,No
+1396,32,Male,Married,1,Business,rarely,Sales,2,4078,20497,499,36,2,Sales Executive,2,0,Yes,4,3,2,1,2,No
+1397,39,Male,Married,2,Social Sciences,none,Research & Development,25,10920,3449,1485,71,3,Healthcare Representative,3,3,No,13,6,4,0,5,No
+1399,25,Male,Married,1,Social Sciences,rarely,Sales,18,6232,12477,1372,93,2,Sales Executive,3,2,No,6,3,2,1,2,No
+1401,52,Female,Married,2,Health Science,frequently,Research & Development,28,13247,9731,322,59,4,Manufacturing Director,3,2,Yes,24,5,3,0,2,No
+1402,43,Female,Single,3,Health Science,rarely,Research & Development,6,4081,20003,930,73,2,Research Scientist,3,1,Yes,20,20,7,1,8,No
+1403,27,Female,Married,3,Business,rarely,Sales,10,5769,7100,205,98,2,Sales Executive,4,1,Yes,6,6,2,4,4,No
+1405,27,Female,Single,4,Social Sciences,rarely,Research & Development,17,2394,25681,135,51,1,Research Scientist,3,1,Yes,8,8,2,7,7,Yes
+1407,26,Male,Single,1,Health Science,rarely,Research & Development,2,3904,4050,683,36,1,Research Scientist,4,0,No,5,4,3,1,1,No
+1408,42,Female,Married,3,Human Resources,rarely,Human Resources,10,16799,16616,1147,31,4,Manager,1,0,No,21,20,7,0,9,No
+1409,52,Female,Married,4,Other,rarely,Research & Development,8,2950,17363,258,54,1,Laboratory Technician,1,9,No,12,5,4,0,4,No
+1411,37,Female,Single,3,Health Science,rarely,Research & Development,11,3629,19106,1462,94,1,Laboratory Technician,3,4,No,8,3,2,0,2,No
+1412,35,Male,Single,2,Social Sciences,frequently,Research & Development,18,9362,19944,200,60,3,Manufacturing Director,4,2,No,10,2,2,2,2,No
+1415,25,Male,Married,3,Engineering,rarely,Research & Development,1,3229,4910,949,81,1,Laboratory Technician,4,4,No,7,3,2,0,2,No
+1417,26,Male,Single,3,Other,rarely,Research & Development,7,3578,23577,652,100,1,Laboratory Technician,1,0,No,8,7,7,0,7,No
+1419,29,Male,Single,3,Other,rarely,Human Resources,17,7988,9769,332,51,3,Human Resources,1,1,No,10,10,9,0,9,No
+1420,49,Male,Single,2,Social Sciences,frequently,Research & Development,28,4284,22710,1475,97,2,Laboratory Technician,1,3,No,20,4,3,1,3,Yes
+1421,29,Female,Single,1,Other,frequently,Research & Development,14,7553,22930,337,84,3,Healthcare Representative,4,0,Yes,9,8,7,7,7,Yes
+1422,54,Female,Single,3,Health Science,rarely,Research & Development,1,17328,5652,971,54,4,Research Director,4,6,No,29,20,7,12,7,No
+1423,58,Female,Married,3,Health Science,rarely,Research & Development,1,19701,22456,1055,76,5,Research Director,1,3,Yes,32,9,8,1,5,No
+1424,55,Male,Divorced,4,Health Science,rarely,Research & Development,1,14732,12414,1136,81,4,Research Director,4,2,No,31,7,7,0,0,No
+1425,36,Female,Single,4,Business,rarely,Sales,3,9278,20763,1174,99,2,Sales Executive,2,3,Yes,15,5,4,0,1,No
+1427,31,Female,Single,4,Social Sciences,frequently,Sales,1,1359,16154,667,50,1,Sales Representative,3,1,No,1,1,0,0,0,Yes
+1428,30,Female,Divorced,4,Business,rarely,Sales,7,4779,12761,855,73,2,Sales Executive,1,7,No,8,3,2,0,2,No
+1430,31,Female,Single,5,Social Sciences,rarely,Research & Development,8,16422,8847,182,93,4,Research Director,2,3,No,9,3,2,1,0,No
+1431,34,Male,Divorced,4,Other,frequently,Research & Development,1,2996,20284,560,91,1,Research Scientist,1,5,No,10,4,3,1,3,No
+1433,31,Female,Single,3,Social Sciences,rarely,Research & Development,8,1261,22262,202,34,1,Research Scientist,2,1,No,1,1,0,0,0,Yes
+1434,27,Male,Married,1,Social Sciences,rarely,Research & Development,11,2099,7679,1377,91,1,Laboratory Technician,1,0,No,6,5,0,1,4,No
+1435,36,Male,Single,4,Social Sciences,rarely,Research & Development,4,5810,22604,172,37,2,Laboratory Technician,4,1,No,10,10,4,1,8,No
+1436,36,Female,Married,4,Business,rarely,Sales,16,5647,13494,329,98,2,Sales Executive,1,4,No,11,3,2,0,2,No
+1438,47,Male,Married,3,Engineering,rarely,Research & Development,1,3420,10205,465,74,1,Research Scientist,4,7,No,17,6,5,1,2,No
+1439,25,Male,Married,2,Social Sciences,rarely,Sales,9,4400,15182,383,68,1,Sales Representative,1,3,No,6,3,2,2,2,Yes
+1440,37,Male,Single,2,Engineering,none,Research & Development,5,3500,25470,1413,84,1,Laboratory Technician,3,0,No,7,6,5,1,3,No
+1441,56,Female,Married,2,Social Sciences,rarely,Research & Development,1,2066,10494,1255,90,1,Research Scientist,1,2,No,5,3,2,1,0,No
+1443,47,Female,Married,4,Health Science,rarely,Research & Development,2,17169,26703,359,82,4,Research Director,3,3,No,26,20,17,5,6,No
+1445,24,Female,Married,1,Health Science,rarely,Sales,4,4162,15211,1476,42,2,Sales Executive,3,1,Yes,5,5,4,0,3,No
+1446,32,Male,Married,5,Business,rarely,Sales,7,9204,23343,601,97,2,Sales Executive,4,4,No,7,4,3,0,3,No
+1447,34,Female,Married,3,Social Sciences,rarely,Research & Development,1,3294,3708,401,86,1,Laboratory Technician,2,5,No,7,5,4,0,2,No
+1448,41,Male,Married,5,Health Science,rarely,Research & Development,5,2127,5561,1283,90,1,Research Scientist,3,2,Yes,7,4,2,0,3,No
+1449,40,Male,Divorced,4,Other,none,Research & Development,9,3975,23099,663,81,2,Laboratory Technician,3,3,No,11,8,7,0,7,No
+1453,31,Male,Divorced,2,Social Sciences,rarely,Sales,8,10793,8386,326,31,3,Sales Executive,4,1,No,13,13,7,9,9,No
+1457,46,Male,Divorced,3,Business,rarely,Sales,9,10096,15986,377,52,3,Sales Executive,4,4,No,28,7,7,4,3,Yes
+1458,39,Female,Single,3,Social Sciences,none,Research & Development,2,3646,17181,592,54,1,Laboratory Technician,1,2,Yes,11,1,0,0,0,Yes
+1459,31,Female,Single,5,Social Sciences,frequently,Research & Development,1,7446,8931,1445,100,3,Manufacturing Director,2,1,No,10,10,8,4,7,Yes
+1460,45,Male,Divorced,3,Health Science,rarely,Research & Development,20,10851,19863,1038,95,3,Healthcare Representative,1,2,Yes,24,7,7,0,7,No
+1461,31,Female,Single,2,Health Science,rarely,Human Resources,8,2109,24609,1398,96,1,Human Resources,2,9,No,8,3,2,0,2,No
+1464,31,Male,Married,3,Social Sciences,frequently,Research & Development,2,3722,21081,523,94,1,Laboratory Technician,4,6,Yes,7,2,2,2,2,Yes
+1465,45,Male,Married,3,Engineering,rarely,Research & Development,29,9380,14720,1448,55,3,Manufacturing Director,4,4,Yes,10,3,1,1,2,No
+1466,48,Male,Divorced,3,Business,rarely,Sales,7,5486,24795,1221,96,2,Sales Executive,1,4,No,15,2,2,2,2,No
+1467,34,Female,Married,4,Engineering,rarely,Human Resources,9,2742,3072,1107,52,1,Human Resources,3,1,No,2,2,2,2,2,Yes
+1468,40,Male,Divorced,1,Health Science,none,Research & Development,8,13757,25178,218,55,3,Research Director,2,2,No,16,9,8,4,8,No
+1469,28,Male,Single,3,Health Science,rarely,Sales,5,8463,23490,866,84,2,Sales Executive,1,0,No,6,5,4,1,3,No
+1471,44,Male,Single,3,Social Sciences,none,Research & Development,5,3162,7973,981,90,1,Laboratory Technician,3,3,No,7,5,2,0,3,No
+1472,53,Male,Single,3,Health Science,rarely,Research & Development,2,16598,19764,447,39,4,Research Director,2,4,No,35,9,8,8,8,No
+1473,49,Male,Married,4,Engineering,rarely,Research & Development,5,6651,21534,1495,96,2,Healthcare Representative,3,2,No,20,3,2,1,2,No
+1474,40,Male,Divorced,3,Health Science,rarely,Research & Development,2,2345,8045,896,68,1,Research Scientist,3,2,No,8,3,1,1,2,No
+1475,44,Male,Single,3,Social Sciences,rarely,Research & Development,20,3420,21158,1467,49,1,Research Scientist,2,1,No,6,5,2,1,3,No
+1477,33,Male,Married,3,Health Science,frequently,Sales,7,4373,17456,430,54,2,Sales Executive,1,0,No,5,4,3,0,3,No
+1478,34,Male,Single,3,Other,rarely,Sales,3,4759,15891,1326,81,2,Sales Executive,1,3,No,15,13,9,3,12,No
+1479,30,Male,Married,1,Social Sciences,rarely,Sales,16,5301,2939,1358,96,2,Sales Executive,3,8,No,4,2,1,2,2,No
+1480,42,Female,Single,2,Health Science,frequently,Research & Development,9,3673,16458,748,74,1,Laboratory Technician,4,1,No,12,12,9,5,8,No
+1481,44,Female,Married,5,Business,frequently,Sales,1,4768,9282,383,79,2,Sales Executive,3,7,No,11,1,0,0,0,No
+1482,30,Male,Divorced,3,Engineering,none,Research & Development,7,1274,7152,990,64,1,Research Scientist,3,1,No,1,1,0,0,0,No
+1483,57,Male,Married,2,Social Sciences,rarely,Research & Development,1,4900,2721,405,93,2,Research Scientist,3,0,No,13,12,9,2,8,No
+1484,49,Male,Divorced,4,Social Sciences,rarely,Research & Development,7,10466,20948,1490,35,3,Healthcare Representative,2,3,No,29,8,7,0,7,No
+1485,34,Male,Divorced,3,Health Science,frequently,Research & Development,15,17007,11929,829,71,4,Research Director,1,7,No,16,14,8,6,9,No
+1486,28,Male,Married,3,Engineering,frequently,Sales,1,2909,15747,1496,92,1,Sales Representative,3,3,No,5,3,2,1,2,Yes
+1487,29,Female,Single,3,Engineering,frequently,Sales,13,5765,17485,115,51,2,Sales Executive,2,5,No,7,5,3,0,0,Yes
+1489,34,Female,Single,4,Health Science,rarely,Sales,24,4599,7815,790,40,2,Sales Executive,2,0,Yes,16,15,9,10,10,Yes
+1492,35,Male,Married,1,Social Sciences,rarely,Sales,7,2404,16192,660,76,1,Sales Representative,3,1,No,1,1,0,0,0,No
+1494,24,Male,Single,3,Health Science,frequently,Research & Development,9,3172,16998,381,89,1,Laboratory Technician,1,2,Yes,4,0,0,0,0,Yes
+1495,24,Female,Married,2,Social Sciences,none,Sales,13,2033,7103,830,78,1,Sales Representative,2,1,No,1,1,0,0,0,No
+1496,44,Male,Single,1,Health Science,frequently,Research & Development,2,10209,19719,1193,86,3,Manufacturing Director,3,5,Yes,16,2,2,2,2,No
+1497,29,Male,Divorced,3,Social Sciences,rarely,Sales,19,8620,23757,1246,77,2,Sales Executive,3,1,No,10,10,7,0,4,No
+1499,30,Male,Divorced,3,Social Sciences,rarely,Human Resources,1,2064,15428,330,46,1,Human Resources,3,0,No,6,5,3,1,3,No
+1501,55,Male,Married,4,Social Sciences,rarely,Research & Development,4,4035,16143,1229,30,2,Healthcare Representative,3,0,Yes,4,3,2,1,2,No
+1502,33,Female,Married,4,Health Science,rarely,Research & Development,4,3838,8192,1099,82,1,Laboratory Technician,2,8,No,8,5,4,0,2,No
+1503,47,Female,Married,3,Health Science,rarely,Sales,14,4591,24200,571,78,2,Sales Executive,3,3,Yes,11,5,4,1,2,No
+1504,28,Male,Single,2,Health Science,frequently,Research & Development,2,2561,5355,289,38,1,Laboratory Technician,1,7,No,8,0,0,0,0,Yes
+1506,28,Male,Divorced,3,Social Sciences,rarely,Research & Development,1,1563,12530,1423,72,1,Research Scientist,3,1,No,1,1,0,0,0,No
+1507,28,Male,Single,3,Social Sciences,frequently,Sales,7,4898,11827,467,55,2,Sales Executive,1,0,No,5,4,2,1,3,No
+1509,49,Female,Married,2,Health Science,rarely,Research & Development,3,4789,23070,271,43,2,Laboratory Technician,1,4,No,10,3,2,1,2,No
+1513,29,Female,Married,1,Social Sciences,frequently,Research & Development,2,3180,4668,410,97,1,Laboratory Technician,2,0,No,4,3,2,0,2,No
+1514,28,Male,Married,1,Social Sciences,rarely,Research & Development,29,6549,3173,1083,96,2,Manufacturing Director,2,1,No,8,8,6,1,7,No
+1515,33,Male,Single,5,Social Sciences,rarely,Research & Development,8,6388,22049,516,69,2,Healthcare Representative,3,2,Yes,14,0,0,0,0,No
+1516,32,Male,Single,3,Health Science,rarely,Research & Development,10,11244,21072,495,64,3,Manager,4,2,No,10,5,2,0,0,No
+1520,54,Female,Divorced,4,Health Science,frequently,Research & Development,11,16032,24456,1050,87,4,Manager,4,3,No,26,14,9,1,12,No
+1522,29,Male,Single,4,Engineering,rarely,Research & Development,1,2362,7568,224,100,1,Research Scientist,1,6,No,11,9,7,0,7,Yes
+1523,44,Male,Married,3,Social Sciences,rarely,Research & Development,28,16328,22074,136,32,4,Research Director,1,3,No,24,20,6,14,17,No
+1525,39,Female,Single,3,Social Sciences,rarely,Research & Development,6,8376,9150,1089,32,3,Manufacturing Director,2,4,No,9,2,0,2,2,No
+1527,46,Female,Married,3,Social Sciences,rarely,Sales,3,16606,11380,228,51,4,Manager,2,8,No,23,13,12,5,1,No
+1529,35,Female,Single,3,Social Sciences,rarely,Research & Development,16,8606,21195,1029,91,3,Healthcare Representative,2,1,No,11,11,8,3,3,No
+1533,23,Male,Single,1,Social Sciences,rarely,Research & Development,20,2272,24812,507,97,2,Laboratory Technician,3,0,No,5,4,3,1,2,No
+1534,40,Male,Single,4,Social Sciences,rarely,Research & Development,9,2018,21831,676,86,1,Laboratory Technician,1,3,No,15,5,4,1,0,Yes
+1535,34,Male,Married,3,Engineering,rarely,Sales,1,7083,12288,971,64,3,Sales Executive,3,1,Yes,10,10,9,8,6,No
+1537,31,Female,Single,3,Social Sciences,frequently,Research & Development,3,4084,4156,561,33,1,Research Scientist,3,1,No,7,7,2,7,7,Yes
+1539,50,Male,Single,5,Health Science,frequently,Research & Development,22,14411,24450,333,88,4,Research Director,4,1,Yes,32,32,6,13,9,No
+1541,34,Male,Married,2,Engineering,rarely,Sales,7,2308,4944,1440,55,1,Sales Representative,3,0,Yes,12,11,10,5,7,No
+1542,42,Male,Married,3,Health Science,rarely,Research & Development,2,4841,24052,1210,68,1,Laboratory Technician,2,4,No,4,1,0,0,0,No
+1543,37,Male,Married,3,Health Science,rarely,Research & Development,13,4285,3031,674,47,2,Research Scientist,4,1,No,10,10,8,3,7,No
+1544,29,Female,Married,1,Other,rarely,Research & Development,8,9715,7288,441,39,2,Healthcare Representative,1,3,No,9,7,7,0,7,No
+1545,33,Male,Single,3,Social Sciences,rarely,Research & Development,25,4320,24152,575,44,2,Manufacturing Director,2,1,No,5,5,3,0,2,No
+1546,45,Male,Married,3,Engineering,rarely,Research & Development,28,2132,4585,950,97,1,Research Scientist,4,4,No,8,5,4,0,3,No
+1547,42,Male,Married,3,Social Sciences,frequently,Research & Development,2,10124,18611,288,40,3,Healthcare Representative,4,2,Yes,24,20,8,13,9,No
+1548,40,Male,Married,2,Health Science,rarely,Sales,9,5473,19345,1342,47,2,Sales Executive,1,0,No,9,8,4,7,1,No
+1549,33,Male,Married,4,Social Sciences,rarely,Research & Development,28,5207,22949,589,79,2,Laboratory Technician,3,1,Yes,15,15,14,5,7,No
+1550,40,Male,Single,2,Health Science,rarely,Human Resources,6,16437,17381,898,38,4,Manager,4,1,Yes,21,21,7,7,7,No
+1551,24,Male,Divorced,2,Engineering,rarely,Research & Development,21,2296,10036,350,57,1,Laboratory Technician,1,0,No,2,1,1,0,0,No
+1552,40,Male,Divorced,2,Social Sciences,none,Research & Development,8,4069,8841,1142,72,2,Healthcare Representative,4,3,Yes,8,2,2,2,2,No
+1553,45,Male,Divorced,4,Engineering,rarely,Research & Development,1,7441,20933,538,66,3,Healthcare Representative,2,1,No,10,10,8,7,7,No
+1554,35,Female,Married,4,Social Sciences,rarely,Sales,28,2430,26204,1402,98,1,Sales Representative,3,0,No,6,5,3,4,2,No
+1555,32,Female,Married,2,Social Sciences,rarely,Research & Development,5,5878,15624,824,67,2,Research Scientist,2,3,No,12,7,1,2,5,No
+1556,36,Male,Single,4,Social Sciences,rarely,Sales,2,2644,17001,1157,70,1,Sales Representative,4,3,Yes,7,3,2,1,2,No
+1557,48,Female,Divorced,4,Social Sciences,rarely,Sales,16,6439,13693,492,96,2,Sales Executive,3,8,No,18,8,7,7,7,No
+1558,29,Male,Married,3,Social Sciences,rarely,Research & Development,9,2451,22376,598,91,1,Research Scientist,3,6,No,5,1,0,0,0,No
+1560,33,Male,Married,4,Social Sciences,rarely,Sales,8,6392,10589,1242,46,2,Sales Executive,1,2,No,8,2,2,2,2,No
+1562,30,Male,Married,3,Social Sciences,rarely,Sales,1,9714,5323,740,64,2,Sales Executive,1,1,No,10,10,8,6,7,Yes
+1563,38,Male,Married,4,Human Resources,frequently,Human Resources,10,6077,14814,888,71,2,Human Resources,3,3,No,10,6,3,1,2,No
+1564,35,Male,Single,3,Health Science,rarely,Research & Development,1,2450,21731,992,68,1,Laboratory Technician,1,1,No,3,3,0,1,2,No
+1568,30,Male,Married,4,Engineering,rarely,Sales,29,9250,17799,1288,33,3,Sales Executive,2,3,No,9,4,2,1,3,No
+1569,35,Female,Divorced,3,Social Sciences,rarely,Research & Development,2,2074,26619,104,69,1,Laboratory Technician,1,1,Yes,1,1,0,0,0,Yes
+1572,53,Female,Married,5,Engineering,rarely,Research & Development,2,10169,14618,607,78,3,Manufacturing Director,4,0,No,34,33,7,1,9,Yes
+1573,38,Male,Married,3,Health Science,rarely,Research & Development,2,4855,7653,903,81,2,Manufacturing Director,2,4,No,7,5,2,1,4,Yes
+1574,32,Male,Married,4,Engineering,none,Research & Development,1,4087,25174,1200,62,2,Research Scientist,1,4,No,9,6,5,1,2,No
+1576,48,Female,Married,4,Other,rarely,Research & Development,15,2367,16530,1108,65,1,Research Scientist,1,8,No,10,8,2,7,6,No
+1577,34,Male,Single,4,Health Science,rarely,Research & Development,7,2972,22061,479,35,1,Research Scientist,4,1,No,1,1,0,0,0,No
+1578,55,Male,Married,5,Business,rarely,Sales,26,19586,23037,685,60,5,Manager,4,1,No,36,36,6,2,13,No
+1580,34,Male,Married,4,Social Sciences,rarely,Research & Development,1,5484,13008,1351,45,2,Research Scientist,4,9,No,9,2,2,2,1,No
+1581,26,Female,Married,3,Social Sciences,rarely,Research & Development,3,2061,11133,474,89,1,Research Scientist,4,1,No,1,1,0,0,0,No
+1582,38,Male,Married,3,Social Sciences,rarely,Sales,14,9924,12355,1245,80,2,Sales Executive,2,0,No,10,9,8,7,7,No
+1583,38,Female,Single,3,Social Sciences,rarely,Sales,16,4198,16379,437,90,2,Sales Executive,2,2,No,8,3,2,1,2,No
+1585,36,Female,Single,4,Social Sciences,rarely,Sales,1,6815,21447,884,73,2,Sales Executive,3,6,No,15,1,0,0,0,No
+1586,29,Male,Single,1,Health Science,rarely,Research & Development,3,4723,16213,1370,87,1,Laboratory Technician,1,1,Yes,10,10,9,1,5,No
+1587,35,Female,Single,4,Health Science,rarely,Research & Development,10,6142,4223,670,51,2,Healthcare Representative,3,3,Yes,10,5,2,0,4,No
+1588,39,Male,Married,3,Health Science,rarely,Sales,6,8237,4658,1462,38,3,Sales Executive,3,2,No,11,7,6,7,6,No
+1590,29,Male,Divorced,1,Social Sciences,frequently,Research & Development,2,8853,24483,995,87,2,Healthcare Representative,4,1,No,6,6,4,1,3,No
+1591,50,Male,Married,3,Business,rarely,Sales,9,19331,19519,264,59,5,Manager,3,4,Yes,27,1,0,0,0,No
+1592,23,Male,Married,3,Engineering,rarely,Research & Development,10,2073,12826,977,45,1,Research Scientist,3,2,No,4,2,2,2,2,No
+1594,36,Male,Married,4,Social Sciences,frequently,Research & Development,6,5562,19711,1302,80,2,Laboratory Technician,1,3,Yes,9,3,2,0,2,No
+1595,42,Male,Single,2,Other,rarely,Research & Development,9,19613,26362,1059,93,5,Manager,4,8,No,24,1,0,0,1,No
+1596,35,Male,Married,3,Social Sciences,rarely,Research & Development,28,3407,25348,750,46,2,Laboratory Technician,3,1,No,10,10,9,6,8,No
+1597,34,Male,Married,4,Engineering,frequently,Research & Development,10,5063,15332,653,92,2,Healthcare Representative,3,1,No,8,8,2,7,7,No
+1598,40,Female,Married,2,Social Sciences,rarely,Sales,14,4639,11262,118,84,2,Sales Executive,1,1,No,5,5,4,1,2,No
+1599,43,Male,Divorced,3,Engineering,rarely,Research & Development,27,4876,5855,990,87,1,Laboratory Technician,2,5,No,8,6,4,0,2,No
+1601,35,Male,Married,2,Social Sciences,rarely,Research & Development,7,2690,7713,1349,63,1,Laboratory Technician,4,1,No,1,1,0,0,1,No
+1602,46,Male,Single,4,Social Sciences,rarely,Sales,1,17567,3156,563,56,4,Manager,1,1,No,27,26,0,0,12,No
+1604,28,Male,Married,3,Health Science,rarely,Research & Development,24,2408,7324,329,51,1,Laboratory Technician,2,1,Yes,1,1,1,0,0,Yes
+1605,22,Female,Married,2,Other,none,Research & Development,26,2814,10293,457,85,1,Research Scientist,3,1,Yes,4,4,2,1,3,No
+1606,50,Male,Married,5,Health Science,frequently,Research & Development,20,11245,20689,1234,41,4,Healthcare Representative,3,2,Yes,32,30,8,12,13,No
+1607,32,Female,Married,4,Other,rarely,Research & Development,5,3312,18783,634,35,1,Research Scientist,4,3,No,6,3,2,0,2,No
+1608,44,Female,Divorced,3,Health Science,rarely,Research & Development,7,19049,3549,1313,31,5,Research Director,4,0,Yes,23,22,7,1,10,No
+1609,30,Male,Married,3,Health Science,rarely,Research & Development,7,2141,5348,241,48,1,Research Scientist,2,1,No,6,6,4,1,1,No
+1611,45,Female,Single,5,Health Science,rarely,Research & Development,5,5769,23447,1015,50,2,Laboratory Technician,1,1,Yes,10,10,7,1,4,No
+1612,45,Male,Married,3,Business,none,Sales,26,4385,24162,336,52,2,Sales Executive,1,1,No,10,10,7,4,5,No
+1613,31,Male,Single,4,Other,frequently,Sales,2,5332,21602,715,54,2,Sales Executive,1,7,No,10,5,2,0,3,No
+1614,36,Female,Married,4,Social Sciences,rarely,Research & Development,12,4663,12421,559,76,2,Manufacturing Director,3,9,Yes,7,3,2,1,1,No
+1615,34,Male,Divorced,4,Social Sciences,frequently,Research & Development,10,4724,17000,426,42,2,Manufacturing Director,4,1,No,9,9,7,7,2,No
+1617,49,Female,Married,4,Social Sciences,rarely,Research & Development,25,3211,22102,722,84,1,Laboratory Technician,1,1,No,10,9,6,1,4,No
+1618,39,Male,Married,5,Health Science,rarely,Research & Development,10,5377,3835,1387,76,2,Manufacturing Director,1,2,No,10,7,7,7,7,No
+1619,27,Male,Divorced,3,Other,rarely,Research & Development,19,4066,16290,1302,67,1,Laboratory Technician,1,1,No,7,7,7,0,7,No
+1621,35,Male,Married,5,Social Sciences,rarely,Research & Development,18,5208,26312,819,48,2,Research Scientist,1,1,No,16,16,15,1,10,No
+1622,28,Female,Divorced,3,Health Science,rarely,Research & Development,27,4877,20460,580,39,2,Manufacturing Director,1,0,No,6,5,3,0,0,No
+1623,21,Male,Single,1,Health Science,rarely,Research & Development,5,3117,26009,546,97,1,Research Scientist,4,1,No,3,2,2,2,2,No
+1624,18,Female,Single,2,Health Science,frequently,Sales,3,1569,18420,544,70,1,Sales Representative,4,1,Yes,0,0,0,0,0,Yes
+1625,47,Female,Married,4,Social Sciences,rarely,Human Resources,26,19658,5220,1176,98,5,Manager,3,3,No,27,5,2,1,0,No
+1627,39,Male,Divorced,2,Health Science,rarely,Research & Development,3,3069,10302,170,76,2,Laboratory Technician,3,0,No,11,10,8,0,7,No
+1628,40,Female,Married,3,Social Sciences,rarely,Research & Development,15,10435,25800,884,80,3,Manufacturing Director,3,1,No,18,18,15,14,12,No
+1630,35,Female,Married,4,Social Sciences,none,Research & Development,8,4148,12250,208,52,2,Healthcare Representative,3,1,No,15,14,11,2,9,No
+1631,37,Male,Married,3,Social Sciences,rarely,Research & Development,19,5768,26493,671,85,2,Manufacturing Director,3,3,No,9,4,3,0,2,No
+1633,39,Female,Single,3,Health Science,frequently,Research & Development,4,5042,3140,711,81,2,Manufacturing Director,3,0,No,10,9,2,3,8,No
+1635,45,Female,Divorced,2,Other,rarely,Research & Development,2,5770,5388,1329,59,2,Manufacturing Director,4,1,No,10,10,7,3,9,No
+1638,38,Female,Married,2,Health Science,rarely,Research & Development,2,7756,14199,397,54,3,Manufacturing Director,3,3,Yes,10,5,4,0,2,No
+1639,35,Male,Married,3,Health Science,rarely,Sales,10,10306,21530,737,55,3,Sales Executive,1,9,No,15,13,12,6,0,Yes
+1640,37,Female,Married,3,Health Science,rarely,Research & Development,10,3936,9953,1470,71,1,Research Scientist,2,1,No,8,8,4,7,7,No
+1641,40,Female,Single,3,Social Sciences,rarely,Research & Development,16,7945,19948,448,84,3,Manufacturing Director,4,6,Yes,18,4,2,3,3,No
+1642,44,Male,Married,5,Human Resources,frequently,Human Resources,1,5743,10503,602,37,2,Human Resources,4,4,Yes,14,10,7,0,2,No
+1644,48,Male,Married,5,Health Science,frequently,Research & Development,4,15202,5602,365,89,4,Manager,4,2,No,23,2,2,2,2,No
+1645,35,Male,Divorced,2,Health Science,rarely,Sales,15,5440,22098,763,59,2,Sales Executive,4,6,Yes,7,2,2,2,2,Yes
+1646,24,Female,Single,1,Engineering,frequently,Research & Development,2,3760,17218,567,32,1,Research Scientist,4,1,Yes,6,6,3,1,3,No
+1647,27,Female,Married,3,Health Science,rarely,Research & Development,8,3517,22490,486,86,1,Research Scientist,3,7,No,5,3,2,0,2,No
+1648,27,Male,Single,3,Health Science,frequently,Research & Development,2,2580,6297,591,87,1,Research Scientist,4,2,No,6,4,2,1,2,No
+1649,40,Male,Single,3,Social Sciences,rarely,Research & Development,7,2166,3339,1329,73,1,Laboratory Technician,1,3,Yes,10,4,2,0,3,Yes
+1650,29,Male,Single,3,Health Science,rarely,Sales,10,5869,23413,469,42,2,Sales Executive,3,9,No,8,5,2,1,4,No
+1651,36,Female,Married,4,Social Sciences,rarely,Research & Development,5,8008,22792,711,42,3,Healthcare Representative,1,4,No,9,3,2,0,2,No
+1653,25,Male,Divorced,1,Social Sciences,frequently,Research & Development,2,5206,4973,772,77,2,Manufacturing Director,3,1,No,7,7,7,0,7,No
+1654,39,Male,Married,3,Health Science,rarely,Research & Development,12,5295,7693,492,66,2,Manufacturing Director,2,4,No,7,5,4,1,0,No
+1655,49,Female,Married,4,Other,rarely,Research & Development,22,16413,3498,301,72,4,Research Director,2,3,No,27,4,2,1,2,No
+1656,50,Female,Divorced,5,Social Sciences,rarely,Research & Development,17,13269,21981,813,50,3,Research Director,1,5,No,19,14,11,1,11,No
+1657,20,Female,Single,3,Health Science,rarely,Sales,2,2783,13251,1141,31,1,Sales Representative,3,1,No,2,2,2,2,2,No
+1658,34,Female,Divorced,3,Social Sciences,rarely,Research & Development,3,5433,19332,1130,66,2,Research Scientist,2,1,No,11,11,8,7,9,No
+1659,36,Male,Single,3,Social Sciences,rarely,Research & Development,7,2013,10950,311,77,1,Laboratory Technician,2,2,No,15,4,3,1,3,No
+1661,49,Female,Married,1,Social Sciences,rarely,Research & Development,6,13966,11652,465,41,4,Healthcare Representative,3,2,Yes,30,15,11,2,12,No
+1662,36,Female,Married,4,Health Science,none,Research & Development,1,4374,15411,894,33,2,Manufacturing Director,3,0,No,4,3,2,1,2,No
+1664,36,Male,Divorced,2,Social Sciences,rarely,Research & Development,3,6842,26308,1040,79,2,Healthcare Representative,1,6,No,13,5,4,0,4,No
+1665,54,Female,Married,5,Health Science,rarely,Research & Development,22,17426,18685,584,91,4,Manager,3,3,No,36,10,8,4,7,No
+1666,43,Male,Married,2,Social Sciences,rarely,Research & Development,15,17603,3525,1291,65,4,Research Director,3,1,No,14,14,10,6,11,No
+1667,35,Male,Single,4,Other,frequently,Sales,12,4581,10414,880,36,2,Sales Executive,4,3,Yes,13,11,9,6,7,Yes
+1668,38,Male,Married,3,Social Sciences,frequently,Research & Development,1,4735,9867,1189,90,2,Research Scientist,4,7,No,19,13,11,2,9,No
+1669,29,Male,Divorced,3,Health Science,rarely,Sales,5,4187,3356,991,43,2,Sales Executive,2,1,Yes,10,10,0,0,9,No
+1670,33,Male,Divorced,4,Health Science,rarely,Sales,2,5505,3921,392,93,2,Sales Executive,4,1,No,6,6,2,0,4,No
+1671,32,Male,Divorced,3,Health Science,rarely,Research & Development,2,5470,25518,977,45,2,Research Scientist,2,0,No,10,9,5,1,6,No
+1673,31,Female,Married,4,Social Sciences,rarely,Sales,5,5476,22589,1112,67,2,Sales Executive,4,1,No,10,10,0,0,2,No
+1674,49,Female,Divorced,3,Health Science,rarely,Research & Development,16,2587,24941,464,74,1,Laboratory Technician,1,4,Yes,17,2,2,2,2,No
+1675,38,Female,Single,3,Health Science,frequently,Research & Development,2,2440,23826,148,42,1,Laboratory Technician,2,1,No,4,4,3,3,3,No
+1676,47,Female,Divorced,4,Social Sciences,rarely,Sales,2,15972,21086,1225,47,4,Manager,2,6,No,29,3,2,1,2,No
+1677,49,Male,Single,3,Social Sciences,rarely,Research & Development,1,15379,22384,809,36,4,Manager,3,4,No,23,8,7,0,0,No
+1678,41,Male,Single,2,Social Sciences,rarely,Sales,23,7082,11591,1206,80,3,Sales Executive,3,3,Yes,21,2,0,0,2,No
+1680,20,Male,Single,1,Social Sciences,rarely,Sales,9,2728,21082,727,54,1,Sales Representative,1,1,No,2,2,2,0,2,No
+1681,33,Female,Divorced,3,Social Sciences,none,Sales,16,5368,16130,530,36,2,Sales Executive,4,1,Yes,7,6,5,1,2,No
+1682,36,Male,Married,4,Social Sciences,rarely,Research & Development,26,5347,7419,1351,80,2,Healthcare Representative,3,6,No,10,3,2,0,2,No
+1683,44,Female,Divorced,3,Social Sciences,rarely,Human Resources,1,3195,4167,528,44,1,Human Resources,4,4,Yes,8,2,2,2,2,No
+1684,23,Male,Single,1,Health Science,rarely,Research & Development,8,3989,20586,1320,93,1,Laboratory Technician,3,1,Yes,5,5,4,1,2,Yes
+1687,38,Female,Married,2,Health Science,rarely,Research & Development,4,3306,26176,1495,87,1,Laboratory Technician,3,7,No,7,0,0,0,0,No
+1689,53,Male,Married,4,Health Science,rarely,Research & Development,24,7005,3458,1395,48,3,Healthcare Representative,4,3,No,11,4,3,1,2,No
+1691,48,Female,Married,2,Health Science,frequently,Sales,7,2655,11740,708,95,1,Sales Representative,3,2,Yes,19,9,7,7,7,Yes
+1692,32,Male,Single,4,Social Sciences,rarely,Research & Development,2,1393,24852,1259,95,1,Laboratory Technician,2,1,No,1,1,0,0,0,Yes
+1693,26,Male,Single,3,Health Science,none,Research & Development,7,2570,11925,786,76,1,Laboratory Technician,4,1,No,7,7,7,5,7,No
+1694,55,Male,Divorced,3,Engineering,rarely,Research & Development,22,3537,23737,1441,94,1,Research Scientist,2,5,No,8,4,2,1,2,No
+1696,34,Male,Married,2,Health Science,rarely,Research & Development,5,3986,11912,1157,57,2,Laboratory Technician,4,1,No,15,15,10,4,13,No
+1697,60,Male,Divorced,4,Health Science,rarely,Research & Development,1,10883,20467,370,92,3,Healthcare Representative,4,3,No,19,1,0,0,0,No
+1698,33,Male,Married,3,Health Science,rarely,Research & Development,21,2028,13637,267,79,1,Laboratory Technician,2,1,No,14,14,11,2,13,No
+1700,37,Male,Divorced,4,Health Science,frequently,Sales,1,9525,7677,1278,31,2,Sales Executive,4,1,No,6,6,3,1,3,No
+1701,34,Female,Married,3,Social Sciences,rarely,Research & Development,19,2929,20338,678,35,1,Research Scientist,4,1,No,10,10,9,8,7,No
+1702,23,Male,Divorced,3,Social Sciences,rarely,Sales,7,2275,25103,427,99,1,Sales Representative,4,1,Yes,3,3,2,0,2,Yes
+1703,44,Female,Married,3,Social Sciences,rarely,Research & Development,2,7879,14810,921,96,3,Healthcare Representative,4,1,Yes,9,8,7,6,7,No
+1704,35,Male,Single,4,Health Science,frequently,Research & Development,2,4930,13970,146,79,1,Research Scientist,4,0,Yes,6,5,4,1,4,No
+1706,43,Male,Married,3,Health Science,rarely,Sales,2,7847,6069,1179,73,2,Sales Executive,4,1,Yes,10,10,9,8,8,No
+1707,24,Male,Married,3,Health Science,rarely,Research & Development,9,4401,17616,581,62,1,Research Scientist,3,1,No,5,5,3,0,4,No
+1708,41,Male,Single,3,Business,rarely,Sales,6,9241,15869,918,35,3,Sales Executive,3,1,No,10,10,8,8,7,No
+1709,29,Female,Married,4,Health Science,rarely,Research & Development,9,2974,25412,1082,43,1,Laboratory Technician,3,9,No,9,5,3,1,2,No
+1710,36,Female,Single,4,Social Sciences,rarely,Sales,2,4502,7439,530,51,2,Sales Representative,4,3,No,17,13,7,6,7,No
+1712,45,Male,Married,1,Social Sciences,none,Research & Development,1,10748,3395,1238,74,3,Healthcare Representative,3,3,No,25,23,15,14,4,No
+1714,24,Male,Married,1,Human Resources,rarely,Human Resources,22,1555,11585,240,58,1,Human Resources,3,1,No,1,1,0,0,0,Yes
+1716,47,Male,Married,3,Social Sciences,frequently,Sales,9,12936,24164,1093,82,4,Sales Executive,3,7,No,25,23,5,14,10,Yes
+1718,26,Male,Married,4,Health Science,rarely,Research & Development,17,2305,6217,390,62,1,Laboratory Technician,3,1,No,3,3,2,0,2,No
+1719,45,Female,Single,2,Engineering,rarely,Research & Development,28,16704,17119,1005,48,4,Research Director,2,1,No,21,21,6,8,6,No
+1720,32,Male,Married,3,Social Sciences,frequently,Research & Development,10,3433,17360,585,56,1,Research Scientist,3,6,No,10,5,2,1,3,No
+1721,31,Male,Married,4,Social Sciences,rarely,Research & Development,2,3477,18103,741,69,1,Laboratory Technician,3,1,No,6,5,2,0,3,No
+1722,41,Male,Married,3,Human Resources,none,Human Resources,4,6430,20794,552,60,2,Human Resources,2,6,No,10,3,2,1,2,No
+1724,40,Female,Married,2,Social Sciences,rarely,Research & Development,8,6516,5041,369,92,2,Manufacturing Director,1,2,Yes,18,1,0,0,0,No
+1725,24,Male,Divorced,1,Health Science,rarely,Research & Development,29,3907,3622,506,91,1,Laboratory Technician,1,1,No,6,6,2,1,2,No
+1727,46,Male,Single,4,Social Sciences,rarely,Research & Development,13,5562,9697,717,34,2,Healthcare Representative,2,6,No,19,10,7,0,9,No
+1728,35,Male,Married,4,Social Sciences,rarely,Research & Development,27,6883,5151,1370,49,2,Manufacturing Director,3,2,No,17,7,7,0,7,No
+1729,30,Male,Married,1,Social Sciences,rarely,Research & Development,16,2862,3811,793,33,1,Research Scientist,4,1,No,10,10,0,0,8,No
+1731,47,Male,Married,4,Business,none,Sales,2,4978,3536,543,87,2,Sales Executive,2,7,No,4,1,0,0,0,No
+1732,46,Male,Divorced,3,Social Sciences,rarely,Sales,2,10368,5596,1277,74,3,Sales Executive,4,4,Yes,13,10,6,0,3,No
+1733,36,Male,Divorced,5,Business,rarely,Sales,13,6134,8658,1456,96,2,Sales Executive,1,5,Yes,16,2,2,2,2,Yes
+1734,32,Male,Single,2,Social Sciences,rarely,Sales,1,6735,12147,964,34,2,Sales Executive,2,6,No,10,0,0,0,0,Yes
+1735,23,Female,Single,1,Health Science,rarely,Research & Development,4,3295,12862,160,51,1,Laboratory Technician,2,1,No,3,3,2,1,2,No
+1736,31,Female,Single,1,Engineering,frequently,Research & Development,24,5238,6670,163,30,2,Manufacturing Director,4,2,No,9,5,4,1,4,No
+1737,39,Male,Married,3,Social Sciences,none,Research & Development,1,6472,8989,792,77,2,Laboratory Technician,4,1,Yes,9,9,8,5,8,No
+1739,32,Male,Married,3,Social Sciences,rarely,Sales,19,9610,3840,371,80,3,Sales Executive,3,3,No,10,4,3,0,2,No
+1740,40,Male,Single,4,Health Science,rarely,Sales,7,19833,4349,611,88,5,Manager,2,1,No,21,21,8,12,8,No
+1744,45,Female,Married,3,Social Sciences,rarely,Human Resources,4,9756,6595,176,56,3,Human Resources,3,4,No,9,5,0,0,3,No
+1745,30,Female,Single,4,Engineering,frequently,Research & Development,2,4968,26427,1312,78,1,Research Scientist,1,0,No,10,9,7,0,7,No
+1746,24,Male,Married,3,Health Science,frequently,Human Resources,10,2145,2097,897,59,1,Human Resources,4,0,No,3,2,2,2,1,No
+1747,30,Female,Divorced,3,Human Resources,frequently,Human Resources,8,2180,9732,600,66,1,Human Resources,4,6,No,6,4,2,1,2,Yes
+1749,31,Male,Married,3,Engineering,rarely,Sales,5,8346,20943,1003,51,2,Sales Executive,3,1,No,6,5,2,0,2,No
+1751,27,Female,Single,3,Health Science,rarely,Research & Development,8,3445,6152,1054,67,1,Research Scientist,4,1,No,6,6,2,1,4,No
+1752,29,Female,Single,3,Business,rarely,Sales,9,2760,14630,428,52,1,Sales Representative,2,1,No,2,2,2,2,2,Yes
+1753,29,Male,Single,3,Social Sciences,frequently,Research & Development,1,6294,23060,461,70,2,Healthcare Representative,3,8,Yes,10,3,2,0,2,No
+1754,30,Male,Divorced,2,Business,rarely,Sales,15,7140,3088,979,94,3,Sales Executive,1,2,No,12,7,7,1,7,No
+1755,34,Male,Married,4,Health Science,rarely,Research & Development,2,2932,5586,181,97,1,Research Scientist,4,0,Yes,6,5,0,1,2,No
+1756,33,Female,Single,3,Business,none,Sales,2,5147,10697,1283,62,2,Sales Executive,2,8,No,13,11,7,1,7,No
+1757,49,Female,Single,4,Business,rarely,Sales,11,4507,8191,1313,80,2,Sales Executive,4,3,No,8,5,1,0,4,No
+1758,33,Female,Single,3,Social Sciences,rarely,Sales,16,8564,10092,211,74,3,Sales Executive,1,2,Yes,11,0,0,0,0,Yes
+1760,38,Female,Married,2,Health Science,frequently,Research & Development,2,2468,15963,594,75,1,Laboratory Technician,2,4,No,9,6,1,0,5,No
+1761,31,Male,Married,4,Business,rarely,Sales,16,8161,19002,1079,70,3,Sales Executive,3,2,No,10,1,0,0,0,Yes
+1762,29,Female,Divorced,3,Engineering,rarely,Research & Development,4,2109,10007,590,91,1,Research Scientist,1,1,No,1,1,0,0,0,No
+1763,30,Male,Married,3,Social Sciences,rarely,Research & Development,16,5294,9128,305,58,2,Healthcare Representative,3,3,No,10,7,0,1,7,No
+1764,32,Male,Single,4,Engineering,none,Research & Development,5,2718,17674,953,65,1,Research Scientist,2,2,No,12,7,7,0,7,No
+1766,38,Male,Married,3,Health Science,rarely,Research & Development,18,5811,24539,833,60,2,Healthcare Representative,4,3,Yes,15,1,0,1,0,No
+1767,43,Male,Married,3,Engineering,frequently,Research & Development,17,2437,15587,807,38,1,Research Scientist,3,9,Yes,6,1,0,0,0,Yes
+1768,42,Male,Divorced,3,Health Science,rarely,Research & Development,12,2766,8952,855,57,1,Laboratory Technician,2,8,No,7,5,3,0,4,No
+1770,55,Male,Married,3,Health Science,rarely,Research & Development,2,19038,19805,478,60,5,Research Director,1,8,No,34,1,0,0,0,No
+1771,33,Male,Divorced,3,Engineering,none,Research & Development,4,3055,6194,775,90,2,Research Scientist,2,5,No,11,9,8,1,7,No
+1772,41,Male,Divorced,4,Social Sciences,rarely,Research & Development,9,2289,20520,548,94,1,Laboratory Technician,1,1,No,5,5,3,0,4,No
+1774,34,Male,Divorced,3,Social Sciences,none,Sales,10,4001,12313,1375,87,2,Sales Executive,3,1,Yes,15,15,14,0,7,No
+1775,53,Female,Married,4,Health Science,none,Research & Development,1,12965,22308,661,60,4,Manufacturing Director,3,4,Yes,27,3,2,0,2,No
+1778,43,Male,Single,3,Social Sciences,rarely,Human Resources,2,3539,5033,244,97,1,Human Resources,4,0,No,10,9,7,1,8,No
+1779,34,Female,Single,2,Social Sciences,rarely,Sales,3,6029,25353,511,32,2,Sales Executive,4,5,No,6,2,2,2,2,No
+1780,21,Male,Single,1,Business,rarely,Sales,7,2679,4567,337,31,1,Sales Representative,2,1,No,1,1,0,1,0,Yes
+1782,38,Female,Married,2,Other,rarely,Research & Development,6,3702,16376,1153,40,1,Laboratory Technician,3,1,No,5,5,4,0,4,No
+1783,22,Female,Married,1,Health Science,rarely,Research & Development,8,2398,15999,1294,79,1,Laboratory Technician,1,1,Yes,1,1,0,0,0,Yes
+1784,31,Female,Married,4,Business,rarely,Sales,29,5468,13402,196,91,2,Sales Executive,4,1,No,13,12,7,5,7,No
+1786,51,Female,Married,3,Engineering,rarely,Research & Development,3,13116,22984,942,53,3,Manager,3,2,No,15,2,2,2,2,No
+1787,37,Male,Married,2,Business,rarely,Sales,9,4189,8800,589,46,2,Sales Executive,2,1,No,5,5,2,0,3,No
+1789,46,Male,Divorced,4,Health Science,rarely,Research & Development,2,19328,14218,734,46,5,Research Director,4,7,Yes,24,2,1,2,2,No
+1790,36,Male,Married,3,Social Sciences,rarely,Research & Development,10,8321,25949,1383,90,3,Healthcare Representative,1,7,Yes,15,12,8,5,7,No
+1792,44,Male,Divorced,2,Health Science,frequently,Research & Development,1,2342,11092,429,99,1,Research Scientist,2,1,Yes,6,5,3,2,3,Yes
+1794,37,Male,Divorced,2,Other,rarely,Human Resources,8,4071,12832,1239,89,2,Human Resources,2,2,No,19,10,0,4,7,No
+1797,35,Male,Single,3,Social Sciences,rarely,Sales,27,5813,13492,303,84,2,Sales Executive,4,1,Yes,10,10,7,7,7,Yes
+1798,33,Male,Married,4,Social Sciences,rarely,Research & Development,8,3143,6076,867,90,1,Research Scientist,1,6,No,14,10,8,7,6,No
+1799,28,Male,Married,3,Social Sciences,rarely,Research & Development,1,2044,5531,1181,82,1,Research Scientist,4,1,No,5,5,3,0,3,No
+1800,39,Male,Single,1,Health Science,rarely,Research & Development,10,13464,7914,1253,65,3,Research Director,3,7,No,9,4,3,2,2,No
+1801,46,Male,Single,2,Social Sciences,none,Sales,26,7991,25166,849,98,2,Sales Executive,2,8,No,6,2,2,2,2,No
+1802,40,Female,Married,2,Social Sciences,rarely,Research & Development,2,3377,25605,616,99,1,Laboratory Technician,1,4,No,7,4,3,0,2,No
+1803,42,Male,Married,3,Health Science,rarely,Research & Development,13,5538,5696,1128,95,2,Healthcare Representative,1,5,No,10,0,0,0,0,No
+1804,35,Male,Divorced,2,Health Science,none,Research & Development,2,5762,24442,1180,90,2,Manufacturing Director,4,2,No,15,7,7,1,7,No
+1805,38,Male,Divorced,3,Human Resources,none,Human Resources,2,2592,7129,1336,100,1,Human Resources,2,5,No,13,11,10,3,8,No
+1807,34,Male,Married,4,Social Sciences,frequently,Research & Development,9,5346,6208,234,93,2,Laboratory Technician,1,4,No,11,7,1,0,7,Yes
+1809,37,Male,Single,4,Health Science,rarely,Research & Development,10,4213,4992,370,58,2,Manufacturing Director,1,1,No,10,10,3,0,8,Yes
+1812,39,Male,Divorced,3,Social Sciences,frequently,Sales,20,4127,19188,766,83,2,Sales Executive,4,2,No,7,2,1,2,2,No
+1813,43,Male,Single,3,Social Sciences,none,Research & Development,9,2438,24978,343,52,1,Research Scientist,3,4,No,7,3,2,1,2,No
+1814,41,Male,Single,3,Social Sciences,rarely,Research & Development,5,6870,15530,447,85,2,Healthcare Representative,2,3,No,11,3,2,1,2,No
+1815,41,Female,Divorced,1,Business,rarely,Sales,4,10447,26458,796,81,3,Sales Executive,3,0,Yes,23,22,14,13,5,No
+1816,30,Female,Single,3,Health Science,rarely,Research & Development,10,9667,2739,1092,64,3,Manufacturing Director,3,9,No,9,7,7,0,2,No
+1818,26,Female,Married,2,Health Science,rarely,Human Resources,20,2148,6889,920,69,1,Human Resources,2,0,Yes,6,5,1,1,4,Yes
+1821,46,Female,Married,2,Health Science,rarely,Research & Development,21,8926,10842,261,66,2,Healthcare Representative,2,4,No,13,9,7,3,7,Yes
+1822,40,Female,Divorced,3,Social Sciences,rarely,Research & Development,1,6513,9060,1194,52,2,Healthcare Representative,4,4,No,12,5,3,0,3,No
+1823,34,Male,Married,2,Engineering,rarely,Sales,8,6799,22128,810,92,2,Sales Executive,3,1,No,10,10,8,4,8,No
+1824,58,Male,Divorced,3,Health Science,none,Sales,2,16291,22577,350,52,4,Manager,2,4,No,37,16,9,14,14,No
+1826,35,Male,Married,4,Health Science,rarely,Research & Development,23,2705,9696,185,91,1,Laboratory Technician,3,0,No,6,5,4,0,3,No
+1827,47,Female,Divorced,3,Social Sciences,rarely,Research & Development,4,10333,19271,1001,92,3,Manufacturing Director,2,8,Yes,28,22,11,14,10,No
+1829,40,Female,Divorced,3,Social Sciences,rarely,Research & Development,12,4448,10748,750,47,2,Healthcare Representative,1,2,No,15,7,4,7,7,No
+1830,54,Female,Married,4,Health Science,rarely,Research & Development,7,6854,15696,431,68,2,Research Scientist,4,4,No,14,7,1,1,7,No
+1833,31,Female,Married,4,Business,frequently,Sales,7,9637,8277,1125,68,3,Sales Executive,1,2,No,9,3,2,2,2,No
+1834,28,Female,Married,3,Health Science,rarely,Research & Development,1,3591,12719,1217,67,1,Research Scientist,1,1,No,3,3,2,1,2,No
+1835,38,Female,Married,4,Business,rarely,Sales,2,5405,4244,723,77,2,Sales Representative,4,2,Yes,20,4,2,0,3,No
+1836,26,Male,Single,3,Health Science,rarely,Sales,10,4684,9125,572,46,2,Sales Executive,4,1,No,5,5,3,1,2,No
+1837,58,Male,Married,4,Social Sciences,frequently,Research & Development,15,15787,21624,1216,87,4,Research Director,3,2,Yes,23,2,2,2,2,No
+1839,18,Female,Single,3,Health Science,none,Research & Development,14,1514,8018,1431,33,1,Research Scientist,3,1,No,0,0,0,0,0,No
+1842,31,Male,Married,5,Human Resources,rarely,Human Resources,18,2956,21495,359,89,1,Human Resources,1,0,No,2,1,0,0,0,Yes
+1844,29,Male,Divorced,3,Human Resources,rarely,Human Resources,13,2335,3157,350,56,1,Human Resources,1,4,Yes,4,2,2,2,0,Yes
+1845,45,Female,Married,4,Social Sciences,none,Sales,2,5154,19665,589,67,2,Sales Executive,3,4,No,10,8,7,5,7,No
+1847,36,Female,Married,4,Other,rarely,Research & Development,2,6962,19573,430,73,2,Research Scientist,2,4,Yes,15,1,0,0,0,No
+1849,43,Male,Married,4,Social Sciences,frequently,Sales,2,5675,19246,1422,92,2,Sales Executive,4,1,No,7,7,7,7,7,No
+1850,27,Female,Single,2,Social Sciences,frequently,Research & Development,5,2379,19826,1297,53,1,Laboratory Technician,4,0,Yes,6,5,4,0,2,No
+1852,29,Male,Married,1,Health Science,frequently,Research & Development,20,3812,7003,574,40,1,Laboratory Technician,4,1,No,11,11,8,3,10,No
+1853,32,Male,Single,4,Business,frequently,Sales,10,4648,26075,1318,79,2,Sales Executive,4,8,No,4,0,0,0,0,No
+1854,42,Male,Married,4,Engineering,none,Research & Development,10,2936,6161,355,38,1,Research Scientist,3,3,No,10,6,3,3,3,No
+1856,47,Female,Single,4,Social Sciences,rarely,Research & Development,9,2105,5411,207,64,1,Laboratory Technician,3,4,No,7,2,2,2,0,No
+1857,46,Male,Divorced,2,Social Sciences,rarely,Research & Development,2,8578,19989,706,82,3,Manufacturing Director,4,3,No,12,9,8,4,7,No
+1858,28,Male,Divorced,2,Social Sciences,none,Human Resources,1,2706,10494,280,43,1,Human Resources,4,1,No,3,3,2,2,2,No
+1859,29,Male,Divorced,1,Social Sciences,rarely,Research & Development,29,6384,21143,726,93,2,Healthcare Representative,3,8,No,11,7,0,1,6,No
+1860,42,Male,Single,3,Social Sciences,rarely,Research & Development,8,3968,13624,1142,81,1,Laboratory Technician,3,4,No,8,0,0,0,0,No
+1862,32,Male,Single,4,Business,rarely,Sales,2,9907,26186,414,82,2,Sales Executive,2,7,Yes,7,2,2,2,2,Yes
+1863,46,Female,Divorced,3,Engineering,rarely,Sales,3,13225,7739,1319,45,4,Sales Executive,1,2,No,25,19,17,2,8,No
+1864,27,Female,Married,1,Health Science,rarely,Sales,23,3540,7018,728,36,2,Sales Representative,3,1,No,9,9,8,5,8,No
+1865,29,Male,Married,1,Health Science,rarely,Human Resources,6,2804,15434,352,87,1,Human Resources,2,1,No,1,1,0,0,0,No
+1866,43,Female,Married,3,Health Science,rarely,Research & Development,6,19392,22539,823,81,5,Manager,3,7,No,21,16,12,6,14,No
+1867,48,Male,Married,3,Social Sciences,rarely,Research & Development,10,19665,13583,1224,91,5,Research Director,2,4,No,29,22,10,12,9,No
+1868,29,Male,Single,2,Social Sciences,frequently,Research & Development,24,2439,14753,459,73,1,Research Scientist,4,1,Yes,1,1,0,1,0,Yes
+1869,46,Female,Married,3,Social Sciences,rarely,Sales,10,7314,14011,1254,64,3,Sales Executive,2,5,No,14,8,7,0,7,Yes
+1870,27,Female,Married,3,Social Sciences,frequently,Research & Development,15,4774,23844,1131,77,1,Research Scientist,1,0,No,8,7,6,7,3,No
+1871,39,Male,Divorced,4,Other,rarely,Research & Development,19,3902,5141,835,41,2,Research Scientist,4,8,No,7,2,2,2,2,No
+1873,55,Male,Married,4,Engineering,rarely,Research & Development,2,2662,7975,836,98,1,Research Scientist,4,8,No,19,5,2,0,4,No
+1875,28,Female,Married,3,Health Science,rarely,Sales,3,2856,3692,1172,78,1,Sales Representative,2,1,No,1,1,0,0,0,No
+1876,30,Male,Single,3,Health Science,rarely,Sales,9,1081,16019,945,89,1,Sales Representative,4,1,No,1,1,0,0,0,Yes
+1878,22,Male,Single,1,Social Sciences,rarely,Research & Development,7,2472,26092,391,75,1,Research Scientist,2,1,Yes,1,1,0,0,0,Yes
+1880,36,Female,Married,4,Engineering,rarely,Sales,10,5673,6060,1266,63,2,Sales Executive,3,1,Yes,10,10,9,1,7,No
+1881,31,Male,Divorced,3,Social Sciences,rarely,Research & Development,20,4197,18624,311,89,2,Laboratory Technician,3,1,No,10,10,8,0,2,No
+1882,34,Male,Married,3,Social Sciences,rarely,Sales,4,9713,24444,1480,64,3,Sales Executive,4,2,Yes,9,5,3,1,0,No
+1883,29,Male,Single,3,Social Sciences,rarely,Research & Development,7,2062,19384,592,59,1,Laboratory Technician,1,3,No,11,3,2,1,2,No
+1885,37,Male,Married,4,Health Science,rarely,Research & Development,7,4284,13588,783,78,2,Research Scientist,1,5,Yes,16,5,3,0,4,No
+1886,35,Female,Married,2,Other,rarely,Research & Development,16,4788,25388,219,44,2,Manufacturing Director,2,0,Yes,4,3,2,0,2,No
+1888,45,Female,Married,2,Social Sciences,rarely,Research & Development,25,5906,23888,556,93,2,Manufacturing Director,4,0,No,10,9,8,3,8,No
+1890,36,Male,Single,1,Human Resources,frequently,Human Resources,2,3886,4223,1213,94,2,Human Resources,4,1,No,10,10,1,0,8,No
+1892,40,Male,Divorced,4,Social Sciences,rarely,Research & Development,1,16823,18991,1137,98,4,Manager,1,2,No,22,19,7,11,16,No
+1893,26,Female,Married,2,Social Sciences,rarely,Research & Development,1,2933,14908,482,90,1,Research Scientist,3,1,Yes,1,1,0,1,0,No
+1898,27,Female,Single,2,Health Science,rarely,Sales,2,6500,26997,511,89,2,Sales Executive,3,0,No,9,8,7,0,7,No
+1900,48,Female,Divorced,3,Health Science,frequently,Research & Development,22,17174,2437,117,58,4,Manager,4,3,No,24,22,17,4,7,No
+1903,44,Male,Married,4,Social Sciences,rarely,Research & Development,1,5033,9364,170,78,2,Healthcare Representative,1,2,No,10,2,0,2,2,No
+1905,34,Male,Married,4,Engineering,none,Research & Development,16,2307,14460,967,85,1,Research Scientist,1,1,Yes,5,5,2,3,0,Yes
+1907,56,Male,Single,2,Social Sciences,rarely,Research & Development,24,2587,10261,1162,97,1,Laboratory Technician,4,1,No,5,4,2,1,0,Yes
+1908,36,Male,Married,2,Business,rarely,Sales,17,5507,16822,335,33,2,Sales Executive,2,2,No,12,4,2,1,3,No
+1909,41,Female,Married,3,Business,rarely,Sales,8,4393,26841,337,54,2,Sales Executive,2,5,No,14,5,4,1,4,No
+1911,42,Male,Married,3,Health Science,rarely,Research & Development,6,13348,14842,1396,83,3,Research Director,1,9,No,18,13,7,5,7,No
+1912,31,Female,Divorced,2,Health Science,rarely,Sales,10,6583,20115,1079,86,2,Sales Executive,4,2,Yes,8,5,2,1,4,No
+1915,34,Female,Married,1,Health Science,rarely,Sales,3,8103,16495,735,75,2,Sales Executive,4,3,Yes,9,4,2,0,1,No
+1916,31,Female,Divorced,3,Health Science,rarely,Research & Development,4,3978,16031,471,62,1,Laboratory Technician,3,8,No,4,2,2,2,2,No
+1918,26,Male,Married,3,Other,frequently,Research & Development,6,2544,7102,1096,61,1,Laboratory Technician,4,0,No,8,7,7,7,7,No
+1922,45,Male,Single,4,Health Science,frequently,Research & Development,1,5399,14511,1297,44,2,Healthcare Representative,3,4,No,12,4,2,0,3,No
+1924,33,Male,Single,4,Business,rarely,Sales,10,5487,10410,217,43,2,Sales Executive,3,1,No,10,10,4,0,9,No
+1927,28,Male,Married,2,Social Sciences,frequently,Sales,1,6834,19255,783,42,2,Sales Executive,4,1,Yes,7,7,7,0,7,No
+1928,29,Male,Single,3,Engineering,frequently,Sales,24,1091,10642,746,45,1,Sales Representative,1,1,No,1,1,0,0,0,Yes
+1929,39,Female,Married,4,Social Sciences,none,Sales,21,5736,3987,1251,32,2,Sales Executive,3,6,No,10,3,2,1,2,No
+1931,27,Male,Married,4,Engineering,rarely,Research & Development,2,2226,6073,1354,41,1,Research Scientist,2,1,No,6,5,3,1,2,No
+1932,34,Male,Married,4,Other,frequently,Research & Development,22,5747,26496,735,86,2,Research Scientist,4,1,Yes,16,15,10,6,11,No
+1933,28,Female,Single,2,Business,rarely,Sales,13,9854,23352,1475,84,2,Sales Executive,3,3,Yes,6,2,0,2,2,Yes
+1934,47,Male,Married,4,Engineering,none,Research & Development,14,5467,2125,1169,64,2,Research Scientist,2,8,No,16,8,7,1,7,No
+1935,56,Female,Married,5,Business,rarely,Sales,11,5380,20328,1443,89,2,Sales Executive,1,4,No,6,0,0,0,0,No
+1936,39,Male,Married,2,Health Science,rarely,Research & Development,9,5151,12315,867,87,2,Manufacturing Director,1,1,No,10,10,0,7,9,No
+1937,38,Female,Divorced,3,Health Science,frequently,Research & Development,8,2133,18115,1394,58,2,Research Scientist,2,1,Yes,20,20,11,0,7,No
+1938,58,Female,Married,3,Social Sciences,rarely,Sales,21,17875,11761,605,72,4,Manager,4,4,Yes,29,1,0,0,0,No
+1939,32,Female,Single,2,Social Sciences,frequently,Research & Development,5,2432,15318,238,47,1,Research Scientist,3,3,Yes,8,4,1,0,3,Yes
+1940,38,Male,Divorced,2,Social Sciences,rarely,Research & Development,9,4771,14293,1206,71,1,Research Scientist,4,2,No,10,5,2,0,3,No
+1941,49,Male,Married,1,Social Sciences,frequently,Research & Development,2,19161,13738,1064,42,5,Research Director,4,3,No,28,5,4,4,3,No
+1943,42,Male,Divorced,4,Business,rarely,Sales,12,5087,2900,419,77,2,Sales Executive,4,3,Yes,14,0,0,0,0,No
+1944,27,Female,Married,3,Human Resources,frequently,Human Resources,22,2863,19555,1337,58,1,Human Resources,2,1,No,1,1,0,0,0,Yes
+1945,35,Male,Married,4,Health Science,rarely,Sales,18,5561,15975,682,71,2,Sales Executive,1,0,No,6,5,3,0,4,No
+1947,28,Male,Single,3,Health Science,none,Research & Development,16,2144,2122,1103,49,1,Research Scientist,3,1,No,5,5,3,1,4,No
+1948,31,Male,Divorced,2,Health Science,none,Research & Development,3,3065,3995,976,48,1,Research Scientist,1,1,Yes,4,4,2,2,3,No
+1949,36,Male,Married,4,Social Sciences,none,Research & Development,9,2810,9238,1351,66,1,Laboratory Technician,2,1,No,5,5,4,0,2,No
+1950,34,Male,Single,3,Business,rarely,Sales,1,9888,6770,937,32,3,Sales Executive,4,1,No,14,14,8,2,1,No
+1951,34,Male,Divorced,4,Health Science,rarely,Sales,13,8628,22914,1239,39,3,Sales Executive,3,1,No,9,8,7,1,1,No
+1952,26,Male,Single,3,Health Science,rarely,Research & Development,1,2867,20006,157,95,1,Laboratory Technician,1,0,No,8,7,7,7,6,No
+1954,29,Male,Married,3,Social Sciences,rarely,Research & Development,1,5373,6225,136,89,2,Healthcare Representative,1,0,No,6,5,3,0,2,No
+1955,32,Female,Divorced,4,Health Science,none,Research & Development,15,6667,16542,1146,34,2,Healthcare Representative,4,5,No,9,5,1,1,2,No
+1956,31,Male,Married,3,Social Sciences,frequently,Research & Development,1,5003,5771,1125,48,2,Research Scientist,1,1,No,10,10,8,8,7,No
+1960,28,Male,Divorced,3,Engineering,rarely,Research & Development,17,2367,18779,1404,32,1,Laboratory Technician,4,5,No,6,4,1,0,3,Yes
+1961,38,Male,Single,3,Social Sciences,rarely,Sales,1,2858,11473,1404,59,1,Sales Representative,1,4,No,20,1,0,0,0,No
+1962,35,Female,Married,4,Social Sciences,rarely,Sales,7,5204,13586,1224,55,2,Sales Executive,4,1,Yes,10,10,8,0,9,No
+1965,27,Male,Single,3,Business,rarely,Sales,9,4105,5099,954,44,2,Sales Executive,4,1,No,7,7,7,0,7,No
+1966,32,Male,Single,4,Social Sciences,rarely,Research & Development,5,9679,10138,1373,56,2,Manufacturing Director,4,8,No,8,1,0,0,0,No
+1967,31,Male,Married,4,Business,frequently,Sales,26,5617,21075,754,63,2,Sales Executive,4,1,Yes,10,10,7,0,8,Yes
+1968,53,Male,Single,4,Social Sciences,rarely,Sales,24,10448,5843,1168,66,3,Sales Executive,1,6,Yes,15,2,2,2,2,Yes
+1969,54,Female,Married,2,Social Sciences,rarely,Research & Development,9,2897,22474,155,67,2,Research Scientist,3,3,No,9,4,3,2,3,No
+1970,33,Male,Divorced,2,Social Sciences,frequently,Research & Development,7,5968,18079,1303,36,2,Healthcare Representative,3,1,No,9,9,7,2,8,No
+1971,43,Male,Married,3,Social Sciences,rarely,Research & Development,11,7510,16873,574,30,3,Healthcare Representative,3,1,No,10,10,9,0,9,No
+1972,38,Male,Married,4,Other,frequently,Human Resources,1,2991,5224,1444,88,1,Human Resources,2,0,Yes,7,6,2,1,2,No
+1973,55,Male,Married,4,Human Resources,rarely,Human Resources,26,19636,25811,189,71,5,Manager,2,4,Yes,35,10,9,1,4,No
+1974,31,Female,Divorced,1,Health Science,rarely,Research & Development,2,1129,17536,1276,59,1,Laboratory Technician,4,1,Yes,1,1,0,0,0,No
+1975,39,Male,Single,4,Business,rarely,Sales,15,13341,25098,119,77,4,Sales Executive,1,0,No,21,20,8,11,10,No
+1976,42,Male,Single,2,Social Sciences,none,Research & Development,23,4332,14811,335,37,2,Research Scientist,3,1,No,20,20,9,3,7,No
+1979,31,Female,Married,3,Health Science,none,Research & Development,10,11031,26862,697,40,3,Research Director,3,4,No,13,11,7,4,8,No
+1980,54,Female,Single,3,Health Science,rarely,Research & Development,10,4440,25198,157,77,2,Manufacturing Director,1,6,Yes,9,5,2,1,4,No
+1981,24,Male,Single,2,Social Sciences,rarely,Research & Development,1,4617,14120,771,45,2,Healthcare Representative,3,1,No,4,4,3,1,2,No
+1982,23,Male,Single,2,Other,rarely,Research & Development,12,2647,13672,571,78,1,Laboratory Technician,4,1,No,5,5,2,1,4,No
+1985,40,Female,Married,3,Engineering,frequently,Research & Development,11,6323,26849,692,73,2,Laboratory Technician,3,1,No,10,10,9,9,4,No
+1986,40,Female,Married,2,Business,rarely,Sales,2,5677,4258,444,92,2,Sales Executive,2,3,No,15,11,8,5,10,No
+1987,25,Female,Married,3,Human Resources,rarely,Human Resources,2,2187,19655,309,82,1,Human Resources,2,4,No,6,2,0,1,2,No
+1989,30,Male,Married,2,Health Science,rarely,Research & Development,1,3748,4077,911,76,1,Laboratory Technician,2,1,No,12,12,8,1,7,No
+1992,25,Male,Divorced,1,Other,rarely,Research & Development,2,3977,7298,977,57,1,Laboratory Technician,3,6,Yes,7,2,2,0,2,No
+1993,47,Male,Single,3,Health Science,rarely,Research & Development,25,8633,13084,1180,84,3,Healthcare Representative,3,2,No,25,17,14,12,11,No
+1994,33,Male,Divorced,2,Health Science,none,Research & Development,1,2008,20439,1313,59,1,Laboratory Technician,3,1,No,1,1,1,0,0,No
+1995,38,Male,Married,4,Social Sciences,rarely,Sales,1,4440,7636,1321,86,2,Sales Executive,2,0,No,16,15,13,5,8,No
+1996,31,Male,Married,2,Social Sciences,rarely,Sales,2,3067,6393,1154,54,1,Sales Representative,3,0,No,3,2,2,1,2,No
+1997,38,Male,Married,4,Social Sciences,frequently,Research & Development,6,5321,14284,508,72,2,Manufacturing Director,3,2,No,10,8,3,7,7,No
+1998,42,Male,Divorced,4,Social Sciences,rarely,Research & Development,18,5410,11189,557,35,2,Research Scientist,1,6,Yes,9,4,3,1,2,No
+1999,41,Male,Married,3,Social Sciences,rarely,Research & Development,1,2782,21412,642,76,1,Research Scientist,4,3,No,12,5,3,1,0,No
+2000,47,Female,Married,1,Health Science,none,Research & Development,1,11957,17231,1162,98,3,Research Director,2,0,No,14,13,8,5,12,No
+2003,35,Male,Married,4,Health Science,rarely,Research & Development,11,2660,20232,1490,43,1,Laboratory Technician,3,7,Yes,5,2,2,2,2,No
+2007,22,Male,Single,2,Social Sciences,rarely,Research & Development,1,3375,17624,581,63,1,Research Scientist,3,0,No,4,3,2,1,2,No
+2008,35,Male,Single,4,Health Science,rarely,Research & Development,9,5098,18698,1395,48,2,Research Scientist,3,1,No,10,10,7,0,8,No
+2009,33,Female,Married,2,Health Science,rarely,Research & Development,15,4878,21653,501,95,2,Healthcare Representative,4,0,Yes,10,9,7,8,1,No
+2010,32,Female,Single,4,Social Sciences,rarely,Research & Development,29,2837,15919,267,49,1,Laboratory Technician,2,1,No,6,6,2,4,1,No
+2012,40,Male,Married,4,Social Sciences,rarely,Research & Development,1,2406,4060,543,83,1,Laboratory Technician,4,8,No,8,1,0,0,0,No
+2013,32,Male,Married,4,Health Science,rarely,Sales,1,2269,18024,234,68,1,Sales Representative,2,0,No,3,2,2,2,2,No
+2014,39,Male,Single,1,Social Sciences,rarely,Research & Development,24,4108,5340,116,52,2,Research Scientist,4,7,No,18,7,7,1,7,No
+2015,38,Female,Married,3,Health Science,rarely,Research & Development,10,13206,3376,201,99,3,Research Director,3,3,No,20,18,16,1,11,No
+2016,32,Female,Married,4,Business,rarely,Sales,1,10422,24032,801,48,3,Sales Executive,4,1,No,14,14,10,5,7,No
+2017,37,Female,Married,3,Social Sciences,rarely,Research & Development,10,13744,15471,161,42,3,Research Director,4,1,Yes,16,16,11,6,8,No
+2018,25,Female,Divorced,2,Other,rarely,Sales,8,4907,13684,1382,85,2,Sales Executive,3,0,Yes,6,5,3,0,4,No
+2019,52,Male,Divorced,4,Social Sciences,none,Sales,29,3482,19788,585,40,1,Sales Representative,4,2,No,16,9,8,0,0,No
+2020,44,Male,Single,3,Health Science,rarely,Research & Development,1,2436,13422,1037,42,1,Research Scientist,4,6,Yes,6,4,3,1,2,No
+2021,21,Male,Single,1,Health Science,rarely,Sales,5,2380,25479,501,58,1,Sales Representative,1,1,Yes,2,2,2,1,2,No
+2022,39,Male,Single,3,Social Sciences,none,Research & Development,9,19431,15302,105,87,5,Manager,4,2,No,21,6,0,1,3,No
+2023,23,Male,Married,3,Business,frequently,Sales,9,1790,26956,638,33,1,Sales Representative,1,1,No,1,1,0,1,0,Yes
+2024,36,Female,Married,3,Health Science,rarely,Sales,3,7644,12695,557,94,3,Sales Executive,4,0,No,10,9,7,3,4,No
+2025,36,Female,Divorced,2,Social Sciences,frequently,Research & Development,4,5131,9192,688,97,2,Manufacturing Director,2,7,No,18,4,2,0,2,No
+2026,56,Male,Divorced,4,Social Sciences,none,Research & Development,1,6306,26236,667,57,2,Healthcare Representative,3,1,No,13,13,12,1,9,No
+2027,29,Male,Married,4,Health Science,rarely,Research & Development,1,4787,26124,1092,36,1,Research Scientist,4,9,Yes,4,2,2,2,2,Yes
+2031,42,Male,Married,3,Social Sciences,rarely,Research & Development,2,18880,17312,300,56,5,Manager,3,5,No,24,22,6,4,14,No
+2032,56,Male,Married,2,Engineering,rarely,Research & Development,7,2339,3666,310,72,1,Laboratory Technician,3,8,No,14,10,9,9,8,Yes
+2034,41,Female,Married,4,Social Sciences,rarely,Research & Development,28,13570,5640,582,60,4,Manufacturing Director,2,0,No,21,20,7,0,10,No
+2035,34,Female,Married,3,Business,rarely,Sales,28,6712,8978,704,95,2,Sales Executive,3,1,No,8,8,7,1,7,No
+2036,36,Male,Divorced,4,Business,none,Sales,15,5406,10436,301,88,2,Sales Executive,4,1,No,15,15,12,11,11,No
+2037,41,Male,Divorced,3,Social Sciences,rarely,Sales,3,8938,12227,930,57,2,Sales Executive,2,2,No,14,5,4,0,4,No
+2038,32,Male,Single,3,Engineering,rarely,Research & Development,2,2439,11288,529,78,1,Research Scientist,1,1,No,4,4,2,1,2,No
+2040,35,Female,Single,4,Social Sciences,rarely,Human Resources,26,8837,16642,1146,31,3,Human Resources,4,1,Yes,9,9,0,1,7,No
+2041,38,Female,Married,2,Social Sciences,rarely,Sales,10,5343,5982,345,100,2,Sales Executive,4,1,No,10,10,7,1,9,No
+2044,50,Male,Divorced,4,Social Sciences,frequently,Sales,1,6728,14255,878,94,2,Sales Executive,3,7,No,12,6,3,0,1,Yes
+2045,36,Female,Married,4,Business,rarely,Sales,11,6652,14369,1120,100,2,Sales Executive,4,4,No,8,6,3,0,0,No
+2046,45,Female,Single,3,Social Sciences,rarely,Sales,20,4850,23333,374,50,2,Sales Executive,3,8,No,8,5,3,0,1,No
+2048,40,Male,Single,4,Social Sciences,rarely,Research & Development,2,2809,2725,1322,52,1,Research Scientist,3,2,No,8,2,2,2,2,No
+2049,35,Male,Married,4,Social Sciences,frequently,Research & Development,18,5689,24594,1199,80,2,Healthcare Representative,3,1,Yes,10,10,2,0,2,No
+2051,40,Female,Married,4,Health Science,rarely,Research & Development,2,2001,12549,1194,98,1,Research Scientist,3,2,No,20,5,3,0,2,No
+2052,35,Female,Married,4,Social Sciences,rarely,Research & Development,1,2977,8952,287,62,1,Research Scientist,4,1,No,4,4,3,1,1,No
+2053,29,Male,Married,2,Other,rarely,Research & Development,13,4025,23679,1378,46,2,Laboratory Technician,2,4,Yes,10,4,3,0,3,No
+2054,29,Female,Single,4,Health Science,rarely,Research & Development,28,3785,8489,468,73,1,Research Scientist,1,1,No,5,5,4,0,4,No
+2055,50,Male,Divorced,3,Business,rarely,Sales,28,10854,16586,410,39,3,Sales Executive,1,4,Yes,20,3,2,2,0,Yes
+2056,39,Female,Married,1,Business,rarely,Sales,24,12031,8828,722,60,4,Sales Executive,4,0,No,21,20,9,9,6,No
+2057,31,Male,Single,3,Health Science,none,Research & Development,5,9936,3787,325,74,2,Manufacturing Director,1,0,No,10,9,4,1,7,No
+2060,26,Female,Single,3,Other,rarely,Sales,5,2966,21378,1167,30,1,Sales Representative,3,0,No,5,4,2,0,0,No
+2061,36,Male,Married,2,Health Science,frequently,Research & Development,23,2571,12290,884,41,2,Laboratory Technician,4,4,No,17,5,2,0,3,No
+2062,39,Male,Married,1,Health Science,rarely,Research & Development,6,9991,21457,613,42,3,Healthcare Representative,1,4,No,9,7,7,1,7,No
+2064,27,Male,Married,3,Social Sciences,rarely,Research & Development,4,6142,5174,155,87,2,Manufacturing Director,2,1,Yes,6,6,2,0,3,No
+2065,49,Male,Married,3,Health Science,frequently,Sales,2,5390,13243,1023,63,2,Sales Executive,2,2,No,17,9,6,0,8,No
+2068,34,Male,Married,3,Health Science,rarely,Research & Development,8,4404,10228,628,82,2,Laboratory Technician,3,2,No,6,4,3,1,2,No
