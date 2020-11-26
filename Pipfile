@@ -14,6 +14,7 @@ torch = "*"
 markdown = "*"
 seaborn = "*"
 pillow = "*"
+implicit = "*"
 
 [dev-packages]
 
