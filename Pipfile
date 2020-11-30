@@ -17,6 +17,7 @@ pillow = "*"
 implicit = "*"
 keras = "*"
 pdf2image = "*"
+importlib-metadata = "*"
 
 [dev-packages]
 
