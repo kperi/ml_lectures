@@ -21,6 +21,7 @@ importlib-metadata = "*"
 gensim = "*"
 spacy = "*"
 flair = "*"
+nltk = "*"
 
 [dev-packages]
 
