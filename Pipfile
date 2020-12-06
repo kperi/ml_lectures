@@ -18,6 +18,10 @@ implicit = "*"
 keras = "*"
 pdf2image = "*"
 importlib-metadata = "*"
+gensim = "*"
+spacy = "*"
+flair = "*"
+nltk = "*"
 
 [dev-packages]
 
