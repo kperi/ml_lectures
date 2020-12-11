@@ -22,6 +22,11 @@ gensim = "*"
 spacy = "*"
 flair = "*"
 nltk = "*"
+wikipedia2vec = "*"
+fasttext = "*"
+lime = "*"
+great-expectations = "*"
+mlflow = {extras = ["extras"], version = "*"}
 
 [dev-packages]
 
